@@ -1,5 +1,4 @@
 
 mitmproxy/
-./.idea/
-./.idea/*
+.idea/*
 .idea/test.txt
