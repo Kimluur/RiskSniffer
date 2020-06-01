@@ -1,2 +1,6 @@
 
 mitmproxy/
+
+.idea/
+
+.idea/*
