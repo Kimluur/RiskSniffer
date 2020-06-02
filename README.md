@@ -1,5 +1,5 @@
 # RiskSniffer
- A http(s) Sniffer in python that tries to determine a risks by textmining algorithms 
+ A http(s) Sniffer in python that tries to determine risks by textmining/analysis algorithms 
  
 All my code is written in Src.
  
