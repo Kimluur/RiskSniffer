@@ -134,7 +134,7 @@ class UrlIndexAddon:
                 be given as str or as flowfilter.TFilter
             index_format: The format of the URL index, can either be "json" or "text".
         """
-
+        print("AAAAAAAAAAAAAAAAA")
         if isinstance(index_filter, str):
             self.index_filter = flowfilter.parse(index_filter)
             if self.index_filter is None:
@@ -154,6 +154,7 @@ class UrlIndexAddon:
         self.writer.load()
 
     def response(self, flow: HTTPFlow):
+
         """Checks if the response should be included in the URL based on the index_filter and adds it to the URL index
             if appropriate.
         """
