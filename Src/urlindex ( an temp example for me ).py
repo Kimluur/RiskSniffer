@@ -24,7 +24,9 @@ class UrlIndexWriter(abc.ABC):
         Args:
             filename: Path to file to which the URL index will be written.
         """
-        self.filepath = filename
+        self.filepath = "C:/Users/Orang/PycharmProjects/Ipass/Src/test12.txt"
+        print("can i test now?")
+        raise ValueError("test to check if prints work")
 
     @abc.abstractmethod
     def load(self):
