@@ -11,3 +11,4 @@ All my code is written in Src.
 	Rightnow the program is a work in progress, but later you will be able to run the main file in src, what will run the whole program
 
 Dont forget to install the certs in the browsers, and windows. There is a windows installer in commandline, but for example firefox  I could not figure out how to auto install the selfmade cert. 
+Also setup the proxy for localhost:8080 , This way the internet traffic get's rerouted through the program. Also nice added bonus: If you keep the proxy on, and someone closes this program's process they wont be able to access the internet anymore.
