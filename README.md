@@ -13,7 +13,8 @@ All my code is written in Src. Almost all comments are in Dutch, because the com
 Dont forget to install the certs in the browsers, and windows. 
 There is a windows installer in commandline(certutil), but for example Firefox I could not figure out how to auto install the selfmade cert. 
 
-There are going to be 2 modes this proxy sniffer might work: 
+
+There are going to be 2 modes this proxy sniffer might be utilized: 
 
 1. Install this full program on a desktop that you want to monitor, and make the path to save the log's a shared folder on the network. ( no central server needed, and faster analysis since everycomputer analyses their own traffic.) ( fast but less secure.)
 
