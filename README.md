@@ -34,6 +34,9 @@ Install this full program on a desktop/server computer with alot/decent amount o
 Install a proxy redirect on all desktops towards this pc's IP-Adress + port 8080. 
 ( program will not be edittable from the other pc's + chance of this program being detected(and abused) by the user is a-lot lower, But the internet traffic might be a bit slower, since all traffic is re routed to one pc and then being analysed on the same desktop. )( Secure but slower internet speeds(if the central server does not have enough ram.) )
 
+
+
+
 To run this program without the Startup.py(todo: make startup.py) enter following commands:
 
 		cd "yourpathhere"\mitmproxy
