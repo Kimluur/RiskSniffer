@@ -18,9 +18,14 @@ Install a proxy redirect on all desktops towards this pc's IP-Adress + port 8080
 ( program will not be edittable from the other pc's + chance of this program being detected(and abused) by the user is a-lot lower, But the internet traffic might be a bit slower, since all traffic is re routed to one pc and then being analysed on the same desktop. )( Secure but slower internet speeds(if the central server does not have enough ram.) )
 
 To run this program without the Startup.py(todo: make startup.py) enter following commands:
+
 		cd "yourpathhere"\mitmproxy
+		
 		venv\Scripts\activate
+		
 		mitmdump -s C:\Users\Orang\PycharmProjects\Ipass\Src\Main.py -q (for local server on port 8080)
+		
 		mitmdump -s C:\Users\Orang\PycharmProjects\Ipass\Src\Main.py -q --listen-host "host ip here" ( for externalproxy 		support)
+		
 Check mitmdump --help for more intresting options! ( some might break the program, be warned!)
 
