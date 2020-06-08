@@ -17,7 +17,7 @@ To be able to run this project, you need to add the DEV version of MITM-proxy to
 
 # There are going to be 2 modes this proxy sniffer might be utilized: 
 
-1. Install this full program on a desktop that you want to monitor, and make the path to save the log's a shared folder on the network. ( no central server needed, and faster analysis since everycomputer analyses their own traffic.) ( fast but less secure.)
+1. Install this full program on a desktop that you want to monitor, and make the path to save the log's on a shared folder on the network. ( no central server needed, and faster analysis since everycomputer analyses their own traffic.) ( fast but less secure.)
 
 2. Install this full program on a desktop/server computer with alot/decent amount of proccessing power. 
 Install a proxy redirect on all desktops towards this pc's IP-Adress + port 8080. 
