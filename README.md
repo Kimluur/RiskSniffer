@@ -16,13 +16,13 @@
  
 ## How to install
 
-install the certs in the browsers, and windows of the hosts you want to sniff/analyse. ( from C:\Users\"your host/user here"\.mitmproxy by default) (Will showup after running the mitmdump command once.) 
+* install the certs in the browsers, and windows of the hosts you want to sniff/analyse. ( from C:\Users\"your host/user here"\.mitmproxy by default) (Will showup after running the mitmdump command once.) 
 
-configure the config file in de /src folder for your use case.
+* configure the config file in de /src folder for your use case.
 
 There is a windows installer in commandline(certutil), but for example Firefox I could not figure out how to auto install the selfmade cert. 
 
-To be able to run this project, you need to add the DEV version of MITM-proxy to this folder with the standard name: mitmproxy
+*To be able to run this project, you need to add the DEV version of MITM-proxy to this folder with the standard name: mitmproxy
 
 ### Choose from the 2 following modes: 
 
@@ -37,7 +37,7 @@ Install a proxy redirect on all desktops towards this pc's IP-Adress + port 8080
 
 
 
-To run this program without the Startup.py(todo: make startup.py) enter following commands:
+* To run this program without the Startup.py(todo: make startup.py) enter following commands:
 
 		cd "yourpathhere"\mitmproxy
 		
