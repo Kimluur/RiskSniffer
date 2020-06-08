@@ -1,0 +1,442 @@
+GET /_sockets/VjI6NTQwNTQ4MDY3OjdiMDNkMTcxZGQwMWU2OWZkOWFhZDA3NTYxMjEyNTdlMzhhYjkxNWU3YTZmYzNmMjY5ZWMxMjQ2NzYxYzVlMmU=--5b307dbfc72b53a40de8afc13d2188723ea72593 HTTP/1.1
+
+Host: live.github.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Sec-WebSocket-Version: 13
+
+Origin: https://github.com
+
+Sec-WebSocket-Extensions: permessage-deflate
+
+Sec-WebSocket-Key: cTB+HvNQjHUo/Wq00eM3Hw==
+
+Connection: keep-alive, Upgrade
+
+Cookie: _octo=GH1.1.1259769642.1589191183; logged_in=yes; _ga=GA1.2.446930491.1589191184; dotcom_user=mickers13; tz=Europe%2FAmsterdam
+
+Pragma: no-cache
+
+Cache-Control: no-cache
+
+Upgrade: websocket
+
+
+
+GET /mitmproxy/mitmproxy/issues/1487 HTTP/1.1
+
+Host: github.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Cookie: _octo=GH1.1.1259769642.1589191183; logged_in=yes; _ga=GA1.2.446930491.1589191184; _device_id=c7cc38065f21f4dc5bd64d1db1ff3599; user_session=n50Rb-Y-gOFs4VkUv_DpOpyhNUFDWyakyKayIAaPpp5APMwJ; __Host-user_session_same_site=n50Rb-Y-gOFs4VkUv_DpOpyhNUFDWyakyKayIAaPpp5APMwJ; dotcom_user=mickers13; has_recent_activity=1; tz=Europe%2FAmsterdam; _gh_sess=2v5dbnAfjsFQwOrA2pg%2BOIuLaJNBNPYtz18NR6qHImmKVSKsOUTAsVCc7YzBSTDBMMjutp82M64ZMC%2BdhcnxDPbh7XW89gw3PBZevTR1s0XDkeodBr2hgb4m%2B3DPME6B%2BFKn742XkA1xb3vkYhOxbGRknxg%2F0cFYXgy7kM7h06w%3D--jwx3U6DkqgtrsnGW--H2CzcQEVGAxWVD8e42gozw%3D%3D
+
+Upgrade-Insecure-Requests: 1
+
+DNT: 1
+
+If-None-Match: W/"28a04a3d4ade25269a3aa9a645dd3780"
+
+
+
+GET /u/1449512?s=52&v=4 HTTP/1.1
+
+Host: avatars1.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Sat, 28 Sep 2013 16:09:35 GMT
+
+
+
+GET /u/54250862?s=40&v=4 HTTP/1.1
+
+Host: avatars2.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Sat, 05 Jun 2010 14:51:30 GMT
+
+If-None-Match: "cefec785255599c742f69b2c47435dbeec931554"
+
+
+
+GET /u/6292938?s=52&v=4 HTTP/1.1
+
+Host: avatars3.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Mon, 06 Jun 2016 13:01:01 GMT
+
+If-None-Match: "a9ed1f37f3311ba3264b83b29da464497ea38dff"
+
+
+
+GET /u/54250862?s=60&v=4 HTTP/1.1
+
+Host: avatars1.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Sat, 17 Apr 2010 13:44:16 GMT
+
+If-None-Match: "cefec785255599c742f69b2c47435dbeec931554"
+
+
+
+GET /u/1449512?s=60&v=4 HTTP/1.1
+
+Host: avatars3.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Sat, 28 Sep 2013 16:09:35 GMT
+
+
+
+GET /u/6292938?s=88&u=f773fa1592ce70fe1dac0a9ba8ad52871f984e48&v=4 HTTP/1.1
+
+Host: avatars1.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Mon, 06 Jun 2016 13:01:01 GMT
+
+If-None-Match: "9dae5c334185813a4988d795dea19971a7d0f0f4"
+
+
+
+GET /u/6292938?s=60&u=f773fa1592ce70fe1dac0a9ba8ad52871f984e48&v=4 HTTP/1.1
+
+Host: avatars2.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Mon, 06 Jun 2016 13:01:01 GMT
+
+If-None-Match: "ac1716e4574ee522fbc321378fe4ecd939528c5b"
+
+
+
+GET /u/630613?s=60&u=c408e35d325570ad0d9822dbb014be751352ccdb&v=4 HTTP/1.1
+
+Host: avatars2.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Mon, 18 Jun 2018 10:14:46 GMT
+
+If-None-Match: "52c8299470c7c51a812db330d8b1cc69360836c8"
+
+
+
+GET /u/630613?s=88&u=c408e35d325570ad0d9822dbb014be751352ccdb&v=4 HTTP/1.1
+
+Host: avatars1.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Mon, 18 Jun 2018 10:14:46 GMT
+
+If-None-Match: "d01c971845f804bca0572c0aca01f3f91002bf51"
+
+
+
+GET /u/1449512?s=88&v=4 HTTP/1.1
+
+Host: avatars2.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Sat, 28 Sep 2013 16:09:35 GMT
+
+
+
+GET /u/54250862?s=80&v=4 HTTP/1.1
+
+Host: avatars1.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Sat, 05 Jun 2010 14:51:30 GMT
+
+If-None-Match: "cefec785255599c742f69b2c47435dbeec931554"
+
+
+
+GET /u/630613?s=52&v=4 HTTP/1.1
+
+Host: avatars0.githubusercontent.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+DNT: 1
+
+If-Modified-Since: Mon, 18 Jun 2018 10:14:46 GMT
+
+If-None-Match: "5a1d61d4330fdcf74dfa7878c9760c15de62d43f"
+
+
+
+GET /users/mickers13/feature_preview/indicator_check HTTP/1.1
+
+Host: github.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: application/json
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+X-Requested-With: XMLHttpRequest
+
+Connection: keep-alive
+
+Cookie: _octo=GH1.1.1259769642.1589191183; logged_in=yes; _ga=GA1.2.446930491.1589191184; _device_id=c7cc38065f21f4dc5bd64d1db1ff3599; user_session=n50Rb-Y-gOFs4VkUv_DpOpyhNUFDWyakyKayIAaPpp5APMwJ; __Host-user_session_same_site=n50Rb-Y-gOFs4VkUv_DpOpyhNUFDWyakyKayIAaPpp5APMwJ; dotcom_user=mickers13; has_recent_activity=1; tz=Europe%2FAmsterdam; _gh_sess=MHpe93jxddD7fUyIsZUDj9hytx81sAfZTrAtpO0HJR99HWKHI%2BvnHlv6JJEUjaI0D4cbwSsvK4%2FQlWl3xUpJcvbXiI66RfeYzV6Ytc6c0wbD1axIhLlxwH6d8ifjdMpwimt0piWRqUFRxZraFFq0Kchjq0WzOEfegJpf0QaSVRc%3D--cCyRbm1m5AEcvwhc--aRYlFEeR%2FgY0pSJs%2FhKTJQ%3D%3D
+
+DNT: 1
+
+If-None-Match: W/"b086cd16a5d1e1190981cda623503729"
+
+
+
+GET /_sockets/VjI6NTQwNTQ4MDY3OmFmZjgyYmI1MmVjNGYyZjAyNGVkZTdmYmNkMTM1ZTRiY2Y0MDc1MmEyYTg3OTUxMWZhY2I1Yjg3NjZiZjE5MmE=--be11289aa53e57eff9cc2c3578c8ae18563dc0ce HTTP/1.1
+
+Host: live.github.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Sec-WebSocket-Version: 13
+
+Origin: https://github.com
+
+Sec-WebSocket-Extensions: permessage-deflate
+
+Sec-WebSocket-Key: Z7wpU1T3rWJ/K9NTUr/4Ww==
+
+Connection: keep-alive, Upgrade
+
+Cookie: _octo=GH1.1.1259769642.1589191183; logged_in=yes; _ga=GA1.2.446930491.1589191184; dotcom_user=mickers13; tz=Europe%2FAmsterdam
+
+Pragma: no-cache
+
+Cache-Control: no-cache
+
+Upgrade: websocket
+
+
+
+GET /mitmproxy/mitmproxy/security/overall-count HTTP/1.1
+
+Host: github.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: application/json
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Referer: https://github.com/mitmproxy/mitmproxy/issues/1487
+
+X-Requested-With: XMLHttpRequest
+
+Connection: keep-alive
+
+Cookie: _octo=GH1.1.1259769642.1589191183; logged_in=yes; _ga=GA1.2.446930491.1589191184; _device_id=c7cc38065f21f4dc5bd64d1db1ff3599; user_session=n50Rb-Y-gOFs4VkUv_DpOpyhNUFDWyakyKayIAaPpp5APMwJ; __Host-user_session_same_site=n50Rb-Y-gOFs4VkUv_DpOpyhNUFDWyakyKayIAaPpp5APMwJ; dotcom_user=mickers13; has_recent_activity=1; tz=Europe%2FAmsterdam; _gh_sess=MHpe93jxddD7fUyIsZUDj9hytx81sAfZTrAtpO0HJR99HWKHI%2BvnHlv6JJEUjaI0D4cbwSsvK4%2FQlWl3xUpJcvbXiI66RfeYzV6Ytc6c0wbD1axIhLlxwH6d8ifjdMpwimt0piWRqUFRxZraFFq0Kchjq0WzOEfegJpf0QaSVRc%3D--cCyRbm1m5AEcvwhc--aRYlFEeR%2FgY0pSJs%2FhKTJQ%3D%3D
+
+DNT: 1
+
+If-None-Match: W/"180ceef99cae8f0966fb32274c21b054"
+
+
+
+GET /fluidicon.png HTTP/1.1
+
+Host: github.com
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+
+Accept: image/webp,*/*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+Connection: keep-alive
+
+Cookie: _octo=GH1.1.1259769642.1589191183; logged_in=yes; _ga=GA1.2.446930491.1589191184; _device_id=c7cc38065f21f4dc5bd64d1db1ff3599; user_session=n50Rb-Y-gOFs4VkUv_DpOpyhNUFDWyakyKayIAaPpp5APMwJ; __Host-user_session_same_site=n50Rb-Y-gOFs4VkUv_DpOpyhNUFDWyakyKayIAaPpp5APMwJ; dotcom_user=mickers13; has_recent_activity=1; tz=Europe%2FAmsterdam; _gh_sess=A4A2hxv486eEVWF3f68b3ouDynZ7cwbzw%2FHnpJXyIlF5lAVwGHTAem56NLzcq3tISYn0IuMz5dT5CsCIOOdzjxFPyLUDE6ZZRXG2ZPetKoYVfsulEvl42PkcTeQDMyEi1M%2FjnJ0EbiTW3%2BhjycMCPdyPPT46Ie0nvR3jcxUIWY0%3D--sMKxWSWM2Va3zXqI--VakolmWI9qFB5LL0LqeDvA%3D%3D
+
+DNT: 1
+
+
+

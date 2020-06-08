@@ -1,0 +1,2381 @@
+lemitization at DuckDuckGovar ct,fd,fq,it,iqa,iqm,iqs,iqp,iqq,qw,dl,ra,rv,rad,r1hc,r1c,r2c,r3c,rfq,rq,rds,rs,rt,rl,y,y1,ti,tig,iqd,locale,settings_js_version='s2475.js',is_twitter='',rpl=1;fq=0;fd=1;it=0;iqa=0;iqbi=0;iqm=0;iqs=0;iqp=0;iqq=0;qw=1;dl='en';ct='NL';iqd=0;r1hc=0;r1c=0;r3c=0;rq='lemitization';rqd="lemitization";rfq=0;rt='';ra='ffab';rv='';rad='';rds=30;rs=0;spice_version='2000';spice_paths='{}';locale='en_US';settings_url_params={};rl='us-en';rlo=0;df='';ds='';sfq='';iar='';vqd='3-48718188908647590945057387154772172034-160956174700183943726043304498625587762';safe_ddg=0;show_covid=0;Ignore this box please.DuckDuckGoYou are being redirected to the non-JavaScript site.Click here if it doesn't happen automatically. function nrji() {nrj('/t.js?q=lemitization&l=us-en&s=0&dl=en&ct=NL&ss_mkt=us&p_ent=&ex=-1');nrj('/d.js?q=lemitization&l=us-en&s=0&a=ffab&dl=en&ct=NL&ss_mkt=us&vqd=3-48718188908647590945057387154772172034-160956174700183943726043304498625587762&p_ent=&ex=-1&sp=1');;};DDG.ready(nrji, 1);DDG.page = new DDG.Pages.SERP({ showSafeSearch: 0, instantAnswerAds: false }); DDG.duckbar.future_signal_tab({signal:'medium',from:'deep_answer'});DDG.duckbar.add({"data":{"ImageWidth":0,"AbstractURL":"https://en.wikipedia.org/wiki/Lemmatisation","AnswerType":"","meta":{"unsafe":0,"producer":null,"perl_module":"DDG::Fathead::Wikipedia","blockgroup":null,"js_callback_name":"wikipedia","src_id":1,"src_name":"Wikipedia","topic":["productivity"],"src_options":{"language":"en","src_info":"","min_abstract_length":"20","is_fanon":0,"skip_abstract_paren":0,"skip_end":"0","skip_abstract":0,"directory":"","is_mediawiki":1,"skip_icon":0,"source_skip":"","skip_image_name":0,"skip_qr":"","is_wikipedia":1},"src_domain":"en.wikipedia.org","maintainer":{"github":"duckduckgo"},"dev_milestone":"live","designer":null,"developer":[{"url":"http://www.duckduckhack.com","name":"DDG Team","type":"ddg"}],"description":"Wikipedia","src_url":null,"created_date":null,"signal_from":"wikipedia_fathead","repo":"fathead","example_query":"nikola tesla","status":"live","dev_date":null,"id":"wikipedia_fathead","live_date":null,"attribution":null,"is_stackexchange":null,"name":"Wikipedia","production_state":"online","tab":"About"},"Definition":"","Answer":"","Infobox":"","RelatedTopics":[{"Result":"Canonicalization - In computer science, canonicalization is a process for converting data that has more than one possible representation into a \"standard\", \"normal\", or canonical form.","Icon":{"Width":"","Height":"","URL":""},"Text":"Canonicalization - In computer science, canonicalization is a process for converting data that has more than one possible representation into a \"standard\", \"normal\", or canonical form.","FirstURL":"https://duckduckgo.com/Canonicalization"},{"FirstURL":"https://duckduckgo.com/c/Tasks_of_natural_language_processing","Text":"Tasks of natural language processing","Result":"Tasks of natural language processing","Icon":{"URL":"","Height":"","Width":""}},{"Text":"Computational linguistics","Icon":{"URL":"","Height":"","Width":""},"Result":"Computational linguistics","FirstURL":"https://duckduckgo.com/c/Computational_linguistics"}],"Abstract":"Lemmatisation in linguistics is the process of grouping together the inflected forms of a word so they can be analysed as a single item, identified by the word's lemma, or dictionary form.","AbstractSource":"Wikipedia","DefinitionSource":"","AbstractText":"Lemmatisation in linguistics is the process of grouping together the inflected forms of a word so they can be analysed as a single item, identified by the word's lemma, or dictionary form.","Image":"","Redirect":"","ImageIsLogo":0,"DefinitionURL":"","Results":[],"ImageHeight":0,"Heading":"Lemmatisation","Entity":"","Type":"A"},"model":"FatheadArticle","duckbar_topic":"About","signal":"medium","pixel_id":"wikipedia_fathead_deep","templates":{"detail":"info_detail"},"from":"deep_answer","meta":{"unsafe":0,"producer":null,"perl_module":"DDG::Fathead::Wikipedia","blockgroup":null,"js_callback_name":"wikipedia","src_id":1,"src_name":"Wikipedia","topic":["productivity"],"src_options":{"language":"en","src_info":"","min_abstract_length":"20","is_fanon":0,"skip_abstract_paren":0,"skip_end":"0","skip_abstract":0,"directory":"","is_mediawiki":1,"skip_icon":0,"source_skip":"","skip_image_name":0,"skip_qr":"","is_wikipedia":1},"src_domain":"en.wikipedia.org","maintainer":{"github":"duckduckgo"},"dev_milestone":"live","designer":null,"developer":[{"url":"http://www.duckduckhack.com","name":"DDG Team","type":"ddg"}],"description":"Wikipedia","src_url":null,"created_date":null,"signal_from":"wikipedia_fathead","repo":"fathead","example_query":"nikola tesla","status":"live","dev_date":null,"id":"wikipedia_fathead","live_date":null,"attribution":null,"is_stackexchange":null,"name":"Wikipedia","production_state":"online","tab":"About"}});DDG.page.showMessage('spelling',{"suggestionVqd":"3-54120914043414277976737070288367137185-160956174700183943726043304498625587762","recourseText":""lemitization"","type":"IRF","link":"lemmatization","qc":1,"recourseLink":"%22lemitization%22","exp":0,"suggestion":"lemmatization"});DDG.deep.bingv7aa = 1;DDG.page.ads.setBucket && DDG.page.ads.setBucket('tas1');DDG.deep.bn={'ivc':1,'ibc':0};if (DDG.pageLayout) DDG.pageLayout.load('a',[]);DDG.duckbar.future_signal_tab({signal:'medium',from:'deep_answer'});DDG.duckbar.add({"pixel_id":"wikipedia_fathead_deep","duckbar_topic":"About","meta":{"created_date":null,"is_stackexchange":null,"developer":[{"name":"DDG Team","url":"http://www.duckduckhack.com","type":"ddg"}],"production_state":"online","js_callback_name":"wikipedia","src_name":"Wikipedia","producer":null,"src_url":null,"src_domain":"en.wikipedia.org","example_query":"nikola tesla","designer":null,"status":"live","name":"Wikipedia","unsafe":0,"blockgroup":null,"src_options":{"language":"en","skip_abstract":0,"skip_qr":"","skip_abstract_paren":0,"is_fanon":0,"is_mediawiki":1,"directory":"","skip_end":"0","src_info":"","is_wikipedia":1,"skip_image_name":0,"skip_icon":0,"min_abstract_length":"20","source_skip":""},"description":"Wikipedia","src_id":1,"dev_milestone":"live","dev_date":null,"topic":["productivity"],"attribution":null,"tab":"About","live_date":null,"signal_from":"wikipedia_fathead","perl_module":"DDG::Fathead::Wikipedia","repo":"fathead","maintainer":{"github":"duckduckgo"},"id":"wikipedia_fathead"},"from":"deep_answer","model":"FatheadArticle","data":{"Type":"A","meta":{"created_date":null,"is_stackexchange":null,"developer":[{"name":"DDG Team","url":"http://www.duckduckhack.com","type":"ddg"}],"production_state":"online","js_callback_name":"wikipedia","src_name":"Wikipedia","producer":null,"src_url":null,"src_domain":"en.wikipedia.org","example_query":"nikola tesla","designer":null,"status":"live","name":"Wikipedia","unsafe":0,"blockgroup":null,"src_options":{"language":"en","skip_abstract":0,"skip_qr":"","skip_abstract_paren":0,"is_fanon":0,"is_mediawiki":1,"directory":"","skip_end":"0","src_info":"","is_wikipedia":1,"skip_image_name":0,"skip_icon":0,"min_abstract_length":"20","source_skip":""},"description":"Wikipedia","src_id":1,"dev_milestone":"live","dev_date":null,"topic":["productivity"],"attribution":null,"tab":"About","live_date":null,"signal_from":"wikipedia_fathead","perl_module":"DDG::Fathead::Wikipedia","repo":"fathead","maintainer":{"github":"duckduckgo"},"id":"wikipedia_fathead"},"AbstractSource":"Wikipedia","Results":[],"ImageWidth":0,"Answer":"","Entity":"","DefinitionURL":"","RelatedTopics":[{"Result":"Canonicalization - In computer science, canonicalization is a process for converting data that has more than one possible representation into a \"standard\", \"normal\", or canonical form.","Icon":{"Height":"","URL":"","Width":""},"Text":"Canonicalization - In computer science, canonicalization is a process for converting data that has more than one possible representation into a \"standard\", \"normal\", or canonical form.","FirstURL":"https://duckduckgo.com/Canonicalization"},{"FirstURL":"https://duckduckgo.com/c/Tasks_of_natural_language_processing","Text":"Tasks of natural language processing","Icon":{"Width":"","URL":"","Height":""},"Result":"Tasks of natural language processing"},{"Icon":{"Height":"","Width":"","URL":""},"Text":"Computational linguistics","FirstURL":"https://duckduckgo.com/c/Computational_linguistics","Result":"Computational linguistics"}],"Infobox":"","DefinitionSource":"","AbstractURL":"https://en.wikipedia.org/wiki/Lemmatisation","Redirect":"","Definition":"","Heading":"Lemmatisation","AnswerType":"","ImageHeight":0,"AbstractText":"Lemmatisation in linguistics is the process of grouping together the inflected forms of a word so they can be analysed as a single item, identified by the word's lemma, or dictionary form.","ImageIsLogo":0,"Image":"","Abstract":"Lemmatisation in linguistics is the process of grouping together the inflected forms of a word so they can be analysed as a single item, identified by the word's lemma, or dictionary form."},"signal":"medium","templates":{"detail":"info_detail"}});DDG.page.showMessage('spelling',{"exp":0,"link":"lemmatization","recourseText":""lemitization"","recourseLink":"%22lemitization%22","qc":1,"type":"IRF","suggestion":"lemmatization","suggestionVqd":"3-54121845766605361017898438797823968177-160956174700183943726043304498625587762"});DDG.inject('DDG.Data.languages.resultLanguages', {"en":["https://en.wikipedia.org/wiki/Lemmatisation","https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html","https://www.machinelearningplus.com/nlp/lemmatization-examples-python/","https://www.geeksforgeeks.org/python-lemmatization-with-nltk/","https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/","https://www.datacamp.com/community/tutorials/stemming-lemmatization-python","https://stackoverflow.com/questions/1787110/what-is-the-difference-between-lemmatization-vs-stemming","https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/preprocess-text","https://dictionary.cambridge.org/us/dictionary/english/lemmatization","https://www.tutorialspoint.com/python_data_science/python_stemming_and_lemmatization.htm","http://www.ideaeng.com/stemming-lemmatization-0601","https://stackabuse.com/python-for-nlp-tokenization-stemming-and-lemmatization-with-spacy-library/","https://pythonprogramming.net/lemmatizing-nltk-tutorial/","https://opendatagroup.github.io/data%20science/2019/03/21/preprocessing-text.html","https://spacy.io/api/lemmatizer/","https://blog.bitext.com/lemmatization-a-tool-to-use-while-developing-a-chatbot","https://www.guru99.com/stemming-lemmatization-python-nltk.html","https://www.techopedia.com/definition/33256/lemmatization","https://www.geeksforgeeks.org/python-pos-tagging-and-lemmatization-using-spacy/","http://text-processing.com/demo/stem/","https://www.thefreedictionary.com/lemmatization","https://towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8","https://www.quora.com/What-is-lemmatization-in-NLP?share=1","https://www.dictionary.com/browse/lemmatize","https://pythonspot.com/nltk-stemming/","https://www.merriam-webster.com/dictionary/lemmatize","https://queryunderstanding.com/stemming-and-lemmatization-6c086742fe45","https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781789801156/1/ch01lvl1sec17/training-an-opennlp-lemmatization-model","http://blog.chapagain.com.np/python-nltk-stemming-lemmatization-natural-language-processing-nlp/","https://exceptionshub.com/what-is-the-true-difference-between-lemmatization-vs-stemming.html"]});DDG.inject('DDG.Data.languages.adLanguages', {});if (DDG.pageLayout) DDG.pageLayout.load('d',[{"s":"bingv7aa","k":null,"d":"en.wikipedia.org/wiki/Lemmatisation","o":0,"ae":null,"b":"w\tWikipedia\ten.wikipedia.org","t":"Lemmatisation - Wikipedia","da":"en_wikipedia_queries,nlp_fathead,nlp_wiki","h":0,"c":"https://en.wikipedia.org/wiki/Lemmatisation","i":"en.wikipedia.org","u":"https://en.wikipedia.org/wiki/Lemmatisation","p":0,"m":0,"a":"Lemmatisation (or lemmatization) in linguistics is the process of grouping together the inflected forms of a word so they can be analysed as a single item, identified by the word's lemma, or dictionary form.. In computational linguistics, lemmatisation is the algorithmic process of determining the lemma of a word based on its intended meaning. Unlike stemming, lemmatisation depends on ..."},{"p":0,"m":0,"a":"Stemming and lemmatization. For grammatical reasons, documents are going to use different forms of a word, such as organize, organizes, and organizing. Additionally, there are families of derivationally related words with similar meanings, such as democracy, democratic, and democratization. In many situations, it seems as if it would be useful ...","i":"nlp.stanford.edu","u":"https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html","da":"","h":0,"c":"https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html","k":null,"s":"bingv7aa","o":0,"d":"nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html","ae":null,"t":"Stemming and lemmatization - Stanford NLP Group"},{"s":"bingv7aa","k":null,"i":"www.machinelearningplus.com","d":"www.machinelearningplus.com/nlp/lemmatization-examples-python/","ae":null,"o":0,"u":"https://www.machinelearningplus.com/nlp/lemmatization-examples-python/","t":"Lemmatization Approaches with Examples in Python","da":"","p":0,"h":0,"m":0,"c":"https://www.machinelearningplus.com/nlp/lemmatization-examples-python/","a":"Lemmatization is the process of converting a word to its base form. The difference between stemming and lemmatization is, lemmatization considers the context and converts the word to its meaningful base form, whereas stemming just removes the last few characters, often leading to incorrect meanings and spelling errors."},{"c":"https://www.geeksforgeeks.org/python-lemmatization-with-nltk/","h":0,"da":"","t":"Python | Lemmatization with NLTK - GeeksforGeeks","ae":null,"d":"www.geeksforgeeks.org/python-lemmatization-with-nltk/","o":0,"s":"bingv7aa","k":null,"a":"Python | Lemmatization with NLTK Lemmatization is the process of grouping together the different inflected forms of a word so they can be analysed as a single item. Lemmatization is similar to stemming but it brings context to the words.","m":0,"p":0,"u":"https://www.geeksforgeeks.org/python-lemmatization-with-nltk/","i":"www.geeksforgeeks.org"},{"t":"What is the difference between stemming and lemmatization?","s":"bingv7aa","k":null,"d":"blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/","o":0,"ae":null,"h":0,"c":"https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/","da":"","u":"https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/","i":"blog.bitext.com","m":0,"a":"The aim of stemming and lemmatization is the same: reducing the inflectional forms from each word to a common base or root. But the results achieved are very different. In this article we will go over these differences along with some examples in several languages.","p":0},{"da":"","p":0,"h":0,"m":0,"a":"Stemming and Lemmatization are Text Normalization (or sometimes called Word Normalization) techniques in the field of Natural Language Processing that are used to prepare text, words, and documents for further processing. Stemming and Lemmatization have been studied, and algorithms have been developed in Computer Science since the 1960's.","c":"https://www.datacamp.com/community/tutorials/stemming-lemmatization-python","s":"bingv7aa","k":null,"i":"www.datacamp.com","d":"www.datacamp.com/community/tutorials/stemming-lemmatization-python","o":0,"ae":null,"u":"https://www.datacamp.com/community/tutorials/stemming-lemmatization-python","t":"Stemming and Lemmatization in Python - DataCamp"},{"u":"https://stackoverflow.com/questions/1787110/what-is-the-difference-between-lemmatization-vs-stemming","i":"stackoverflow.com","a":"Lemmatization usually refers to doing things properly with the use of a vocabulary and morphological analysis of words, normally aiming to remove inflectional endings only and to return the base or dictionary form of a word, which is known as the lemma . From the NLTK docs: Lemmatization and stemming are special cases of normalization.","m":0,"p":0,"t":"python - What is the difference between lemmatization vs ...","b":"ov\tStackOverflow\tstackoverflow.com","ae":null,"o":0,"d":"stackoverflow.com/questions/1787110/what-is-the-difference-between-lemmatization-vs-stemming","s":"bingv7aa","k":null,"c":"https://stackoverflow.com/questions/1787110/what-is-the-difference-between-lemmatization-vs-stemming","h":0,"da":"nlp_qa,technical_queries"},{"u":"https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/preprocess-text","i":"docs.microsoft.com","a":"Lemmatization. Lemmatization is the process of identifying a single canonical form to represent multiple word tokens. The natural language processing libraries included in Azure Machine Learning Studio (classic) combine the following multiple linguistic operations to provide lemmatization:","m":0,"p":0,"t":"Preprocess Text - ML Studio (classic) - Azure | Microsoft Docs","b":"lanpor\tMicrosoft Language Portal\twww.microsoft.com","d":"docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/preprocess-text","o":0,"ae":null,"s":"bingv7aa","k":null,"c":"https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/preprocess-text","h":0,"da":""},{"da":"","h":0,"c":"https://dictionary.cambridge.org/us/dictionary/english/lemmatization","s":"bingv7aa","k":null,"o":0,"ae":null,"d":"dictionary.cambridge.org/us/dictionary/english/lemmatization","b":"cald\tCambridge Dictionary\tdictionary.cambridge.org","t":"LEMMATIZATION | definition in the Cambridge English Dictionary","p":0,"m":0,"a":"lemmatization meaning: 1. the process of reducing the different forms of a word to one single form, for example, reducing\u2026. Learn more.","i":"dictionary.cambridge.org","u":"https://dictionary.cambridge.org/us/dictionary/english/lemmatization"},{"t":"Python - Stemming and Lemmatization - Tutorialspoint","u":"https://www.tutorialspoint.com/python_data_science/python_stemming_and_lemmatization.htm","i":"www.tutorialspoint.com","o":0,"d":"www.tutorialspoint.com/python_data_science/python_stemming_and_lemmatization.htm","ae":null,"s":"bingv7aa","k":null,"a":"Lemmatization is similar ti stemming but it brings context to the words.So it goes a steps further by linking words with similar meaning to one word. For example if a paragraph has words like cars, trains and automobile, then it will link all of them to automobile. In the below program we use the WordNet lexical database for lemmatization.","c":"https://www.tutorialspoint.com/python_data_science/python_stemming_and_lemmatization.htm","h":0,"m":0,"p":0,"da":"python_queries"},{"u":"http://www.ideaeng.com/stemming-lemmatization-0601","i":"www.ideaeng.com","m":0,"a":"A Reader Asks: What's the Difference Between Stemming and Lemmatization? I see these terms everywhere, though stemming seems more common. Editors Note: The two spellings lemmatization and lemmatisation are both in use in the literature. This question is from a FAST Search customer and FAST spells it with a "z", so we will use that here.","p":0,"t":"Difference Between Stemming and Lemmatization? - New Idea ...","s":"bingv7aa","k":null,"ae":null,"o":0,"d":"www.ideaeng.com/stemming-lemmatization-0601","h":0,"c":"http://www.ideaeng.com/stemming-lemmatization-0601","da":""},{"t":"Python for NLP: Tokenization, Stemming, and Lemmatization ...","s":"bingv7aa","k":null,"ae":null,"d":"stackabuse.com/python-for-nlp-tokenization-stemming-and-lemmatization-with-spacy-library/","o":0,"h":0,"c":"https://stackabuse.com/python-for-nlp-tokenization-stemming-and-lemmatization-with-spacy-library/","da":"","u":"https://stackabuse.com/python-for-nlp-tokenization-stemming-and-lemmatization-with-spacy-library/","i":"stackabuse.com","m":0,"a":"In the previous article, we started our discussion about how to do natural language processing with Python.We saw how to read and write text and PDF files. In this article, we will start working with the spaCy library to perform a few more basic NLP tasks such as tokenization, stemming and lemmatization.. Introduction to SpaCy. The spaCy library is one of the most popular NLP libraries along ...","p":0},{"s":"bingv7aa","k":null,"o":0,"d":"pythonprogramming.net/lemmatizing-nltk-tutorial/","ae":null,"t":"Lemmatizing with NLTK - Python Programming Tutorials","da":"","h":0,"c":"https://pythonprogramming.net/lemmatizing-nltk-tutorial/","i":"pythonprogramming.net","u":"https://pythonprogramming.net/lemmatizing-nltk-tutorial/","p":0,"m":0,"a":"Lemmatizing with NLTK. A very similar operation to stemming is called lemmatizing. The major difference between these is, as you saw earlier, stemming can often create non-existent words, whereas lemmas are actual words."},{"s":"bingv7aa","k":null,"d":"opendatagroup.github.io/data science/2019/03/21/preprocessing-text.html","o":0,"ae":null,"t":"When (not) to Lemmatize or Remove Stop Words in Text ...","da":"","h":0,"c":"https://opendatagroup.github.io/data%20science/2019/03/21/preprocessing-text.html","i":"opendatagroup.github.io","u":"https://opendatagroup.github.io/data%20science/2019/03/21/preprocessing-text.html","p":0,"m":0,"a":"The goal of lemmatization is to standardize each of the inflectional alternates and derivationally related forms to the base form. There are roughly two ways to accomplish lemmatization: stemming and replacement.Stemming refers to the practice of cutting off or slicing any pattern of string-terminal characters that is a suffix, thereby rendering every form in an unambiguously non inflected or ..."},{"h":0,"c":"https://spacy.io/api/lemmatizer/","da":"","t":"Lemmatizer \u00b7 spaCy API Documentation","s":"bingv7aa","k":null,"o":0,"ae":null,"d":"spacy.io/api/lemmatizer/","m":0,"a":"Deprecation note. As of v2.2, the lemmatizer is initialized with a Lookups object containing tables for the different components. This makes it easier for spaCy to share and serialize rules and lookup tables via the Vocab, and allows users to modify lemmatizer data at runtime by updating nlp.vocab.lookups. - lemmatizer = Lemmatizer(rules=lemma_rules) + lemmatizer = Lemmatizer(lookups)","p":0,"u":"https://spacy.io/api/lemmatizer/","i":"spacy.io"},{"t":"Lemmatization: a tool to use while developing a chatbot","u":"https://blog.bitext.com/lemmatization-a-tool-to-use-while-developing-a-chatbot","o":0,"d":"blog.bitext.com/lemmatization-a-tool-to-use-while-developing-a-chatbot","ae":null,"i":"blog.bitext.com","s":"bingv7aa","k":null,"c":"https://blog.bitext.com/lemmatization-a-tool-to-use-while-developing-a-chatbot","a":"Lemmatization is a linguistic processing task that makes other systems work better by grouping together morphologically similar forms, making document retrieval (among many other systems) much more efficient.","m":0,"h":0,"p":0,"da":""},{"p":0,"m":0,"a":"Lemmatization usually refers to the morphological analysis of words, which aims to remove inflectional endings. It helps in returning the base or dictionary form of a word, which is known as the lemma. The NLTK Lemmatization method is based on WorldNet's built-in morph function. Text preprocessing includes both stemming as well as lemmatization.","i":"www.guru99.com","u":"https://www.guru99.com/stemming-lemmatization-python-nltk.html","da":"","h":0,"c":"https://www.guru99.com/stemming-lemmatization-python-nltk.html","k":null,"s":"bingv7aa","d":"www.guru99.com/stemming-lemmatization-python-nltk.html","ae":null,"o":0,"t":"Stemming and Lemmatization with Python NLTK"},{"m":0,"a":"Lemmatization is a bit more complex in that the computer can group together words that do not have the same stem, but still have the same inflected meaning. Grouping the word "good" with words like "better" and "best" is an example of lemmatization. Lemmatization is also a harbinger of increased artificial intelligence ...","p":0,"u":"https://www.techopedia.com/definition/33256/lemmatization","i":"www.techopedia.com","h":0,"c":"https://www.techopedia.com/definition/33256/lemmatization","da":"","t":"What is Lemmatization? - Definition from Techopedia","k":null,"s":"bingv7aa","d":"www.techopedia.com/definition/33256/lemmatization","o":0,"ae":null},{"t":"Python | PoS Tagging and Lemmatization using spaCy ...","u":"https://www.geeksforgeeks.org/python-pos-tagging-and-lemmatization-using-spacy/","o":0,"ae":null,"d":"www.geeksforgeeks.org/python-pos-tagging-and-lemmatization-using-spacy/","i":"www.geeksforgeeks.org","k":null,"s":"bingv7aa","c":"https://www.geeksforgeeks.org/python-pos-tagging-and-lemmatization-using-spacy/","a":"Python | PoS Tagging and Lemmatization using spaCy spaCy is one of the best text analysis library. spaCy excels at large-scale information extraction tasks and is one of the fastest in the world. It is also the best way to prepare text for deep learning. spaCy is much faster and accurate than NLTKTagger and TextBlob.","m":0,"h":0,"p":0,"da":""},{"hu":1,"i":"text-processing.com","u":"https://text-processing.com/demo/stem/","p":0,"a":"How Stemming and Lemmatization Works. Stemming is a process of removing and replacing word suffixes to arrive at a common root form of the word.. English Stemmers and Lemmatizers. For stemming English words with NLTK, you can choose between the PorterStemmer or the LancasterStemmer.The Porter Stemming Algorithm is the oldest stemming algorithm supported in NLTK, originally published in 1979.","m":0,"o":0,"d":"text-processing.com/demo/stem/","ae":null,"k":null,"s":"bingv7aa","t":"Python NLTK Stemming and Lemmatization Demo","da":"","c":"https://text-processing.com/demo/stem/","h":0},{"t":"Lemmatization - definition of lemmatization by The Free ...","b":"d\tThe Free Dictionary\twww.thefreedictionary.com","d":"www.thefreedictionary.com/lemmatization","o":0,"ae":null,"k":null,"s":"bingv7aa","c":"https://www.thefreedictionary.com/lemmatization","h":0,"da":"","u":"https://www.thefreedictionary.com/lemmatization","i":"www.thefreedictionary.com","a":"Initially the basic lexicographic analysis was performed, which mainly covers the lemmatization and word frequency calculations, multivariate analyses using the Descending Hierarchical Classification (DHC) and post-factorial correspondence analysis (13).","m":0,"p":0},{"c":"https://towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8","a":"Lemmatization. We've talked about stemming, but what about the other side of things? How is lemmatization different? Well, if we think of stemming as just take a best guess of where to snip a word based on how it looks, lemmatization is a more calculated process. It involves resolving words to their dictionary form.","h":0,"m":0,"p":0,"da":"","t":"Stemming? Lemmatization? What? - Towards Data Science","u":"https://towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8","i":"towardsdatascience.com","o":0,"ae":null,"d":"towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8","k":null,"s":"bingv7aa"},{"p":0,"m":0,"a":"This is a technique to find the base word. NLP basically deals with 3 types of processing on a given sentence. Lexical processing, Syntacting processing and Symantic processing. Lexical processing is involved with different techniques like tokeniz...","i":"www.quora.com","u":"https://www.quora.com/What-is-lemmatization-in-NLP?share=1","da":"quora_queries","h":0,"c":"https://www.quora.com/What-is-lemmatization-in-NLP?share=1","k":null,"s":"bingv7aa","ae":null,"o":0,"d":"www.quora.com/What-is-lemmatization-in-NLP?share=1","b":"q\tQuora\twww.quora.com","t":"What is lemmatization in NLP? - Quora"},{"t":"Lemmatize | Definition of Lemmatize at Dictionary.com","k":null,"s":"bingv7aa","o":0,"ae":null,"d":"www.dictionary.com/browse/lemmatize","h":0,"c":"https://www.dictionary.com/browse/lemmatize","da":"","u":"https://www.dictionary.com/browse/lemmatize","i":"www.dictionary.com","m":0,"a":"Lemmatize definition, to sort (the words in a list or text) in order to determine the headword, under which other words are then listed. See more.","p":0},{"u":"https://pythonspot.com/nltk-stemming/","i":"pythonspot.com","m":0,"a":"NLTK - stemming. A word stem is part of a word. It is sort of a normalization idea, but linguistic. For example, the stem of the word waiting is wait. word stem. Given words, NLTK can find the stems. Related course Easy Natural Language Processing (NLP) in Python. NLTK - stemming","p":0,"t":"NLTK - stemming - Python Tutorial","s":"bingv7aa","k":null,"d":"pythonspot.com/nltk-stemming/","ae":null,"o":0,"h":0,"c":"https://pythonspot.com/nltk-stemming/","da":""},{"h":0,"c":"https://www.merriam-webster.com/dictionary/lemmatize","da":"dictionary_definition","b":"mw\tMerriam-Webster Dictionary\twww.merriam-webster.com","t":"Lemmatize | Definition of Lemmatize by Merriam-Webster","k":null,"s":"bingv7aa","o":0,"d":"www.merriam-webster.com/dictionary/lemmatize","ae":null,"m":0,"a":"Lemmatize definition is - to sort (words in a corpus) in order to group with a lemma all its variant and inflected forms.","p":0,"u":"https://www.merriam-webster.com/dictionary/lemmatize","i":"www.merriam-webster.com"},{"i":"queryunderstanding.com","ae":null,"o":0,"d":"queryunderstanding.com/stemming-and-lemmatization-6c086742fe45","k":null,"s":"bingv7aa","t":"Stemming and Lemmatization - Query Understanding","u":"https://queryunderstanding.com/stemming-and-lemmatization-6c086742fe45","p":0,"da":"","a":"Stemming and lemmatization are out-of-the-box tools for managing inflections, and you should always consider them as ways to improve recall. But you need to be aware of their weaknesses, and you should consider investing in a canonicalization approach that establishes the right balance of precision and recall for your application.","c":"https://queryunderstanding.com/stemming-and-lemmatization-6c086742fe45","h":0,"m":0},{"k":null,"s":"bingv7aa","ae":null,"d":"subscription.packtpub.com/book/big_data_and_business_intelligence/9781789801156/1/ch01lvl1sec17/training-an-opennlp-lemmatization-model","o":0,"t":"Training an OpenNLP lemmatization model - Natural Language ...","da":"","h":0,"c":"https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781789801156/1/ch01lvl1sec17/training-an-opennlp-lemmatization-model","i":"subscription.packtpub.com","u":"https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781789801156/1/ch01lvl1sec17/training-an-opennlp-lemmatization-model","p":0,"m":0,"a":"Training an OpenNLP lemmatization model. We will train a model using OpenNLP, which can be used to perform lemmatization. The actual process of performing lemmatization is illustrated in the following recipe, Determining the lexical meaning of a word using OpenNLP. Getting ready."},{"u":"http://blog.chapagain.com.np/python-nltk-stemming-lemmatization-natural-language-processing-nlp/","i":"blog.chapagain.com.np","m":0,"a":"Lemmatization returns the lemmas of the word which is the base/root word. Difference between Stemming and Lemmatisation - A stemmer operates on a single word without knowledge of the context, and therefore cannot discriminate between words which have different meanings depending on part of speech.","p":0,"t":"Python NLTK: Stemming & Lemmatization [Natural Language ...","k":null,"s":"bingv7aa","ae":null,"o":0,"d":"blog.chapagain.com.np/python-nltk-stemming-lemmatization-natural-language-processing-nlp/","h":0,"c":"http://blog.chapagain.com.np/python-nltk-stemming-lemmatization-natural-language-processing-nlp/","da":""},{"t":"what is the true difference between lemmatization vs ...","k":null,"s":"bingv7aa","ae":null,"o":0,"d":"exceptionshub.com/what-is-the-true-difference-between-lemmatization-vs-stemming.html","h":0,"c":"https://exceptionshub.com/what-is-the-true-difference-between-lemmatization-vs-stemming.html","da":"","u":"https://exceptionshub.com/what-is-the-true-difference-between-lemmatization-vs-stemming.html","i":"exceptionshub.com","m":0,"a":"Lemmatization is concerned with obtaining the single word that allows you to group together a bunch of inflected forms. This is harder than stemming because it requires taking the context into account (and thus the meaning of the word), while stemming ignores context.","p":0},{"n":"/d.js?q=lemitization&a=ffab&l=us-en&p=-1&s=30&ex=-1&dl=en&ct=NL&ss_mkt=us&sp=0&vqd=3-48718188908647590945057387154772172034-160956174700183943726043304498625587762"}]);DDG.duckbar.load('images', {"vqd":{"lemitization":"3-48718188908647590945057387154772172034-160956174700183943726043304498625587762"},"ads":[],"query":"lemitization","queryEncoded":"lemitization","response_type":"places","results":[{"image":"https://www.researchgate.net/profile/Jon_Elorriaga/publication/228351945/figure/tbl2/AS:669292358037520@1536583141834/Lemmatization-effect-example.png","source":"Bing","height":710,"thumbnail":"https://tse1.mm.bing.net/th?id=OIP.Oow5i44N4xkuk5KyKlnyFQHaJD&pid=Api","title":"Lemmatization effect example. | Download Table","url":"https://www.researchgate.net/figure/Lemmatization-effect-example_tbl2_228351945","width":581},{"image":"https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1539984207/stemminglemmatization_n8bmou.jpg","title":"Stemming and Lemmatization in Python (article) - DataCamp","url":"https://www.datacamp.com/community/tutorials/stemming-lemmatization-python","width":960,"source":"Bing","thumbnail":"https://tse1.mm.bing.net/th?id=OIP.v4G-gb66mJQl6knohWyVKgHaFj&pid=Api","height":720},{"image":"https://miro.medium.com/max/1200/0*etCxP8W-4AZuFBKv.jpg","title":"Stemming? Lemmatization? What? - Towards Data Science","url":"https://towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8","width":600,"source":"Bing","thumbnail":"https://tse1.mm.bing.net/th?id=OIP.PdSsk9MscAYbbHeYR7xR7gHaE8&pid=Api","height":400},{"width":450,"title":"Stemming & Lemmatisation Improving Search Engine Results ...","url":"https://cariadmarketing.com/stemming-lemmatisation-improves-search-engine-results/","source":"Bing","thumbnail":"https://tse1.mm.bing.net/th?id=OIP.3QXRF-tnzP5vKShPz92iQQAAAA&pid=Api","height":178,"image":"https://cariadmarketing.com/wp-content/uploads/2017/01/Stemming-lemmatisation-main-2.jpg"},{"height":382,"thumbnail":"https://tse1.mm.bing.net/th?id=OIP._Arx5MivKNJZ4FQK6IelTwHaDK&pid=Api","source":"Bing","width":893,"url":"https://franzcalvo.wordpress.com/category/nlp/page/6/","title":"NLP | franzcalvo | Page 6","image":"https://franzcalvo.files.wordpress.com/2014/12/lemmatization.jpg"},{"width":428,"url":"https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html","title":"Stemming and lemmatization","thumbnail":"https://tse1.mm.bing.net/th?id=OIP.1d-QL180FkkB53ty4dVbQAAAAA&pid=Api","height":89,"source":"Bing","image":"https://nlp.stanford.edu/IR-book/html/htmledition/img100.png"},{"width":1280,"title":"NLTK Text Processing 12 - Lemmatization - YouTube","url":"https://www.youtube.com/watch?v=uWAcgI96nEU","source":"Bing","thumbnail":"https://tse1.mm.bing.net/th?id=OIP.wj5c5Ty4xd0zNeLODH1GnQHaEK&pid=Api","height":720,"image":"https://i.ytimg.com/vi/uWAcgI96nEU/maxresdefault.jpg"},{"image":"https://tlab.it/en/allegati/help_en_online/tlab_image/graf_alber.gif","thumbnail":"https://tse1.mm.bing.net/th?id=OIP.tM3HKPfx_ag-AZplZz1cVwAAAA&pid=Api","height":287,"source":"Bing","width":427,"url":"https://tlab.it/en/allegati/help_en_online/glemmat.htm","title":"T-LAB PLUS 2020 - ON-LINE HELP - T-LAB Tools for Text Analysis"},{"image":"https://www.researchgate.net/profile/Denis_Lalanne/publication/225805172/figure/download/tbl8/AS:667589411893266@1536177127900/Effect-of-stemming-stop-word-removal-and-lemmatization-on-the-thematic-alignment-F.png","title":"Effect of stemming, stop word removal and lemmatization on ...","url":"https://www.researchgate.net/figure/Effect-of-stemming-stop-word-removal-and-lemmatization-on-the-thematic-alignment-F_tbl8_225805172","width":850,"source":"Bing","height":412,"thumbnail":"https://tse1.mm.bing.net/th?id=OIP.JnyZMYgknMyzw4hIl6SmKQHaDl&pid=Api"},{"height":640,"thumbnail":"https://tse1.mm.bing.net/th?id=OIP.c_S6X5uG3AG7rTdXfY-RlgHaD1&pid=Api","source":"Bing","width":1238,"url":"https://www.kdnuggets.com/2019/04/text-preprocessing-nlp-machine-learning.html","title":"All you need to know about text preprocessing for NLP and ...","image":"https://cdn-images-1.medium.com/max/1600/1*z4f7My5peI28lNpZdHk_Iw.png"},{"image":"https://www.twinword.com/wp-content/uploads/2016/01/lemma.png","source":"Bing","thumbnail":"https://tse1.mm.bing.net/th?id=OIP.cpLyglFM9Cof1oyzNCY6MwHaCy&pid=Api","height":558,"width":1483,"title":"What Is Lemmatization? | Twinword Blog","url":"https://www.twinword.com/blog/what-is-lemmatization/"},{"source":"Bing","height":720,"thumbnail":"https://tse1.mm.bing.net/th?id=OIP.tzexjf1MlVncIGmrAnlbwAHaEK&pid=Api","width":1280,"title":"Stemming And Lemmatization Tutorial | Natural Language ...","url":"https://www.youtube.com/watch?v=p1ccbR2P_xA","image":"https://i.ytimg.com/vi/p1ccbR2P_xA/maxresdefault.jpg"},{"url":"https://data-flair.training/blogs/python-stemming/","title":"Learn Python Stemming and Lemmatization - Python NLTK ...","width":1200,"thumbnail":"https://tse1.mm.bing.net/th?id=OIP.ZRFNisNONAjoMi_-uJPMHAHaD4&pid=Api","height":628,"source":"Bing","image":"https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2018/07/Stemming-and-Lemmatization-in-Python-01.jpg"},{"image":"https://www.researchgate.net/profile/Mike_Kestemont/publication/274151526/figure/download/tbl1/AS:668303982862350@1536347494836/Example-of-lemmatization-based-on-Morfette.png","source":"Bing","thumbnail":"https://tse1.mm.bing.net/th?id=OIP.whsW2TajjD93HVvbfTkSJAHaEw&pid=Api","height":404,"width":629,"title":"Example of lemmatization based on Morfette | Download Table","url":"https://www.researchgate.net/figure/Example-of-lemmatization-based-on-Morfette_tbl1_274151526"},{"image":"https://cdn-images-1.medium.com/max/1600/0*MMKPLtJG0hN0XvKh.jpg","thumbnail":"https://tse1.mm.bing.net/th?id=OIP.l8pX33NVKWPkIGg6m_O-QAHaE8&pid=Api","height":400,"source":"Bing","url":"https://towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8","title":"Stemming? Lemmatization? What? \u2013 Towards Data Science","width":600},{"height":479,"thumbnail":"https://tse1.mm.bing.net/th?id=OIP.KvWZxviusPKtA7P48YjNugHaFj&pid=Api","source":"Bing","width":638,"url":"https://www.slideshare.net/SteveRowe2/using-opennlp-with-solr-to-improve-search-relevance-and-to-extract-named-entities","title":"Using OpenNLP with Solr to improve search relevance and to ...","image":"https://image.slidesharecdn.com/solr-opennlp-160714143022/95/using-opennlp-with-solr-to-improve-search-relevance-and-to-extract-named-entities-6-638.jpg?cb=1468506824"},{"source":"Bing","height":170,"thumbnail":"https://tse1.mm.bing.net/th?id=OIP.JQyGwmca4_TErRMZFXDwNgHaCd&pid=Api","title":"Lemma, Lemma, Red Pyjama: Or, doing words with AI","url":"https://www.kdnuggets.com/2019/10/lemma-lemma-red-pyjama-words-ai.html","width":513,"image":"https://qph.fs.quoracdn.net/main-qimg-250c86c2671ae3f4c4ad13191570f036"},{"title":"Re-learning English: Pluralization and Lemmatization ...","url":"https://searchingforbole.com/2018/01/10/lemmatizer/","width":624,"source":"Bing","thumbnail":"https://tse1.mm.bing.net/th?id=OIP.T_35R8hG4hjQnAWxA5sslQHaFV&pid=Api","height":450,"image":"https://searchingforbole.files.wordpress.com/2018/01/re-learning-english-multiple1.png?w=624"},{"image":"https://blog.bitext.com/hs-fs/hubfs/stemming_v2.png?width=248&height=130&name=stemming_v2.png","width":248,"title":"What is the difference between stemming and lemmatization?","url":"https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/","source":"Bing","height":130,"thumbnail":"https://tse1.mm.bing.net/th?id=OIP._aKn6SQTBtF-i6FxkUJvCwAAAA&pid=Api"},{"width":638,"url":"https://www.slideshare.net/MikeTianJianJiang/nlp-47158397","title":"NLP","thumbnail":"https://tse1.mm.bing.net/th?id=OIP.zB01LoDIJ356U7fl2dsGxQHaFj&pid=Api","height":479,"source":"Bing","image":"https://image.slidesharecdn.com/nlp-150419035045-conversion-gate02/95/nlp-15-638.jpg?cb=1429436900"}]});DDG.duckbar.load('news');DDG.duckbar.load('videos', {"response_type":"places","queryEncoded":"lemitization","results":[{"title":"Stemming And Lemmatization Tutorial | Natural Language Processing (NLP) With Python | Edureka","description":"( **Natural Language Processing Using Python: - https://www.edureka.co/python-natural-language-processing-course ** ) This video will provide you with a detailed and comprehensive knowledge of the two important aspects of Natural Language Processing ie. Stemming and Lemmatization. It will also provide you with the differences between the two ...","embed_url":"http://www.youtube.com/embed/p1ccbR2P_xA?autoplay=1","embed_html":"","published":"2018-11-29T05:21:28.0000000","images":{"medium":"https://tse1.mm.bing.net/th?id=OVP.molTMCE2vHjxw3zECTmtlQEsDh&pid=Api","small":"https://tse1.mm.bing.net/th?id=OVP.molTMCE2vHjxw3zECTmtlQEsDh&pid=Api","large":"https://tse1.mm.bing.net/th?id=OVP.molTMCE2vHjxw3zECTmtlQEsDh&pid=Api","motion":"https://tse1.mm.bing.net/th?id=OM1.rR8-cZX1cvIszg_1579887476&pid=Api"},"uploader":"","duration":"12:45","content":"https://www.youtube.com/watch?v=p1ccbR2P_xA","statistics":{"viewCount":16908},"provider":"Bing","publisher":"YouTube"},{"content":"https://www.youtube.com/watch?v=cqcUk6hC5hk","duration":"6:23","publisher":"YouTube","provider":"Bing","statistics":{"viewCount":9166},"embed_url":"http://www.youtube.com/embed/cqcUk6hC5hk?autoplay=1","description":"In this video we will understand the detailed explanation of Lemmatization and understand how it can be used in Natural Language Processing. We will also see the basic difference between Lemmatization and stemming. Github link:https://github.com/krishnaik06/Natura... NLP playlist: https://www.youtube.com/playlist?list...","title":"Natural Language Processing|Lemmatization","uploader":"","images":{"motion":"https://tse3.mm.bing.net/th?id=OM2.NKNtM5NnyNT3oA_1581120488&pid=Api","large":"https://tse3.mm.bing.net/th?id=OVP.sYdmvWRjDzG095D7t1OpowEsDh&pid=Api","medium":"https://tse3.mm.bing.net/th?id=OVP.sYdmvWRjDzG095D7t1OpowEsDh&pid=Api","small":"https://tse3.mm.bing.net/th?id=OVP.sYdmvWRjDzG095D7t1OpowEsDh&pid=Api"},"embed_html":"","published":"2019-01-02T17:11:31.0000000"},{"duration":"4:55","content":"https://www.youtube.com/watch?v=uoHVztKY6S4","provider":"Bing","statistics":{"viewCount":74408},"publisher":"YouTube","title":"Lemmatizing - Natural Language Processing With Python and NLTK p.8","embed_url":"http://www.youtube.com/embed/uoHVztKY6S4?autoplay=1","description":"A very similar operation to stemming is called lemmatizing. The major difference between these is, as you saw earlier, stemming can often create non-existent words. So, your root stem, meaning the word you end up with, is not something you can just look up in a dictionary. A root lemma, on the other hand, is a real word. Many times, you will ...","embed_html":"","published":"2015-05-07T14:18:53.0000000","uploader":"","images":{"medium":"https://tse2.mm.bing.net/th?id=OVP.e6rnIvpbdo9myTjFUYOfCgEsDh&pid=Api","small":"https://tse2.mm.bing.net/th?id=OVP.e6rnIvpbdo9myTjFUYOfCgEsDh&pid=Api","large":"https://tse2.mm.bing.net/th?id=OVP.e6rnIvpbdo9myTjFUYOfCgEsDh&pid=Api","motion":"https://tse2.mm.bing.net/th?id=OM2.HC-efKbOA-sHIQ_1588487262&pid=Api"}},{"images":{"motion":"https://tse1.mm.bing.net/th?id=OM2.ZOxHLGoDZNOD4g_1590351942&pid=Api","medium":"https://tse1.mm.bing.net/th?id=OVP.K441hx2BaNjKwcYNQ1GqrwEsDh&pid=Api","small":"https://tse1.mm.bing.net/th?id=OVP.K441hx2BaNjKwcYNQ1GqrwEsDh&pid=Api","large":"https://tse1.mm.bing.net/th?id=OVP.K441hx2BaNjKwcYNQ1GqrwEsDh&pid=Api"},"uploader":"","published":"2017-10-24T02:05:34.0000000","embed_html":"","description":"In this video I talk about Lemmatization - where you get lemmas from a word. NLTK Lemmatization by Rocky DeRaze","embed_url":"http://www.youtube.com/embed/uWAcgI96nEU?autoplay=1","title":"NLTK Text Processing 12 - Lemmatization","publisher":"YouTube","statistics":{"viewCount":3216},"provider":"Bing","content":"https://www.youtube.com/watch?v=uWAcgI96nEU","duration":"8:05"},{"statistics":{"viewCount":1154},"provider":"Bing","publisher":"YouTube","duration":"3:02","content":"https://www.youtube.com/watch?v=qI8x-LCdFco","embed_html":"","published":"2019-07-23T18:03:58.0000000","images":{"small":"https://tse3.mm.bing.net/th?id=OVP.BclKsh7GUNrB2IMc_4lKGAEsDh&pid=Api","medium":"https://tse3.mm.bing.net/th?id=OVP.BclKsh7GUNrB2IMc_4lKGAEsDh&pid=Api","large":"https://tse3.mm.bing.net/th?id=OVP.BclKsh7GUNrB2IMc_4lKGAEsDh&pid=Api","motion":"https://tse3.mm.bing.net/th?id=OM1.2E1Mve98DWoyyg_1584528069&pid=Api"},"uploader":"","title":"Lemmatization in Python | Natural Language Processing with Python and NLTK","description":"NLP with Python: Lemmatization vs Stemming Complete Playlist on NLP in Python: https://www.youtube.com/playlist?list=PL1w8k37X_6L-fBgXCiCsn6ugDsr1Nmfqk #Lemmatization #nlp","embed_url":"http://www.youtube.com/embed/qI8x-LCdFco?autoplay=1"},{"published":"2018-01-12T21:47:23.0000000","embed_html":"","uploader":"","images":{"motion":"https://tse2.mm.bing.net/th?id=OM1.gRlL0nNsPh4oUw_1571976267&pid=Api","large":"https://tse2.mm.bing.net/th?id=OVP.ESpx030OFKw8e5ELKQqufAEsDh&pid=Api","medium":"https://tse2.mm.bing.net/th?id=OVP.ESpx030OFKw8e5ELKQqufAEsDh&pid=Api","small":"https://tse2.mm.bing.net/th?id=OVP.ESpx030OFKw8e5ELKQqufAEsDh&pid=Api"},"title":"Natural Language Processing in Python: Part 5 -- Stemming and Lemmatization","embed_url":"http://www.youtube.com/embed/P2PMgnQSHYQ?autoplay=1","description":"In this video, we start off on our adventure into natural language processing with the Python. Each video in this series will have a companion blog post, which covers the content of the video in greater detail, as well as a Github link to the Python code used. Both of these links are provided below: Blog Post: http://vprusso.github.io/blog/2018 ...","provider":"Bing","statistics":{"viewCount":2868},"publisher":"YouTube","duration":"15:15","content":"https://www.youtube.com/watch?v=P2PMgnQSHYQ"},{"publisher":"YouTube","provider":"Bing","statistics":{"viewCount":638},"content":"https://www.youtube.com/watch?v=y8FX_lGNSTY","duration":"12:19","uploader":"","images":{"large":"https://tse4.mm.bing.net/th?id=OVP.KQY5h2uNP6s-1PNW6vEkMAEsDh&pid=Api","small":"https://tse4.mm.bing.net/th?id=OVP.KQY5h2uNP6s-1PNW6vEkMAEsDh&pid=Api","medium":"https://tse4.mm.bing.net/th?id=OVP.KQY5h2uNP6s-1PNW6vEkMAEsDh&pid=Api","motion":"https://tse4.mm.bing.net/th?id=OM1.blaMTZLK6LLwsQ_1583886072&pid=Api"},"embed_html":"","published":"2019-07-25T23:29:33.0000000","embed_url":"http://www.youtube.com/embed/y8FX_lGNSTY?autoplay=1","description":"This video explains lemmatization in Natural Language Processing which is one of the NLP concepts used for Building AI Applications. In this video you will be able to know the difference between Stemming and Lemmatization as well as where can we use Stemming and where can we use Lemmatization ...","title":"Lemmatization Explained in Natural Language Processing | NLP Concepts for Building AI Applications"},{"duration":"38:10","content":"https://www.youtube.com/watch?v=X2vAabgKiuM","provider":"Bing","statistics":{"viewCount":73012},"publisher":"YouTube","title":"Natural Language Processing (NLP) Tutorial with Python & NLTK","embed_url":"http://www.youtube.com/embed/X2vAabgKiuM?autoplay=1","description":"This video will provide you with a comprehensive and detailed knowledge of Natural Language Processing, popularly known as NLP. You will also learn about the different steps involved in processing the human language like Tokenization, Stemming, Lemmatization and more. Python, NLTK, & Jupyter Notebook are used to demonstrate the concepts. This ...","embed_html":"","published":"2018-09-27T17:13:32.0000000","uploader":"","images":{"large":"https://tse2.mm.bing.net/th?id=OVP.O5B-ujPxEvhBoBQT3Caj-QEsDh&pid=Api","medium":"https://tse2.mm.bing.net/th?id=OVP.O5B-ujPxEvhBoBQT3Caj-QEsDh&pid=Api","small":"https://tse2.mm.bing.net/th?id=OVP.O5B-ujPxEvhBoBQT3Caj-QEsDh&pid=Api","motion":"https://tse2.mm.bing.net/th?id=OM.zg8Ekm0Tynt3aw_1590514761&pid=Api"}},{"publisher":"YouTube","statistics":{"viewCount":41130},"provider":"Bing","content":"https://www.youtube.com/watch?v=WZVAfLreIwM","duration":"31:05","images":{"large":"https://tse1.mm.bing.net/th?id=OVP.TfcUns-ZGedDtK-lJ7p8wQEsDh&pid=Api","medium":"https://tse1.mm.bing.net/th?id=OVP.TfcUns-ZGedDtK-lJ7p8wQEsDh&pid=Api","small":"https://tse1.mm.bing.net/th?id=OVP.TfcUns-ZGedDtK-lJ7p8wQEsDh&pid=Api","motion":"https://tse1.mm.bing.net/th?id=OM.C9hnyGYhzbchCw_1589782916&pid=Api"},"uploader":"","embed_html":"","published":"2019-06-06T05:38:44.0000000","description":"** Machine Learning Engineer Masters Program: https://www.edureka.co/masters-progra... ** This Edureka video on \"Artificial Intelligence Tutorial\" will provide you with a detailed and comprehensive knowledge of Artificial Intelligence and also give you real-life examples where AI is being used and the various Job Profiles one can apply if they ...","embed_url":"http://www.youtube.com/embed/WZVAfLreIwM?autoplay=1","title":"Artificial Intelligence Tutorial for Beginners | Artificial Intelligence Explained | Edureka"},{"images":{"motion":"","large":"https://tse2.mm.bing.net/th?id=OVP.wPoVGFQj1lyy57N8ijQa8gEsDh&pid=Api","small":"https://tse2.mm.bing.net/th?id=OVP.wPoVGFQj1lyy57N8ijQa8gEsDh&pid=Api","medium":"https://tse2.mm.bing.net/th?id=OVP.wPoVGFQj1lyy57N8ijQa8gEsDh&pid=Api"},"uploader":"","embed_html":"","published":"2011-06-12T07:30:55.0000000","description":"Normalization to Terms For Full Course Experience Please Go To http://mentorsnet.org/course_preview?... Full Course Experience Includes 1. Access to course videos and exercises 2. View & manage your progress/pace 3. In-class projects and code reviews 4. Personal guidance from your Mentors","embed_url":"http://www.youtube.com/embed/nF7ktoLk1uY?autoplay=1","title":"WDM 19: Normalization to Terms","publisher":"YouTube","statistics":{"viewCount":5526},"provider":"Bing","content":"https://www.youtube.com/watch?v=nF7ktoLk1uY","duration":"59:36"}],"ads":[],"vqd":{"lemitization":"3-48718188908647590945057387154772172034-160956174700183943726043304498625587762"},"query":"lemitization"});if (DDG.pageLayout) DDG.pageLayout.initialize({"mainline":{"ddg_ias_allowed":1,"items":[["organic"],["organic"],["videos"],["organic"],["organic"],["organic"],["images"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"],["organic"]]}});["nu",["nutrisystem","number generator","nursery rhymes","nutrition","nugenix","nutella","nuts","nuance"]]
+
+
+
+
+
+NU - Het laatste nieuws het eerst op NU.nl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        var app_name = 'NU';
+        var app_stage = 'production_current';
+        var FULL_PATH = '/';
+        var is_adblocker_in_use = true;
+    
+
+
+        var utag_data = {"site_name": "NU.nl", "site_location": "prod", "site_country": "NL", "page_zone": "home", "page_type": "frontpage", "page_category": "voorpagina", "dc_params": "CATEGORY=home;KEYWORDS=;", "tracking_by": "tealium"};
+    
+
+
+        (function(a,b,c,d){
+            a='//tags.tiqcdn.com/utag/sanoma/nu-nl/prod/utag.js';
+            b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+            a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+        })();
+    
+
+
+            var NU = NU || {}, static_url = '/static/', mediatool_base_url = 'media.nu.nl', blocks = {}, JW_VIDEO_URL = 'https://content.jwplatform.com/manifests/{id}.m3u8', JW_LIVESTREAM_URL = 'https://cdn.jwplayer.com/videos/{id}.m3u8', JW_THUMB_URL = 'https://content.jwplatform.com/thumbs/{id}-720.jpg', CORAL_TALK_URL = 'https://talk.nu.nl'; NU.relatedVideoProviders = [ { url: '', slug: 'editorial' } ]; NU.RelatedVideoSource = 'ratas'; NU.RatasVideoRecommendationsUrl = 'https://ratas.sanoma.fi/recs/2.2/video_overlay/nunl'; NU.RatasVideoRecommendationsTtl = '1m'; NU.RatasVideoPageRecommendationsUrl = 'https://ratas.sanoma.fi/recs/2.2/video_list/nunl'; NU.RatasVideoPageRecommendationsTtl = '30m'; NU.ActivateStickySkyscraper = 1; NU.VideoDurationDefault = '90'; NU.IsComponentsPage = false;
+            document.documentElement.classList.remove("no-js");
+        
+
+
+
+                // add Gigya dynamically.
+                // ab_testing_enabled: true is required by SA team for registration screen testing.
+                var sanoma_account_global_config = {
+                    api_key: '3_pNK9L9zU_Sx2BKzTUJuAmy1im2zN0pOkwM-Ui3AgrneVzSpyQqioWy_iZ1cbQzS5',
+                    screenset_prefix: 'nunlv2',
+                    hide_fb_native_safari: false,
+                    events: NU.account.events || {},
+                    ab_testing_enabled: true
+                };
+                // Use NUsport Gigya key if NUsport app is being used. This is to get the Gigya webbridge working.
+                if (/nusport/i.test(window.navigator.userAgent)) {
+                    sanoma_account_global_config['api_key'] = '3_rlSSasCKaY6Id8VY1d13AO1IbHGsXzDrPIVha-Aup28W6guE9vkRb6whOO1Z2O67';
+                }
+                jQuery.cachedScript('https://account.sanomaservices.nl/js/sanoma_account.min.js');
+        
+
+
+
+
+
+
+
+
+            NU.nl
+    
+
+
+Wissel kleurenschemaWissel kleurenschema
+
+
+
+
+
+
+ Mijn NU.nl Pijltje beneden
+
+
+
+
+
+
+
+
+
+
+
+
+                Ga naar de inhoud
+            
+
+
+
+        Net binnen
+    
+
+
+
+        Algemeen
+    
+
+
+
+        Economie
+    
+
+
+
+        Sport
+    
+
+
+
+        Tech
+    
+
+
+
+        Media en Cultuur
+    
+
+
+
+        Achterklap
+    
+
+
+
+        Shop
+    
+
+
+
+        Voorpagina
+    
+
+
+
+        Net binnen
+    
+
+
+
+        Populair
+    
+
+
+
+Meer
+Minder
+
+
+
+
+
+Wissel kleurenschemaWissel kleurenschema
+
+
+
+
+
+
+ Mijn NU.nl Pijltje beneden
+
+
+
+
+
+
+
+
+
+Voorpagina
+
+
+Net binnen
+
+
+Meest gelezen
+
+
+Coronavirus
+
+
+Binnenland
+
+
+Buitenland
+
+
+Algemeen
+
+
+Politiek
+
+
+Klimaat
+
+
+Achtergronden
+
+
+Video
+
+
+Podcast
+
+
+Weer
+
+
+Weekend
+
+
+
+
+Economie
+
+
+Geld
+
+
+Werk
+
+
+Ondernemen
+
+
+Brexit
+
+
+Auto
+
+
+Beurs
+
+
+Aandelen
+
+
+Vacatures
+
+
+Verkeer
+
+
+
+
+Sport
+
+
+Voetbal
+
+
+Formule 1
+
+
+GP-spel
+
+
+Scorebord
+
+
+
+
+Tech
+
+
+Games
+
+
+Reviews
+
+
+Achtergrond
+
+
+
+
+Media en Cultuur
+
+
+Films en series
+
+
+Muziek
+
+
+Boek en cultuur
+
+
+Media
+
+
+Achterklap
+
+
+TV gids
+
+
+
+
+Overig
+
+
+Dieren
+
+
+Eten en drinken
+
+
+Gezondheid
+
+
+NUcheckt
+
+
+Opmerkelijk
+
+
+Thuis
+
+
+Vakantie
+
+
+Wetenschap
+
+
+Wonen
+
+
+
+
+Regio
+
+
+Alphen a/d Rijn
+
+
+Amsterdam
+
+
+Breda
+
+
+Den Haag
+
+
+Eindhoven
+
+
+Groningen
+
+
+Haarlem
+
+
+Leiden
+
+
+Midden-Zeeland
+
+
+Rotterdam
+
+
+Utrecht
+
+
+West-Brabant
+
+
+
+
+
+
+NUadverteren
+
+
+NUfolder
+
+
+NUshop
+
+
+NUjunior
+
+
+Tickets
+
+
+Vacature
+
+
+Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NU.nl heeft je steun nodig
+Je gebruikt een adblocker. Wij kunnen onze artikelen alleen gratis toegankelijk voor je maken dankzij advertenties. Wil je jouw adblocker voor ons pauzeren?
+Zo werkt het.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zoeken
+
+
+
+Zoekopdracht
+
+
+
+
+
+Zoeken
+
+
+
+
+
+
+
+            Vrijdag 05 juni 2020
+            
+|
+Het laatste nieuws het eerst op NU.nl
+
+
+
+
+
+
+
+Weer11 �CHuidige verkeerssituatieVerkeer0 km (0) filesBeurs aandelenBeurs563,05 AEX koersTV GidsTV gidsVoetbal wedstrijdenVoetbal0 live live wedstrijden
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aanwezigheid algenschuim lijkt voornaamste oorzaak surfongeval Scheveningen
+
+
+
+
+
+
+ Mijnbouw noemt opblazen van 46.000 jaar oud Aboriginal-erfgoed 'misverstand'  Op1 in de zomer vijf dagen per week te zien, twee nieuwe talkshowduo's Video Dj's hekelen kabinet: 'Nachtleven wordt totaal vergeten'  Vader in Tilburg neergeschoten voor ogen van zoontje (10)  Samoaans rugbyteam vier maanden na vertrek voor uitwedstrijd nog niet thuis  Dashboard met laatste stand van zaken rondom coronavirus online gezet  Amerikaanse agenten die 75-jarige man omverduwden bij protesten geschorst  Premier Rutte: Ik ben ook anders gaan denken over Zwarte Piet  'Overheid overweegt HEMA te redden om werkgelegenheid te behouden'  Mijnbouw noemt opblazen van 46.000 jaar oud Aboriginal-erfgoed 'misverstand'  Op1 in de zomer vijf dagen per week te zien, twee nieuwe talkshowduo's Dit is een videoitem4:10Video Dj's hekelen kabinet: 'Nachtleven wordt totaal vergeten'  Vader in Tilburg neergeschoten voor ogen van zoontje (10)  Samoaans rugbyteam vier maanden na vertrek voor uitwedstrijd nog niet thuis  Dashboard met laatste stand van zaken rondom coronavirus online gezet  Amerikaanse agenten die 75-jarige man omverduwden bij protesten geschorst  Premier Rutte: Ik ben ook anders gaan denken over Zwarte Piet  'Overheid overweegt HEMA te redden om werkgelegenheid te behouden' Laad meer artikelen
+
+
+
+
+
+
+
+Coronavirus NUcheckt: Duits onderzoek sluit coronabesmetting via voorwerpen niet uit Liveblog coronavirus Sterfte vorige week opnieuw iets lager dan normaal  Welk reisadvies geldt straks voor welk land en wat betekenen de kleurcodes?  NUcheckt: Duits onderzoek sluit coronabesmetting via voorwerpen niet uit Liveblog coronavirus Sterfte vorige week opnieuw iets lager dan normaal  Welk reisadvies geldt straks voor welk land en wat betekenen de kleurcodes? Meer Uitleg over het coronavirus
+
+
+
+
+Uit en Thuis Waarom mensen het lastig vinden hun afval op te ruimen  De doener: 'De boeken in mijn minibieb blijven heel droog'  Uit de lockdown: 'Bouw samenzijn met huisdier geleidelijk af'  Waarom mensen het lastig vinden hun afval op te ruimen  De doener: 'De boeken in mijn minibieb blijven heel droog'  Uit de lockdown: 'Bouw samenzijn met huisdier geleidelijk af' Meer Uit en Thuis
+
+
+
+
+ Nieuwsvideo's 01:27Lockdown lijkt extreem vervuilde rivier in India te herstellen00:50Luchtbeeld toont nasleep van aardverschuiving in Noorwegen01:33Man ernstig gewond na duw door politie bij demonstratie in Buffalo02:1952 jaar geleden: Robert F. Kennedy treft zelfde lot als broer
+
+
+
+
+
+Economie
+
+
+
+
+
+
+
+
+
+Helft caf�s en restaurants bleef ondanks versoepeling op 1 juni gesloten
+
+
+
+
+
+
+ Luxemerk Bentley schrapt duizend banen  Duitse regering wil laadpalen bij tankstations verplicht maken  Experts: Vervroeg klimaatinvesteringen om economische crisis te voorkomen  Kwart van steunaanvragen voor zzp'ers niet uitbetaald of afgewezen  Onderzoek: Door coronacrisis 40.000 banen op de tocht in bouwsector  ABN AMRO: 'Coronacrisis lost krapte op arbeidsmarkt niet op'  Campings en bungalowparken minder hard geraakt door corona dan hotels  Grootste terugval in aantal gewerkte uren in 24 jaar gemeten  Luxemerk Bentley schrapt duizend banen  Duitse regering wil laadpalen bij tankstations verplicht maken  Experts: Vervroeg klimaatinvesteringen om economische crisis te voorkomen  Kwart van steunaanvragen voor zzp'ers niet uitbetaald of afgewezen  Onderzoek: Door coronacrisis 40.000 banen op de tocht in bouwsector  ABN AMRO: 'Coronacrisis lost krapte op arbeidsmarkt niet op'  Campings en bungalowparken minder hard geraakt door corona dan hotels  Grootste terugval in aantal gewerkte uren in 24 jaar gemeten Meer Economie
+
+
+
+
+
+
+
+
+Sport
+
+
+
+
+
+
+
+
+
+Hamilton gaat aflopende contract bij Mercedes verlengen
+
+
+
+
+
+
+ Arts krijgt voorwaardelijke celstraf voor dood Kameroens international Ekeng  Trainer Van der Gaag verlengt contract bij Jong Ajax met twee jaar  Willem II-keeper Wellenreuther na korte soap alsnog naar Anderlecht  Top van KNVB wil niet achterblijven en levert salaris in Transferupdates 'Ook FC Twente denkt aan Duitse trainer'  Weening (39) vindt in Trek-Segafredo alsnog een nieuwe ploeg  Beslissing over doorgaan Olympische Spelen vermoedelijk in maart  Verwondingen bij twee spelers Benfica na bekogelen spelersbus  Arts krijgt voorwaardelijke celstraf voor dood Kameroens international Ekeng  Trainer Van der Gaag verlengt contract bij Jong Ajax met twee jaar  Willem II-keeper Wellenreuther na korte soap alsnog naar Anderlecht  Top van KNVB wil niet achterblijven en levert salaris in Transferupdates 'Ook FC Twente denkt aan Duitse trainer'  Weening (39) vindt in Trek-Segafredo alsnog een nieuwe ploeg  Beslissing over doorgaan Olympische Spelen vermoedelijk in maart  Verwondingen bij twee spelers Benfica na bekogelen spelersbus Meer Sport
+
+
+
+
+
+
+
+
+Tech
+
+
+
+
+
+
+
+
+
+Rechter: 0,5 miljard dollar vergoeding van Facebook aan Amerikanen is te laag
+
+
+
+
+
+
+ Ontwikkeling elektrisch watervliegtuig van oud-Google-topman stopgezet Podcast Waarom de bemande lancering van de SpaceX-raket een mijlpaal is  Singapore ontwikkelt na smartphone-app nu gadget om contacten te traceren Video Robot serveert biertjes in Spaans caf� om personeel te beschermen  Review: OnePlus 8 Pro meet zich eindelijk met de grote spelers  GTA Online en Red Dead Online tijdelijk offline om George Floyd te eren  'Chinese en Iraanse hackers richten pijlen op campagnes Biden en Trump'  UWV beveiligt werkgeversportaal beter en hoeft toch geen dwangsom te betalen  Ontwikkeling elektrisch watervliegtuig van oud-Google-topman stopgezet Dit is een audioitemPodcast Waarom de bemande lancering van de SpaceX-raket een mijlpaal is  Singapore ontwikkelt na smartphone-app nu gadget om contacten te traceren Dit is een videoitem0:51Video Robot serveert biertjes in Spaans caf� om personeel te beschermen  Review: OnePlus 8 Pro meet zich eindelijk met de grote spelers  GTA Online en Red Dead Online tijdelijk offline om George Floyd te eren  'Chinese en Iraanse hackers richten pijlen op campagnes Biden en Trump'  UWV beveiligt werkgeversportaal beter en hoeft toch geen dwangsom te betalen Meer Tech
+
+
+
+
+
+Media en Cultuur
+
+
+
+
+
+
+
+
+
+Oprah Winfrey maakt special over raciale ongelijkheid in Verenigde Staten
+
+
+
+
+
+
+ Nieuwe muziek op vrijdag: Nieuwe single Snelle | Kim-Lian in het Zweeds  Abbey Road Studios weer open na coronamaatregelen  Kensington en Ilse DeLange geven show vanuit Scheepvaartmuseum  The Sweet-bassist Steve Priest op 72-jarige leeftijd overleden  Nieuwe muziek op vrijdag: Nieuwe single Snelle | Kim-Lian in het Zweeds  Abbey Road Studios weer open na coronamaatregelen  Kensington en Ilse DeLange geven show vanuit Scheepvaartmuseum  The Sweet-bassist Steve Priest op 72-jarige leeftijd overleden Meer Media en Cultuur
+
+
+
+
+
+Achterklap
+
+
+
+
+
+
+
+
+
+Arie en Romy Boomsma ouders geworden van tweede dochter
+
+
+
+
+
+
+Video Harry Potter-fan Anna Kendrick toont uniekste bezit  Prins Charles mist familie: 'Mijn vader wordt volgende week 99' Achterklap-updates Sanne Vogels tweeling houdt van kattenkwaad  Kylie Jenner met afstand bestbetaalde beroemdheid in Forbes top 100 Dit is een videoitem1:16Video Harry Potter-fan Anna Kendrick toont uniekste bezit  Prins Charles mist familie: 'Mijn vader wordt volgende week 99' Achterklap-updates Sanne Vogels tweeling houdt van kattenkwaad  Kylie Jenner met afstand bestbetaalde beroemdheid in Forbes top 100 Meer Achterklap
+
+
+
+
+
+Eten en drinken
+
+
+
+
+
+
+
+
+
+Recept: Sushibowl met zalm en zeekraal met maar vijf ingredi�nten
+
+
+
+
+
+
+ Vegetarisch broodbeleg: 'Het gaat te ver om het gezond te noemen'  Vloeibaar goud: 'Licht, lucht en tijd zijn grootste vijanden van olijfolie'  Thuiswerktussendoortje: 'Donuts' van appel met chocoladeroomkaas  Vegetarisch broodbeleg: 'Het gaat te ver om het gezond te noemen'  Vloeibaar goud: 'Licht, lucht en tijd zijn grootste vijanden van olijfolie'  Thuiswerktussendoortje: 'Donuts' van appel met chocoladeroomkaas Meer Eten en drinken
+
+
+
+
+
+
+De tien opvallendste nieuwsfoto's
+
+
+
+
+
+
+            Door een olielek in een fabriek van het Russische bedrijf Nornickel is ruim 20.000 ton olie de rivier Ambarnaja in Siberi� in gestroomd.
+            � ProShots
+
+
+
+
+            Medewerkers van een fabriek in het Mexicaanse Chihuahua wachten totdat ze naar binnen mogen.
+            � Pro Shots
+
+
+
+
+            Onderwijsminister Arie Slob en het Landelijk Aktie Komitee Scholieren (LAKS) hijsen op het Utrechtse Vredenburgplein de vlag voor alle geslaagde eindexamenkandidaten.
+            � Pro Shots
+
+
+
+
+            Middelbare scholen in Frankrijk zijn vanaf deze week weer open.
+            � Pro Shots
+
+
+
+
+            Publiek kijkt toe hoe de HMM Algeciras, het grootste containerschip ter wereld, arriveert in de Rotterdamse haven.
+            � Pro Shots
+
+
+
+
+            Demonstranten voeren op het Malieveld in Den Haag actie tegen racisme.
+            � Pro Shots
+
+
+
+
+            De nationale garde verzamelt zich in de Amerikaanse staat Florida, in verband met de grootschalige protesten die in de afgelopen week plaatsvonden in de Verenigde Staten.
+            � Pro Shots
+
+
+
+
+            In India dragen kappers beschermende kleding tijdens hun werk.
+            � Pro Shots 
+
+
+
+
+            Griekenland maakt zich klaar voor het het ontvangen van toeristen. Op een strand ten zuiden van de hoofdstad Athene zijn parasols zo geplaatst dat mensen onderling voldoende afstand kunnen houden.
+            � Pro Shots
+
+
+
+
+            Betogers in de Amerikaanse stad Columbus (Ohio) demonstreren tegen het politiegeweld tegen George Floyd en andere Afro-Amerikaanse mannen.
+            � Pro Shots
+
+
+
+
+
+
+
+
+
+ Uitgelichte video's 03:04Grapperhaus legt in Kamer verantwoording af over apps aan Halsema05:07In de bladen: Rachel wil Hazes-kroeg | 'Marco koopt penthouse'02:00Meghan Markle over dood George Floyd: 'Niks zeggen zou fout zijn'00:57Nabestaanden George Floyd ruim acht minuten stil tijdens herdenking02:09Vijftien auto's in Olympisch Stadion bij eerste drive-inbioscoop00:47Aardverschuiving in Noorwegen sleurt acht huisjes in zee05:30Analyse: 'Uitspraken Rutte over systemisch racisme uitzonderlijk'00:30Aankomst grootste containerschip ter wereld in Rotterdam
+
+
+
+
+
+
+
+
+
+
+
+
+Bekijk hier meer video's
+
+
+
+
+
+
+
+
+
+NUshop
+
+
+
+
+
+
+
+
+
+Maak direct kans op 30.000 euro als je meespeelt in de BankGiro Loterij
+
+
+
+
+
+
+NUshop (Adverteerders) Maak direct kans op 30.000 euro als je meespeelt in de BankGiro Loterij  Nu 175 euro cashback op groene energie van Oxxio  Set van 4 of 8 Japanse Esdoorns vanaf 26,95 euro  6-pack Happy Socks voor heren en dames van 64,95 voor 29,95 euro  Hotelovernachting in een Fletcher hotel voor 2 personen van 79 voor 34,95 euro Meer NUshop
+
+
+
+
+
+
+
+
+
+
+
+
+
+Van onze adverteerders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VGZ
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wetenschapsagenda
+85
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NHA Dit is jouw tijd
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vattenfall
+71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Net binnen13:18 Luxemerk Bentley schrapt duizend banen 13:11 Nieuwe muziek op vrijdag: Nieuwe single Snelle | Kim-Lian in het Zweeds 13:10 Mijnbouw noemt opblazen van 46.000 jaar oud Aboriginal-erfgoed 'misverstand' 12:36 Hamilton gaat aflopende contract bij Mercedes verlengen 
+
+
+Net Binnen13:18 Luxemerk Bentley schrapt duizend banen 13:11 Nieuwe muziek op vrijdag: Nieuwe single Snelle | Kim-Lian in het Zweeds 13:10 Mijnbouw noemt opblazen van 46.000 jaar oud Aboriginal-erfgoed 'misverstand' 12:36 Hamilton gaat aflopende contract bij Mercedes verlengen 12:30 Duitse regering wil laadpalen bij tankstations verplicht maken 
+
+
+
+
+
+
+
+12:30 Duitse regering wil laadpalen bij tankstations verplicht maken 12:29 Arts krijgt voorwaardelijke celstraf voor dood Kameroens international Ekeng 12:26Video Harry Potter-fan Anna Kendrick toont uniekste bezit 12:19Video Eerste rijtest: Mercedes-Benz GLA Meer Net binnen
+
+
+12:29 Arts krijgt voorwaardelijke celstraf voor dood Kameroens international Ekeng 12:26Video Harry Potter-fan Anna Kendrick toont uniekste bezit 12:19Video Eerste rijtest: Mercedes-Benz GLA 12:19 Trainer Van der Gaag verlengt contract bij Jong Ajax met twee jaar 12:17 Arie en Romy Boomsma ouders geworden van tweede dochter 
+
+
+
+
+Meest gelezen1 Halsema in appje aan Grapperhaus: Ben in de kou gezet door gebrek aan steun 2 Bij strand van Scheveningen gevonden lichaam is van vermiste surfer (23) 3 Massaal testen heeft effect: RIVM meldt meer nieuwe coronabesmettingen 4 Premier Rutte: Ik ben ook anders gaan denken over Zwarte Piet 5 Amerikaanse agenten die 75-jarige man omverduwden bij protesten geschorst Meer nieuws
+
+
+
+
+ Voor jou geselecteerd 
+
+
+
+
+
+
+
+GP-spel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lezersfoto's
+
+
+
+
+
+
+            Vrijdag 5 juni: Een waakzame moederzwaan bij haar jonge kroost in Kijkduin.
+            � NU.nl/Olga Bulder
+
+
+
+
+            Donderdag 4 juni: Een onheilspellende lucht boven de Noordzee bij Kijkduin.
+            � NU.nl/Marijke Starrenburg-Bloemendaal
+
+
+
+
+            Donderdag 4 juni: Fascinerende golven bij een opkomende zon.
+            � NU.nl/Merel van Oostveen
+
+
+
+
+            Woensdag 3 juni: Bijna een volle maan boven Brunssum.
+            � NU.nl/Jan Middelveld
+
+
+
+
+            Woensdag 3 juni: Ook in Rotterdam wordt geprotesteerd tegen politiegeweld en racisme.
+            � NU.nl/Pieter van Stein
+
+
+
+
+            Woensdag 3 juni: Rust en ruimte in Egmond aan Zee vanmiddag.
+            � NU.nl/Frank van Paridon
+
+
+
+
+            Woensdag 3 juni: De borden die maandag werden gebruikt tijdens de demonstratie staan nog steeds op de Dam.
+            � NU.nl/Peter Pasman
+
+
+
+
+            Dinsdag 2 juni: Wederom een prachtige dag in de natuur van Noord-Brabant.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Dinsdag 2 juni: Een ooievaar houdt haar kuikens in de schaduw tijdens deze zomerse dag in Vlist.
+            � NU.nl/Dick Bakker
+
+
+
+
+            Maandag 1 juni: Het Westergasterras bij de Amsterdamse Westergasfabriek is ook weer open.
+            � NU.nl/Bart Elshof
+
+
+
+
+            Maandag 1 juni: Kasteel Croy in Aarle-Rixtel op de Dag van het Kasteel.
+            � NU.nl/Willem van Nunen
+
+
+
+
+            Maandag 1 juni: Een kleurrijke start van de weerkundige zomer in Brabant.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Zondag 31 mei: Een stralende pinksterochtend in het Noord-Brabantse Liempde.
+            � NU.nl/Cissy Jansen
+
+
+
+
+            Zondag 31 mei: Een mooie kleurrijke lentedag met zon en sluierbewolking in Stiphout.
+            � NU.nl/Willem van Nuenen
+
+
+
+
+            Zondag 31 mei: Zandhagedis op de Sallandse Heuvelrug.
+            � NU.nl/Frank van Holten
+
+
+
+
+            Zaterdag 30 mei: Het is prachtig weer in Brabant om even het water op te gaan.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Zaterdag 30 mei: Een ooievaarfamilie in Deventer.
+            � NU.nl/Jan Simmes
+
+
+
+
+            Vrijdag 29 mei: Een mooie uitkijkpost voor deze twee nijlganzen in Akersloot.
+            � NU.nl/Sjaan Verduin
+
+
+
+
+            Vrijdag 29 mei: De Nationale Balkon Beweegdag is vandaag afgetrapt door onder anderen Gerard Joling, die het openingsnummer verzorgde in de Johan Cruijff ArenA.
+            � NU.nl/Peter Pasman
+
+
+
+
+            Vrijdag 29 mei: Een veld vol anemonen in Castricum.
+            � NU.nl/Frank van Paridon
+
+
+
+
+            Donderdag 28 mei: Een bloem met prachtige kleuren op een zonnige dag.
+            � NU.nl/ Erna van den Berg
+
+
+
+
+            Donderdag 28 mei: Een kikker in actie bij Wijk aan Zee.
+            � NU.nl/Mirjam Smits
+
+
+
+
+            Donderdag 28 mei: Een prachtig ooievaarsnest in Ommen.
+            � NU.nl/Harry Slagter
+
+
+
+
+            Woensdag 27 mei: Een mooie zonsondergang maakte een einde aan deze zonnige dag.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Woensdag 27 mei: De lucht kleurde vanavond oranje in Zuidoost-Brabant.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Woensdag 27 mei: Een jonge Schotse hooglander in het Leeuwarderbos.
+            � NU.nl/Bernice Timmers
+
+
+
+
+            Woensdag 27 mei: Een ooievaarsnest in Vlist.
+            � NU.nl/Dick Bakker 
+
+
+
+
+            Woensdag 27 mei: Een kleurrijke middag met veel zon in Stiphout.
+            � NU.nl/Willem van Nunen
+
+
+
+
+            Woensdag 27 mei: Een huisje in Zuidoost-Brabant krijgt door de mist een mysterieus karakter.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Dinsdag 26 mei: Een grutto in Haastrecht.
+            � NU.nl/Martha Reumermann
+
+
+
+
+            Dinsdag 26 mei: Begin van een zonnige dag in Helmond.
+            � NU.nl/Willem van Nuenen 
+
+
+
+
+            Dinsdag 26 mei: Paarden bij zonsopgang in Brunssum.
+            � NU.nl/Jan Middelveld
+
+
+
+
+            Dinsdag 26 mei: Een nevelig begin van de dag in Akersloot.
+            � NU.nl/Sjaan Verduin
+
+
+
+
+            Maandag 25 mei: Een chinook van de Koninklijke Luchtmacht tijdens een avondvlucht nabij Oirschot.
+            � NU.nl/Joris van Boven
+
+
+
+
+            Maandag 25 mei: Grazende paarden bij zonsondergang in Brunssum.
+            � NU.nl/Jan Middelveld
+
+
+
+
+            Zondag 24 mei: Een specht geniet van een feestmaal in De Onlanden in Drenthe.
+            � NU.nl/Pen Wonderweg
+
+
+
+
+            Zondag 24 mei: De dag begint fris en bewolkt in Zuidoost-Brabant.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Zaterdag 23 mei: Deze whippet geniet van het avondlicht op de Veluwe.
+            � NU.nl/Peter Scheffer
+
+
+
+
+            Zaterdag 23 mei: deze Tureluur zet zich schrap tegen de wind in Akersloot.
+            � NU.nl/Sjaan Verduin
+
+
+
+
+            Zaterdag 23 mei: De morgenstond heeft goud in de mond. Een hond wandelt langs de Eem.
+            � NU.nl/N.W. Bos
+
+
+
+
+            Zaterdag 23 mei: Toch nog wat kleur op deze grijze zaterdagmorgen.
+            � NU.nl/Willem van Nuenen 
+
+
+
+
+            Vrijdag 22 mei: Helaas voor deze boer werd zijn hooi toch nog nat vanmiddag.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Vrijdag 22 mei: Na een warme Hemelvaartsdag was het raak nabij Katwijk: enorm veel en actieve zeevonk.
+            � NU.nl/Maurits K�hne
+
+
+
+
+            Donderdag 21 mei: De hond wordt uitgelaten bij zonsondergang in Eindhoven.
+            � NU.nl/Joris van Boven
+
+
+
+
+            Donderdag 21 mei: Het strand van Langevelderslag in Noordwijk is een populaire plek op Hemelvaartsdag.
+            � NU.nl/Berend Frank
+
+
+
+
+            Donderdag 21 mei: Waar normaliter miljoenen mensen Times Square in New York bezoeken, trekt nu de leegte de aandacht.
+            � NU.nl/Ewoud Fidom
+
+
+
+
+            Woensdag 20 mei: Tureluurs in de polders rondom Akersloot.
+            � NU.nl/Sjaan Verduin
+
+
+
+
+            Woensdag 20 mei: Een bastaardsatijnrups op het schelpenpad in Kijkduin.
+            � NU.nl/Marijke Starrenburg-Bloemendaal
+
+
+
+
+            Woensdag 20 mei: De blauwe lis bloeit in een tuin in Hoogeveen.
+            � NU.nl/Adri Kruyt
+
+
+
+
+            Dinsdag 19 mei: Een fraaie avondzon bij Kasteel Croy in Aarle-Rixtel.
+            � NU.nl/Willem van Nunen
+
+
+
+
+            Dinsdag 19 mei: Een kleurrijke dag in Planken Wambuis op de Veluwe.
+            � NU.nl/Mike
+
+
+
+
+            Dinsdag 19 mei: Een paar van de vluchten die nog wel vertrekken in Castricum.
+            � NU.nl/Frank van Paridon
+
+
+
+
+            Dinsdag 19 mei: Een nieuwsgierig schaap in Stiphout.
+            � NU.nl/Willem van Nunen 
+
+
+
+
+            Maandag 18 mei: IJsvogel in Hoogeveen.
+            � NU.nl/Adri Kuyt
+
+
+
+
+            Maandag 18 mei: Op een paar honderd meter van het strand van Egmond aan Zee vormt een klein duinmeer een oase van rust.
+            � NU.nl/Frank van Paridon
+
+
+
+
+            Zondag 17 mei: In Zuid-Holland wordt op de fiets genoten van het mooie weer.
+            � NU.nl/Martha Reumermann
+
+
+
+
+            Zondag 17 mei: Deze reiger in Zaandijk geniet van een zonnige dag.
+            � NU.nl/Mirjam Smits
+
+
+
+
+            Zondag 17 mei:  Deze spreeuwen in Culemborg zijn klaar om uit te vliegen.
+            � NU.nl/Wim Stol
+
+
+
+
+            Zondag 17 mei: Het is een mooie zonnige dag in het Noord-Brabantse dorp Liempde.
+            � NU.nl/Cissy Ouden
+
+
+
+
+            Zondag 17 mei: Een mooie zonsopgang in 's-Hertogenbosch vanochtend.
+            � NU.nl/Marco Lemein
+
+
+
+
+            Zaterdag 16 mei: Deze zwaan maakt een nestje uit vuilnis in Amstelveen.
+            � NU.nl/Renger Minoli
+
+
+
+
+            Zaterdag 16 mei: Het personage Mr. Bean wordt ingezet als handhaver in de binnenstad van Winterswijk.
+            � NU.nl/Mark van Ierssel
+
+
+
+
+            Zaterdag 16 mei: Een koude ochtend met vorst aan de grond en plots opdoemende mistbanken in Noord-Brabant.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Vrijdag 15 mei: Een blauwborst in de Kennemerduinen.
+            � NU.nl/Layla Wijsmuller-Vafi
+
+
+
+
+            Vrijdag 15 mei: Slotru�ne en slotkapel bij Egmond aan den Hoef.
+            � NU.nl/Frank van Paridon
+
+
+
+
+            Vrijdag 15 mei: Ponton bokken worden bij Cuijk opgebouwd om zaterdag de 460 ton wegende fietsbrug van 145 meter lang en 6 meter breed over de Maas tussen Cuijk en Mook te plaatsen.
+            � NU.nl/Piet Spanjers
+
+
+
+
+            Vrijdag 15 mei: De natuur kleurt bij zonsopkomst prachtig oranje in Zuidoost-Brabant.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Donderdag 14 mei: Deze prachtige zwaantjes zijn geboren in Reeuwijk.
+            � NU.nl/Martha Reumermann
+
+
+
+
+            Woensdag 13 mei: Cruiseschepen zonder passagiers in de Rotterdamse haven.
+            � NU.nl/Bas Braad
+
+
+
+
+            Woensdag 13 mei: Het is helder aan de Waddenzee bij Den Oever.
+            � NU.nl/Hans Kwikkers
+
+
+
+
+            Woensdag 13 mei: De koeien staan heerlijk te genieten in de wei.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Dinsdag 12 mei: Mooie luchten in wijndorp Groesbeek.
+            � NU.nl/Piet Spanjers
+
+
+
+
+            Dinsdag 12 mei: Een fraaie koude start van de dag bij de Zuid-Willemsvaart in Beek en Donk.
+            � NU.nl/Willem van Nuenen
+
+
+
+
+            Maandag 11 mei: Het strand in Noordwijk is bedekt met veel schuim.
+            � NU.nl/Leendert Vis
+
+
+
+
+            Maandag 11 mei: Een klein meningsverschil tussen eenden en een koet op de Waal in Rijsoord.
+            � NU.nl/Berend Both
+
+
+
+
+            Maandag 11 mei: De scholen in Groesbeek zijn weer begonnen.
+            � NU.nl/Piet Spanjers
+
+
+
+
+            Maandag 11 mei: Vanwege de droogte wordt er in Stiphout al gesproeid, waarbij een regenboog tevoorschijn komt.
+            � NU.nl/Willem van Nuenen
+
+
+
+
+            Maandag 11 mei: Een mooi maar ook fris begin van een nieuwe week in Noord-Brabant.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Zondag 10 mei: De bewolking neemt snel toe op de hei bij het Drentse Lhee.
+            � NU.nl/Adri Kruyt
+
+
+
+
+            Zondag 10 mei: Een mus zoekt eten voor haar kroost in Akersloot.
+            � NU.nl/Sjaan Verduin
+
+
+
+
+            Zaterdag 9 mei: Op het strand van Castricum is het heerlijk rustig.
+            � NU.nl/Frank van Paridon
+
+
+
+
+            Zaterdag 9 mei: Een mooie bloem op het Canadese kerkhof in Groesbeek.
+            � NU.nl/Piet Spanjers
+
+
+
+
+            Zaterdag 9 mei: Een zonnig begin van de dag in Akersloot.
+            � NU.nl/Sjaan Verduin
+
+
+
+
+            Vrijdag 8 mei: Zomersferen op het Amsterdamse Bickerseiland.
+            � NU.nl/Frank van Paridon
+
+
+
+
+            Vrijdag 8 mei: Een koolmees zorgt voor het nageslacht.
+            � NU.nl/Hans Kwikkers
+
+
+
+
+            Donderdag 7 mei: Een rustige dag in het anders zo drukke Bergen.
+            � NU.nl/ Frank van Paridon
+
+
+
+
+            Donderdag 7 mei: De schapen op de Veluwe zijn duidelijk nog niet gewend aan de anderhalvemeterregel.
+            � NU.nl/ Jan Cornelissen
+
+
+
+
+            Donderdag 7 mei: Zwanen zwemmen in de mist in Schagen.
+            � NU.nl/Atie Vlaar
+
+
+
+
+            Donderdag 7 mei: Prachtige volle maan vanochtend boven Kijkduin.
+            � NU.nl/Tim Overvliet
+
+
+
+
+            Woensdag 6 mei: De zon gaat onder na een warme dag op de Canadese oorlogsbegraafplaats in Groesbeek.
+            � NU.nl/Piet Spanjers
+
+
+
+
+            Woensdag 6 mei: Een prachtige close-up van een kikker.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Woensdag 6 mei: Een lepelaar is voor het broedseizoen weer neergestreken in de boomtoppen van Delftse Hout.
+            � NU.nl/Olga Bulder
+
+
+
+
+            Woensdag 6 mei: Een mooie kleurrijke dag in Stiphout.
+            � NU.nl/Willem van Nunen
+
+
+
+
+            Dinsdag 5 mei: Een stralende Bevrijdingsdag in Deventer.
+            � NU.nl/Jan Simmes
+
+
+
+
+            Dinsdag 5 mei: Een hoge 'vlagdichtheid' in het Amsterdamse stadsdeel Zuid.
+            � NU.nl/Frank van Paridon
+
+
+
+
+            Dinsdag 5 mei: Rotterdam Centraal ligt er verlaten bij op Bevrijdingsdag.
+            � NU.nl/Marco Beekman
+
+
+
+
+            Dinsdag 5 mei: De kransen op de Dam in Amsterdam vanochtend.
+            � NU.nl/Peter Pasman
+
+
+
+
+            Dinsdag 5 mei: Een heldere en frisse start van Bevrijdingsdag in Noord-Brabant.
+            � NU.nl/Ben Saanen
+
+
+
+
+            Maandag 4 mei: Een stille maar bijzondere Dodenherdenking in Deventer.
+            � NU.nl/Jan Simmes
+
+
+
+
+            Maandag 4 mei: Koeien in het Korenburgerveen.
+            � NU.nl/Geert Kreijkamp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Lezersbijdragen 
+Heb jij foto's, video's of een nieuwstip?
+Stuur ze op naar de redactie 
+
+
+
+
+
+
+
+
+
+
+
+NUshop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NUshop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Voorpagina
+
+
+Net binnen
+
+
+Meest gelezen
+
+
+Coronavirus
+
+
+Binnenland
+
+
+Buitenland
+
+
+Algemeen
+
+
+Politiek
+
+
+Klimaat
+
+
+Achtergronden
+
+
+Video
+
+
+Podcast
+
+
+Weer
+
+
+Weekend
+
+
+
+
+Economie
+
+
+Geld
+
+
+Werk
+
+
+Ondernemen
+
+
+Brexit
+
+
+Auto
+
+
+Beurs
+
+
+Aandelen
+
+
+Vacatures
+
+
+Verkeer
+
+
+
+
+Sport
+
+
+Voetbal
+
+
+Formule 1
+
+
+GP-spel
+
+
+Scorebord
+
+
+
+
+Tech
+
+
+Games
+
+
+Reviews
+
+
+Achtergrond
+
+
+
+
+Media en Cultuur
+
+
+Films en series
+
+
+Muziek
+
+
+Boek en cultuur
+
+
+Media
+
+
+Achterklap
+
+
+TV gids
+
+
+
+
+Overig
+
+
+Dieren
+
+
+Eten en drinken
+
+
+Gezondheid
+
+
+NUcheckt
+
+
+Opmerkelijk
+
+
+Thuis
+
+
+Vakantie
+
+
+Wetenschap
+
+
+Wonen
+
+
+
+
+Regio
+
+
+Alphen a/d Rijn
+
+
+Amsterdam
+
+
+Breda
+
+
+Den Haag
+
+
+Eindhoven
+
+
+Groningen
+
+
+Haarlem
+
+
+Leiden
+
+
+Midden-Zeeland
+
+
+Rotterdam
+
+
+Utrecht
+
+
+West-Brabant
+
+
+
+
+
+
+Contact met de redactie
+
+
+Colofon
+
+
+Copyright
+
+
+Disclaimer
+
+
+Privacy en cookiebeleid
+
+
+Klachten / Feedback
+
+
+Adverteren
+
+
+Apps
+
+
+Werken bij NU.nl
+
+
+
+
+
+
+Voorpagina
+
+
+
+
+Volg ons op
+
+Instagram
+Facebook
+Twitter
+RSS
+
+
+
+
+                � 2020 DPG Media Digital B.V. | NU.nl onderdeel van DPG Media Magazines groep
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tip de redactie
+
+Je moet ingelogd zijn om van deze mogelijkheid gebruik te maken. Log hier in
+Voeg tekst toe aan je bijdrage.
+                        
+
+
+
+Media uploaden
+
+0 / 0 toegevoegd
+                            
+
+
+
+
+
+
+
+
+
+                                            Sleep hier je bestanden heen 
+                                            of selecteer een foto/video
+
+
+
+
+
+
+                                        Laat los om te beginnen met uploaden
+                                    
+
+
+
+
+
+
+
+
+ Versturen
+
+
+ Versturen
+
+
+Door te versturen ga je akkoord met onze voorwaarden
+
+
+
+
+
+
+
+
+
+Let op: Je browser is verouderd waardoor de website niet goed wordt weergegeven.
+
+Meer informatie over browser ondersteuning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // Sanoma search, hidden and disabled without consent.
+        ConsentUtility.consent_given(function () {
+            jQuery.cachedScript('https://sss.snmmd.nl/nu2/sanomasearch.min.js').done(function () {
+                if (jQuery('#sanoma_search').length > 0) {
+                    SANOMASEARCH.init(['autocomplete', 'serp']);
+                } else {
+                    SANOMASEARCH.init(['autocomplete']);
+                }
+            });
+        });
+
+
+
+TPC_GET_1591356471281('0:1|c1:0|c2:0|c3:0|c4:0|c5:0')
+
+/*!
+   JW Player version 8.15.1
+   Copyright (c) 2020, JW Player, All Rights Reserved
+   This source code and its use and distribution is subject to the terms
+   and conditions of the applicable license agreement.
+   https://www.jwplayer.com/tos/
+   This product includes portions of other software. For the full text of licenses, see
+   https://ssl.p.jwpcdn.com/player/v/8.15.1/notice.txt
+*/
+window.jwplayer=function(t){function e(e){for(var n,i,o=e[0],u=e[1],a=0,s=[];a<o.length;a++)i=o[a],r[i]&&s.push(r[i][0]),r[i]=0;for(n in u)Object.prototype.hasOwnProperty.call(u,n)&&(t[n]=u[n]);for(c&&c(e);s.length;)s.shift()()}var n={},r={0:0};function i(e){if(n[e])return n[e].exports;var r=n[e]={i:e,l:!1,exports:{}};return t[e].call(r.exports,r,r.exports,i),r.l=!0,r.exports}i.e=function(t){var e=[],n=r[t];if(0!==n)if(n)e.push(n[2]);else{var o=new Promise((function(e,i){n=r[t]=[e,i]}));e.push(n[2]=o);var u,a=document.createElement("script");a.charset="utf-8",a.timeout=55,i.nc&&a.setAttribute("nonce",i.nc),a.src=function(t){return i.p+""+({1:"jwplayer.amp",2:"jwplayer.controls",3:"jwplayer.core",4:"jwplayer.core.controls",5:"jwplayer.core.controls.html5",6:"jwplayer.core.controls.polyfills",7:"jwplayer.core.controls.polyfills.html5",8:"jwplayer.vr",9:"polyfills.intersection-observer",10:"polyfills.webvtt",11:"provider.airplay",12:"provider.cast",13:"provider.flash",14:"provider.hlsjs",15:"provider.hlsjs-progressive",16:"provider.html5",17:"provider.shaka",18:"related",19:"vttparser"}[t]||t)+".js"}(t),u=function(e){a.onerror=a.onload=null,clearTimeout(c);var n=r[t];if(0!==n){if(n){var i=e&&("load"===e.type?"missing":e.type),o=e&&e.target&&e.target.src,u=new Error("Loading chunk "+t+" failed.\n("+i+": "+o+")");u.type=i,u.request=o,n[1](u)}r[t]=void 0}};var c=setTimeout((function(){u({type:"timeout",target:a})}),55e3);a.onerror=a.onload=u,document.head.appendChild(a)}return Promise.all(e)},i.m=t,i.c=n,i.d=function(t,e,n){i.o(t,e)||Object.defineProperty(t,e,{enumerable:!0,get:n})},i.r=function(t){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(t,"__esModule",{value:!0})},i.t=function(t,e){if(1&e&&(t=i(t)),8&e)return t;if(4&e&&"object"==typeof t&&t&&t.__esModule)return t;var n=Object.create(null);if(i.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:t}),2&e&&"string"!=typeof t)for(var r in t)i.d(n,r,function(e){return t[e]}.bind(null,r));return n},i.n=function(t){var e=t&&t.__esModule?function(){return t.default}:function(){return t};return i.d(e,"a",e),e},i.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},i.p="",i.oe=function(t){throw console.error(t),t};var o=window.webpackJsonpjwplayer=window.webpackJsonpjwplayer||[],u=o.push.bind(o);o.push=e,o=o.slice();for(var a=0;a<o.length;a++)e(o[a]);var c=u;return i(i.s=73)}([function(t,e,n){"use strict";n.d(e,"i",(function(){return k})),n.d(e,"A",(function(){return x})),n.d(e,"F",(function(){return T})),n.d(e,"l",(function(){return _})),n.d(e,"k",(function(){return I})),n.d(e,"a",(function(){return L})),n.d(e,"b",(function(){return R})),n.d(e,"G",(function(){return B})),n.d(e,"n",(function(){return H})),n.d(e,"H",(function(){return W})),n.d(e,"e",(function(){return U})),n.d(e,"J",(function(){return Y})),n.d(e,"m",(function(){return J})),n.d(e,"h",(function(){return K})),n.d(e,"p",(function(){return Z})),n.d(e,"c",(function(){return G})),n.d(e,"C",(function(){return nt})),n.d(e,"I",(function(){return ot})),n.d(e,"q",(function(){return ct})),n.d(e,"g",(function(){return st})),n.d(e,"j",(function(){return lt})),n.d(e,"D",(function(){return ft})),n.d(e,"w",(function(){return pt})),n.d(e,"t",(function(){return mt})),n.d(e,"v",(function(){return bt})),n.d(e,"x",(function(){return yt})),n.d(e,"s",(function(){return jt})),n.d(e,"u",(function(){return wt})),n.d(e,"r",(function(){return Ot})),n.d(e,"y",(function(){return kt})),n.d(e,"o",(function(){return xt})),n.d(e,"d",(function(){return Pt})),n.d(e,"E",(function(){return St})),n.d(e,"B",(function(){return Tt})),n.d(e,"z",(function(){return At}));var r=n(18),i={},o=Array.prototype,u=Object.prototype,a=Function.prototype,c=o.slice,s=o.concat,l=u.toString,f=u.hasOwnProperty,d=o.map,p=o.reduce,h=o.forEach,v=o.filter,g=o.every,m=o.some,b=o.indexOf,y=Array.isArray,j=Object.keys,w=a.bind,O=window.isFinite,k=function(t,e,n){var r,o;if(null==t)return t;if(h&&t.forEach===h)t.forEach(e,n);else if(t.length===+t.length){for(r=0,o=t.length;r<o;r++)if(e.call(n,t[r],r,t)===i)return}else{var u=ut(t);for(r=0,o=u.length;r<o;r++)if(e.call(n,t[u[r]],u[r],t)===i)return}return t},C=k,x=function(t,e,n){var r=[];return null==t?r:d&&t.map===d?t.map(e,n):(k(t,(function(t,i,o){r.push(e.call(n,t,i,o))})),r)},P=x,S="Reduce of empty array with no initial value",T=function(t,e,n,r){var i=arguments.length>2;if(null==t&&(t=[]),p&&t.reduce===p)return r&&(e=G(e,r)),i?t.reduce(e,n):t.reduce(e);if(k(t,(function(t,o,u){i?n=e.call(r,n,t,o,u):(n=t,i=!0)})),!i)throw new TypeError(S);return n},E=T,A=T,_=function(t,e,n){var r;return R(t,(function(t,i,o){if(e.call(n,t,i,o))return r=t,!0})),r},F=_,I=function(t,e,n){var r=[];return null==t?r:v&&t.filter===v?t.filter(e,n):(k(t,(function(t,i,o){e.call(n,t,i,o)&&r.push(t)})),r)},M=I,L=function(t,e,n){e||(e=xt);var r=!0;return null==t?r:g&&t.every===g?t.every(e,n):(k(t,(function(t,o,u){if(!(r=r&&e.call(n,t,o,u)))return i})),!!r)},N=L,R=function(t,e,n){e||(e=xt);var r=!1;return null==t?r:m&&t.some===m?t.some(e,n):(k(t,(function(t,o,u){if(r||(r=e.call(n,t,o,u)))return i})),!!r)},D=R,B=function(t){return null==t?0:t.length===+t.length?t.length:ut(t).length},z=function(t,e){var n;return function(){return--t>0&&(n=e.apply(this,arguments)),t<=1&&(e=null),n}},q=function(t){return null==t?xt:mt(t)?t:St(t)},V=function(t){return function(e,n,r){var i={};return n=q(n),k(e,(function(o,u){var a=n.call(r,o,u,e);t(i,a,o)})),i}},H=V((function(t,e,n){Ct(t,e)?t[e].push(n):t[e]=[n]})),Q=V((function(t,e,n){t[e]=n})),W=function(t,e,n,r){for(var i=(n=q(n)).call(r,e),o=0,u=t.length;o>>1;n.call(r,t[a])=0)},X=U,Y=function(t,e){return I(t,Tt(e))},J=function(t,e){return _(t,Tt(e))},K=function(t){var e=s.apply(o,c.call(arguments,1));return I(t,(function(t){return!U(e,t)}))},Z=function(t,e,n){if(null==t)return-1;var r=0,i=t.length;if(n){if("number"!=typeof n)return t[r=W(t,e)]===e?r:-1;r=n<0?Math.max(0,i+n):n}if(b&&t.indexOf===b)return t.indexOf(e,n);for(;ri&&(r=t,i=a)})),r},memoize:nt,now:Et,omit:function(t){var e={},n=s.apply(o,c.call(arguments,1));for(var r in t)U(n,r)||(e[r]=t[r]);return e},once:et,partial:tt,pick:ft,pluck:function(t,e){return x(t,St(e))},property:St,propertyOf:function(t){return null==t?function(){}:function(e){return t[e]}},reduce:T,reject:function(t,e,n){return I(t,(function(t,r,i){return!e.call(n,t,r,i)}),n)},result:function(t,e){if(null!=t){var n=t[e];return mt(n)?n.call(t):n}},select:M,size:B,some:D,sortedIndex:W,throttle:ot,where:Y,without:function(t){return K(t,c.call(arguments,1))}}},function(t,e,n){"use strict";n.d(e,"y",(function(){return i})),n.d(e,"x",(function(){return o})),n.d(e,"w",(function(){return u})),n.d(e,"t",(function(){return a})),n.d(e,"u",(function(){return c})),n.d(e,"a",(function(){return s})),n.d(e,"c",(function(){return l})),n.d(e,"v",(function(){return f})),n.d(e,"d",(function(){return d})),n.d(e,"h",(function(){return p})),n.d(e,"e",(function(){return h})),n.d(e,"k",(function(){return v})),n.d(e,"i",(function(){return g})),n.d(e,"j",(function(){return m})),n.d(e,"b",(function(){return b})),n.d(e,"f",(function(){return y})),n.d(e,"g",(function(){return j})),n.d(e,"o",(function(){return w})),n.d(e,"l",(function(){return O})),n.d(e,"m",(function(){return k})),n.d(e,"n",(function(){return C})),n.d(e,"p",(function(){return x})),n.d(e,"q",(function(){return P})),n.d(e,"r",(function(){return S})),n.d(e,"s",(function(){return T})),n.d(e,"A",(function(){return E})),n.d(e,"z",(function(){return A})),n.d(e,"B",(function(){return _}));var r=n(0),i=1e5,o=100001,u=100002,a=101e3,c=102e3,s=200001,l=202e3,f=104e3,d=203e3,p=203640,h=204e3,v=210001,g=21e4,m=214e3,b=306e3,y=308e3,j=308640,w="cantPlayVideo",O="badConnection",k="cantLoadPlayer",C="cantPlayInBrowser",x="liveStreamDown",P="protectedContent",S="technicalError",T=function(){function t(t,e,n){this.code=Object(r.z)(e)?e:0,this.sourceError=n||null,t&&(this.key=t)}return t.logMessage=function(t){var e=t%1e3,n=Math.floor((t-e)/1e3),r=t.toString();return e>=400&&e<600&&(r=n+"400-"+n+"599"),"JW Player "+(t>299999&&t<4e5?"Warning":"Error")+" "+t+". For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#"+r},t}();function E(t,e,n){return n instanceof T&&n.code?n:new T(t,e,n)}function A(t,e){var n=E(S,e,t);return n.code=(t&&t instanceof T&&t.code||0)+e,n}function _(t){var e=t.name,n=t.message;switch(e){case"AbortError":return/pause/.test(n)?303213:/load/.test(n)?303212:303210;case"NotAllowedError":return 303220;case"NotSupportedError":return 303230;default:return 303200}}},function(t,e,n){"use strict";n.d(e,"i",(function(){return o})),n.d(e,"e",(function(){return u})),n.d(e,"j",(function(){return a})),n.d(e,"a",(function(){return c})),n.d(e,"b",(function(){return s})),n.d(e,"g",(function(){return l})),n.d(e,"d",(function(){return f})),n.d(e,"f",(function(){return d})),n.d(e,"h",(function(){return p})),n.d(e,"c",(function(){return h}));var r=n(0),i=window.parseFloat;function o(t){return t.replace(/^\s+|\s+$/g,"")}function u(t,e,n){for(t=""+t,n=n||"0";t.length-1?t.substr(t.lastIndexOf(".")+1,t.length).toLowerCase():""}function s(t){var e=(t/60|0)%60,n=t%60;return u((t/3600|0).toString(),2)+":"+u(e.toString(),2)+":"+u(n.toFixed(3),6)}function l(t,e){if(!t)return 0;if(Object(r.z)(t))return t;var n=t.replace(",","."),o=n.slice(-1),u=n.split(":"),a=u.length,c=0;if("s"===o)c=i(n);else if("m"===o)c=60*i(n);else if("h"===o)c=3600*i(n);else if(a>1){var s=a-1;4===a&&(e&&(c=i(u[s])/e),s-=1),c+=i(u[s]),c+=60*i(u[s-1]),a>=3&&(c+=3600*i(u[s-2]))}else c=i(n);return Object(r.z)(c)?c:0}function f(t,e,n){if(Object(r.x)(t)&&"%"===t.slice(-1)){var o=i(t);return e&&Object(r.z)(e)&&Object(r.z)(o)?e*o/100:null}return l(t,n)}function d(t,e){return t.map((function(t){return e+t}))}function p(t,e){return t.map((function(t){return t+e}))}function h(t){return!!t&&Object(r.x)(t)&&"%"===t.slice(-1)}},function(t,e,n){"use strict";n.d(e,"kb",(function(){return r})),n.d(e,"nb",(function(){return i})),n.d(e,"lb",(function(){return o})),n.d(e,"pb",(function(){return u})),n.d(e,"qb",(function(){return a})),n.d(e,"mb",(function(){return c})),n.d(e,"ob",(function(){return s})),n.d(e,"rb",(function(){return l})),n.d(e,"s",(function(){return f})),n.d(e,"u",(function(){return d})),n.d(e,"t",(function(){return p})),n.d(e,"n",(function(){return h})),n.d(e,"q",(function(){return v})),n.d(e,"sb",(function(){return g})),n.d(e,"r",(function(){return m})),n.d(e,"Z",(function(){return b})),n.d(e,"W",(function(){return y})),n.d(e,"v",(function(){return j})),n.d(e,"Y",(function(){return w})),n.d(e,"w",(function(){return O})),n.d(e,"ub",(function(){return k})),n.d(e,"a",(function(){return C})),n.d(e,"b",(function(){return x})),n.d(e,"c",(function(){return P})),n.d(e,"d",(function(){return S})),n.d(e,"e",(function(){return T})),n.d(e,"h",(function(){return E})),n.d(e,"F",(function(){return A})),n.d(e,"hb",(function(){return _})),n.d(e,"Q",(function(){return F})),n.d(e,"C",(function(){return I})),n.d(e,"B",(function(){return M})),n.d(e,"E",(function(){return L})),n.d(e,"p",(function(){return N})),n.d(e,"cb",(function(){return R})),n.d(e,"m",(function(){return D})),n.d(e,"G",(function(){return B})),n.d(e,"H",(function(){return z})),n.d(e,"N",(function(){return q})),n.d(e,"O",(function(){return V})),n.d(e,"R",(function(){return H})),n.d(e,"jb",(function(){return Q})),n.d(e,"bb",(function(){return W})),n.d(e,"D",(function(){return U})),n.d(e,"S",(function(){return X})),n.d(e,"P",(function(){return Y})),n.d(e,"T",(function(){return J})),n.d(e,"V",(function(){return K})),n.d(e,"M",(function(){return Z})),n.d(e,"L",(function(){return $})),n.d(e,"K",(function(){return G})),n.d(e,"I",(function(){return tt})),n.d(e,"J",(function(){return et})),n.d(e,"U",(function(){return nt})),n.d(e,"o",(function(){return rt})),n.d(e,"y",(function(){return it})),n.d(e,"ib",(function(){return ot})),n.d(e,"db",(function(){return ut})),n.d(e,"eb",(function(){return at})),n.d(e,"f",(function(){return ct})),n.d(e,"g",(function(){return st})),n.d(e,"ab",(function(){return lt})),n.d(e,"A",(function(){return ft})),n.d(e,"l",(function(){return dt})),n.d(e,"k",(function(){return pt})),n.d(e,"fb",(function(){return ht})),n.d(e,"gb",(function(){return vt})),n.d(e,"tb",(function(){return gt})),n.d(e,"z",(function(){return mt})),n.d(e,"j",(function(){return bt})),n.d(e,"X",(function(){return yt})),n.d(e,"i",(function(){return jt})),n.d(e,"x",(function(){return wt}));var r="buffering",i="idle",o="complete",u="paused",a="playing",c="error",s="loading",l="stalled",f="drag",d="dragStart",p="dragEnd",h="click",v="doubleClick",g="tap",m="doubleTap",b="over",y="move",j="enter",w="out",O=c,k="warning",C="adClick",x="adPause",P="adPlay",S="adSkipped",T="adTime",E="autostartNotAllowed",A=o,_="ready",F="seek",I="beforePlay",M="beforeComplete",L="bufferFull",N="displayClick",R="playlistComplete",D="cast",B="mediaError",z="firstFrame",q="playAttempt",V="playAttemptFailed",H="seeked",Q="setupError",W="state",U="bufferChange",X="time",Y="ratechange",J="mediaType",K="volume",Z="mute",$="metadataCueParsed",G="meta",tt="levels",et="levelsChanged",nt="visualQuality",rt="controls",it="fullscreen",ot="resize",ut="playlistItem",at="playlist",ct="audioTracks",st="audioTrackChanged",lt="playbackRateChanged",ft="logoClick",dt="captionsList",pt="captionsChanged",ht="providerChanged",vt="providerFirstFrame",gt="userAction",mt="instreamClick",bt="breakpoint",yt="fullscreenchange",jt="bandwidthEstimate",wt="float"},function(t,e,n){"use strict";n.d(e,"b",(function(){return i})),n.d(e,"d",(function(){return o})),n.d(e,"a",(function(){return u})),n.d(e,"c",(function(){return a}));var r=n(2);function i(t){var e="";return t&&(t.localName?e=t.localName:t.baseName&&(e=t.baseName)),e}function o(t){var e="";return t&&(t.textContent?e=Object(r.i)(t.textContent):t.text&&(e=Object(r.i)(t.text))),e}function u(t,e){return t.childNodes[e]}function a(t){return t.childNodes?t.childNodes.length:0}},function(t,e,n){"use strict";n.r(e);var r=n(7);function i(t,e){var n;return t&&t.length>e&&(n=t[e]),n}var o=n(0);n.d(e,"Browser",(function(){return c})),n.d(e,"OS",(function(){return s})),n.d(e,"Features",(function(){return l}));var u=navigator.userAgent,a=function(){};var c={},s={},l={};Object.defineProperties(c,{androidNative:{get:Object(o.C)(r.c),enumerable:!0},chrome:{get:Object(o.C)(r.d),enumerable:!0},edge:{get:Object(o.C)(r.e),enumerable:!0},facebook:{get:Object(o.C)(r.g),enumerable:!0},firefox:{get:Object(o.C)(r.f),enumerable:!0},ie:{get:Object(o.C)(r.i),enumerable:!0},msie:{get:Object(o.C)(r.n),enumerable:!0},safari:{get:Object(o.C)(r.q),enumerable:!0},version:{get:Object(o.C)(function(t,e){var n,r,i,o;return t.chrome?n=-1!==e.indexOf("Chrome")?e.substring(e.indexOf("Chrome")+7):e.substring(e.indexOf("CriOS")+6):t.safari?n=e.substring(e.indexOf("Version")+8):t.firefox?n=e.substring(e.indexOf("Firefox")+8):t.edge?n=e.substring(e.indexOf("Edge")+5):t.ie&&(-1!==e.indexOf("rv:")?n=e.substring(e.indexOf("rv:")+3):-1!==e.indexOf("MSIE")&&(n=e.substring(e.indexOf("MSIE")+5))),n&&(-1!==(o=n.indexOf(";"))&&(n=n.substring(0,o)),-1!==(o=n.indexOf(" "))&&(n=n.substring(0,o)),-1!==(o=n.indexOf(")"))&&(n=n.substring(0,o)),r=parseInt(n,10),i=parseInt(n.split(".")[1],10)),{version:n,major:r,minor:i}}.bind(void 0,c,u)),enumerable:!0}}),Object.defineProperties(s,{android:{get:Object(o.C)(r.b),enumerable:!0},iOS:{get:Object(o.C)(r.j),enumerable:!0},mobile:{get:Object(o.C)(r.o),enumerable:!0},mac:{get:Object(o.C)(r.p),enumerable:!0},iPad:{get:Object(o.C)(r.k),enumerable:!0},iPhone:{get:Object(o.C)(r.l),enumerable:!0},windows:{get:Object(o.C)((function(){return u.indexOf("Windows")>-1})),enumerable:!0},tizen:{get:Object(o.C)(r.r),enumerable:!0},version:{get:Object(o.C)(function(t,e){var n,r,o;if(t.windows)switch(n=i(/Windows(?: NT|)? ([._\d]+)/.exec(e),1)){case"6.1":n="7.0";break;case"6.2":n="8.0";break;case"6.3":n="8.1"}else t.android?n=i(/Android ([._\d]+)/.exec(e),1):t.iOS?n=i(/OS ([._\d]+)/.exec(e),1):t.mac?n=i(/Mac OS X (10[._\d]+)/.exec(e),1):t.tizen&&(n=i(/Tizen ([._\d]+)/.exec(e),1));if(n){r=parseInt(n,10);var u=n.split(/[._]/);u&&(o=parseInt(u[1],10))}return{version:n,major:r,minor:o}}.bind(void 0,s,u)),enumerable:!0}}),Object.defineProperties(l,{flash:{get:Object(o.C)(r.h),enumerable:!0},flashVersion:{get:Object(o.C)(r.a),enumerable:!0},iframe:{get:Object(o.C)(r.m),enumerable:!0},passiveEvents:{get:Object(o.C)((function(){var t=!1;try{var e=Object.defineProperty({},"passive",{get:function(){return t=!0}});window.addEventListener("testPassive",a,e),window.removeEventListener("testPassive",a,e)}catch(t){}return t})),enumerable:!0},backgroundLoading:{get:Object(o.C)((function(){return!(s.iOS||c.safari||s.tizen)})),enumerable:!0}})},function(t,e,n){"use strict";n.d(e,"i",(function(){return s})),n.d(e,"e",(function(){return l})),n.d(e,"q",(function(){return f})),n.d(e,"j",(function(){return d})),n.d(e,"s",(function(){return p})),n.d(e,"r",(function(){return h})),n.d(e,"u",(function(){return v})),n.d(e,"d",(function(){return b})),n.d(e,"a",(function(){return y})),n.d(e,"o",(function(){return j})),n.d(e,"p",(function(){return w})),n.d(e,"v",(function(){return O})),n.d(e,"t",(function(){return k})),n.d(e,"h",(function(){return C})),n.d(e,"b",(function(){return x})),n.d(e,"g",(function(){return P})),n.d(e,"c",(function(){return S})),n.d(e,"m",(function(){return T})),n.d(e,"k",(function(){return E})),n.d(e,"n",(function(){return A})),n.d(e,"l",(function(){return _})),n.d(e,"f",(function(){return F}));var r,i=n(0),o=n(2),u=n(5),a=window.DOMParser,c=!0;function s(t,e){return t.classList.contains(e)}function l(t){return d(t).firstChild}function f(t,e){C(t),function(t,e){if(!e)return;for(var n=document.createDocumentFragment(),r=d(e).childNodes,i=0;i-1?e.documentElement.innerHTML=t:e.body.innerHTML=t;return e.body}(t);p(e);for(var n=e.querySelectorAll("*"),i=n.length;i--;){h(n[i])}return e}function p(t){for(var e=t.querySelectorAll("script,object,iframe"),n=e.length;n--;){var r=e[n];r.parentNode.removeChild(r)}return t}function h(t){for(var e=t.attributes,n=e.length;n--;){var r=e[n].name;if(/^on/.test(r)&&t.removeAttribute(r),/href/.test(r)){var i=e[n].value;/javascript:|javascript&colon/.test(i)&&t.removeAttribute(r)}}return t}function v(t){return t+(t.toString().indexOf("%")>0?"":"px")}function g(t){return Object(i.x)(t.className)?t.className.split(" "):[]}function m(t,e){e=Object(o.i)(e),t.className!==e&&(t.className=e)}function b(t){return t.classList?t.classList:g(t)}function y(t,e){var n=g(t);(Array.isArray(e)?e:e.split(" ")).forEach((function(t){Object(i.e)(n,t)||n.push(t)})),m(t,n.join(" "))}function j(t,e){var n=g(t),r=Array.isArray(e)?e:e.split(" ");m(t,Object(i.h)(n,r).join(" "))}function w(t,e,n){var r=t.className||"";e.test(r)?r=r.replace(e,n):n&&(r+=" "+n),m(t,r)}function O(t,e,n){var r=s(t,e);(n=Object(i.r)(n)?n:!r)!==r&&(n?y(t,e):j(t,e))}function k(t,e,n){t.setAttribute(e,n)}function C(t){for(;t.firstChild;)t.removeChild(t.firstChild)}function x(t){var e=document.createElement("link");e.rel="stylesheet",e.href=t,document.getElementsByTagName("head")[0].appendChild(e)}function P(t){t&&C(t)}function S(t){var e={left:0,right:0,width:0,height:0,top:0,bottom:0};if(!t||!document.body.contains(t))return e;var n=t.getBoundingClientRect(),r=window.pageYOffset,i=window.pageXOffset;return n.width||n.height||n.left||n.top?(e.left=n.left+i,e.right=n.right+i,e.top=n.top+r,e.bottom=n.bottom+r,e.width=n.right-n.left,e.height=n.bottom-n.top,e):e}function T(t,e){t.insertBefore(e,t.firstChild)}function E(t){return t.nextElementSibling}function A(t){return t.previousElementSibling}function _(t,e,n){void 0===n&&(n={});var r=document.createElement("a");r.href=t,r.target=e,r=Object(i.j)(r,n),u.Browser.firefox?r.dispatchEvent(new MouseEvent("click",{bubbles:!0,cancelable:!0,view:window})):r.click()}function F(){var t=window.screen.orientation;return!!t&&("landscape-primary"===t.type||"landscape-secondary"===t.type)||90===window.orientation||-90===window.orientation}},function(t,e,n){"use strict";n.d(e,"h",(function(){return u})),n.d(e,"f",(function(){return c})),n.d(e,"l",(function(){return l})),n.d(e,"k",(function(){return f})),n.d(e,"p",(function(){return d})),n.d(e,"g",(function(){return p})),n.d(e,"e",(function(){return h})),n.d(e,"n",(function(){return v})),n.d(e,"r",(function(){return g})),n.d(e,"d",(function(){return m})),n.d(e,"i",(function(){return b})),n.d(e,"q",(function(){return y})),n.d(e,"j",(function(){return j})),n.d(e,"c",(function(){return w})),n.d(e,"b",(function(){return O})),n.d(e,"o",(function(){return k})),n.d(e,"m",(function(){return C})),n.d(e,"a",(function(){return x}));var r=navigator.userAgent;function i(t){return null!==r.match(t)}function o(t){return function(){return i(t)}}function u(){var t=x();return!!(t&&t>=18)}var a=function(){return"MacIntel"===navigator.platform&&navigator.maxTouchPoints>1},c=o(/gecko\//i),s=o(/trident\/.+rv:\s*11/i),l=o(/iP(hone|od)/i),f=function(){return i(/iPad/i)||a()},d=function(){return i(/Macintosh/i)&&!a()},p=o(/FBAV/i);function h(){return i(/\sEdge\/\d+/i)}function v(){return i(/msie/i)}function g(){return i(/SMART-TV/)}function m(){return i(/\s(?:(?:Headless)?Chrome|CriOS)\//i)&&!h()&&!i(/UCBrowser/i)&&!g()}function b(){return h()||s()||v()}function y(){return i(/safari/i)&&!i(/(?:Chrome|CriOS|chromium|android|phantom)/i)||g()}function j(){return i(/iP(hone|ad|od)/i)||a()}function w(){return!(i(/chrome\/[123456789]/i)&&!i(/chrome\/18/i)&&!c())&&O()}function O(){return i(/Android/i)&&!i(/Windows Phone/i)}function k(){return j()||O()||i(/Windows Phone/i)}function C(){try{return window.self!==window.top}catch(t){return!0}}function x(){if(O())return 0;var t,e=navigator.plugins;if(e&&(t=e.namedItem("Shockwave Flash"))&&t.description)return parseFloat(t.description.replace(/\D+(\d+\.?\d*).*/,"$1"));if(void 0!==window.ActiveXObject){try{if(t=new window.ActiveXObject("ShockwaveFlash.ShockwaveFlash"))return parseFloat(t.GetVariable("$version").split(" ")[1].replace(/\s*,\s*/,"."))}catch(t){return 0}return t}return 0}},function(t,e,n){"use strict";n.r(e),n.d(e,"exists",(function(){return i})),n.d(e,"isHTTPS",(function(){return o})),n.d(e,"isFileProtocol",(function(){return u})),n.d(e,"isRtmp",(function(){return a})),n.d(e,"isYouTube",(function(){return c})),n.d(e,"typeOf",(function(){return s})),n.d(e,"isDeepKeyCompliant",(function(){return l}));var r=window.location.protocol;function i(t){switch(typeof t){case"string":return t.length>0;case"object":return null!==t;case"undefined":return!1;default:return!0}}function o(){return"https:"===r}function u(){return"file:"===r}function a(t,e){return 0===t.indexOf("rtmp:")||"rtmp"===e}function c(t,e){return"youtube"===e||/^(http|\/\/).*(youtube\.com|youtu\.be)\/.+/.test(t)}function s(t){if(null===t)return"null";var e=typeof t;return"object"===e&&Array.isArray(t)?"array":e}function l(t,e,n){var r=Object.keys(t);return Object.keys(e).length>=r.length&&r.every((function(r){var i=t[r],o=e[r];return i&&"object"==typeof i?!(!o||"object"!=typeof o)&&l(i,o,n):n(r,t)}))}},function(t,e,n){"use strict";n.d(e,"a",(function(){return r})),n.d(e,"c",(function(){return i})),n.d(e,"d",(function(){return o})),n.d(e,"b",(function(){return u})),n.d(e,"e",(function(){return a})),n.d(e,"f",(function(){return c}));var r=function(){function t(){}var e=t.prototype;return e.on=function(t,e,n){if(!l(this,"on",t,[e,n])||!e)return this;var r=this._events||(this._events={});return(r[t]||(r[t]=[])).push({callback:e,context:n}),this},e.once=function(t,e,n){if(!l(this,"once",t,[e,n])||!e)return this;var r=0,i=this,o=function n(){r++||(i.off(t,n),e.apply(this,arguments))};return o._callback=e,this.on(t,o,n)},e.off=function(t,e,n){if(!this._events||!l(this,"off",t,[e,n]))return this;if(!t&&!e&&!n)return delete this._events,this;for(var r=t?[t]:Object.keys(this._events),i=0,o=r.length;i1?e-1:0),r=1;r1?e-1:0),r=1;r<e;r++)n[r-1]=arguments[r];if(!this._events)return this;if(!l(this,"trigger",t,n))return this;var i=this._events[t],o=this._events.all;return i&&f(i,n,this,t),o&&f(o,arguments,this,t),this},t}(),i=r.prototype.on,o=r.prototype.once,u=r.prototype.off,a=r.prototype.trigger,c=r.prototype.triggerSafe;r.on=i,r.once=o,r.off=u,r.trigger=a;var s=/\s+/;function l(t,e,n,r){if(!n)return!0;if("object"==typeof n){for(var i in n)Object.prototype.hasOwnProperty.call(n,i)&&t[e].apply(t,[i,n[i]].concat(r));return!1}if(s.test(n)){for(var o=n.split(s),u=0,a=o.length;u<a;u++)t[e].apply(t,[o[u]].concat(r));return!1}return!0}function f(t,e,n,r){for(var i=-1,o=t.length;++i<o;){var u=t[i];if(r)try{u.callback.apply(u.context||n,e)}catch(t){console.log('Error in "'+r+'" event handler:',t)}else u.callback.apply(u.context||n,e)}}},function(t,e,n){"use strict";n.d(e,"a",(function(){return l})),n.d(e,"d",(function(){return f})),n.d(e,"b",(function(){return d})),n.d(e,"c",(function(){return p}));var r=n(30),i=n(24),o=n(17),u=n(13),a=n(40),c=n(1),s=null,l={};function f(t){return s||(s=function(t){var e=t.get("controls"),s=h(),f=function(t,e){var n=t.get("playlist");if(Array.isArray(n)&&n.length)for(var u=Object(i.f)(t.get("item"),n.length),a=Object(i.c)(Object(r.a)(n[u]),t),c=0;c<a.length;c++)for(var s=a[c],l=t.getProviders(),f=0;f<o.a.length;f++){var d=o.a[f];if(l.providerSupports(d,s))return d.name===e}return!1}(t,"html5");if(e&&s&&f)return p=n.e(7).then(function(t){n(37);var e=n(22).default;return a.a.controls=n(21).default,Object(u.a)(n(53).default),e}.bind(null,n)).catch(d(c.t+105)),l.html5=p,p;var p;if(e&&f)return function(){var t=n.e(5).then(function(t){var e=n(22).default;return a.a.controls=n(21).default,Object(u.a)(n(53).default),e}.bind(null,n)).catch(d(c.t+104));return l.html5=t,t}();if(e&&s)return n.e(6).then(function(t){n(37);var e=n(22).default;return a.a.controls=n(21).default,e}.bind(null,n)).catch(d(c.t+103));if(e)return n.e(4).then(function(t){var e=n(22).default;return a.a.controls=n(21).default,e}.bind(null,n)).catch(d(c.t+102));return(h()?n.e(9).then(function(t){return n(37)}.bind(null,n)).catch(d(c.t+120)):Promise.resolve()).then((function(){return n.e(3).then(function(t){return n(22).default}.bind(null,n)).catch(d(c.t+101))}))}(t)),s}function d(t,e){return function(){throw new c.s(c.m,t,e)}}function p(t,e){return function(){throw new c.s(null,t,e)}}function h(){var t=window.IntersectionObserverEntry;return!(t&&"IntersectionObserver"in window&&"intersectionRatio"in t.prototype)}},function(t,e,n){"use strict";n.d(e,"a",(function(){return a})),n.d(e,"b",(function(){return c})),n.d(e,"d",(function(){return s})),n.d(e,"e",(function(){return d})),n.d(e,"c",(function(){return p}));var r,i=n(2),o=n(43),u=n.n(o),a=u.a.clear;function c(t,e,n,r){n=n||"all-players";var i="";if("object"==typeof e){var o=document.createElement("div");s(o,e);var a=o.style.cssText;Object.prototype.hasOwnProperty.call(e,"content")&&a&&(a=a+' content: "'+e.content+'";'),r&&a&&(a=a.replace(/;/g," !important;")),i="{"+a+"}"}else"string"==typeof e&&(i=e);""!==i&&"{}"!==i?u.a.style([[t,t+i]],n):u.a.clear(n,t)}function s(t,e){if(null!=t){var n;void 0===t.length&&(t=[t]);var r={};for(n in e)Object.prototype.hasOwnProperty.call(e,n)&&(r[n]=f(n,e[n]));for(var i=0;i<t.length;i++){var o=t[i],u=void 0;if(null!=o)for(n in r)Object.prototype.hasOwnProperty.call(r,n)&&(u=l(n),o.style[u]!==r[n]&&(o.style[u]=r[n]))}}}function l(t){t=t.split("-");for(var e=1;e<t.length;e++)t[e]=t[e].charAt(0).toUpperCase()+t[e].slice(1);return t.join("")}function f(t,e){return""===e||null==e?"":"string"==typeof e&&isNaN(e)?/png|gif|jpe?g/i.test(e)&&e.indexOf("url")<0?"url("+e+")":e:0===e||"z-index"===t||"opacity"===t?""+e:/color/i.test(t)?"#"+Object(i.e)(e.toString(16).replace(/^0x/i,""),6):Math.ceil(e)+"px"}function d(t,e){s(t,{transform:e,webkitTransform:e,msTransform:e,mozTransform:e,oTransform:e})}function p(t,e){var n="rgb",i=void 0!==e&&100!==e;if(i&&(n+="a"),!r){var o=document.createElement("canvas");o.height=1,o.width=1,r=o.getContext("2d")}t?isNaN(parseInt(t,16))||(t="#"+t):t="#000000",r.clearRect(0,0,1,1),r.fillStyle=t,r.fillRect(0,0,1,1);var u=r.getImageData(0,0,1,1).data;return n+="("+u[0]+", "+u[1]+", "+u[2],i&&(n+=", "+e/100),n+")"}},function(t,e,n){"use strict";n.r(e),n.d(e,"getAbsolutePath",(function(){return o})),n.d(e,"isAbsolutePath",(function(){return u})),n.d(e,"parseXML",(function(){return a})),n.d(e,"serialize",(function(){return c})),n.d(e,"parseDimension",(function(){return s})),n.d(e,"timeFormat",(function(){return l}));var r=n(8),i=n(0);function o(t,e){if(e&&Object(r.exists)(e)||(e=document.location.href),!Object(r.exists)(t))return"";if(u(t))return t;var n,i=e.substring(0,e.indexOf("://")+3),o=e.substring(i.length,e.indexOf("/",i.length+1));if(0===t.indexOf("/"))n=t.split("/");else{var a=e.split("?")[0];n=(a=a.substring(i.length+o.length+1,a.lastIndexOf("/"))).split("/").concat(t.split("/"))}for(var c=[],s=0;s<n.length;s++)n[s]&&Object(r.exists)(n[s])&&"."!==n[s]&&(".."===n[s]?c.pop():c.push(n[s]));return i+o+"/"+c.join("/")}function u(t){return/^(?:(?:https?|file):)?\/\//.test(t)}function a(t){var e=null;try{(e=(new window.DOMParser).parseFromString(t,"text/xml")).querySelector("parsererror")&&(e=null)}catch(t){}return e}function c(t){if(void 0===t)return null;if("string"==typeof t&&t.length<6){var e=t.toLowerCase();if("true"===e)return!0;if("false"===e)return!1;if(!Object(i.u)(Number(t))&&!Object(i.u)(parseFloat(t)))return Number(t)}return t}function s(t){return Object(i.z)(t)?t:""===t?0:t.lastIndexOf("%")>-1?t:parseInt(t.replace("px",""),10)}function l(t,e){if(Object(i.u)(t)&&(t=parseInt(t.toString())),Object(i.u)(t)||!isFinite(t)||t<=0&&!e)return"00:00";var n=t<0?"-":"";t=Math.abs(t);var r=Math.floor(t/3600),o=Math.floor((t-3600*r)/60),u=Math.floor(t%60);return n+(r?r+":":"")+(o<10?"0":"")+o+":"+(u<10?"0":"")+u}},function(t,e,n){"use strict";n.d(e,"a",(function(){return a}));var r=n(33),i=n(17),o=n(60),u=n(0);function a(t){var e=t.getName().name;if(!r.a[e]){if(!Object(u.l)(i.a,Object(u.B)({name:e}))){if(!Object(u.t)(t.supports))throw new Error("Tried to register a provider with an invalid object");i.a.unshift({name:e,supports:t.supports})}Object(u.g)(t.prototype,o.a),r.a[e]=t}}},function(t,e,n){"use strict";n.d(e,"j",(function(){return p})),n.d(e,"d",(function(){return h})),n.d(e,"b",(function(){return v})),n.d(e,"e",(function(){return m})),n.d(e,"g",(function(){return y})),n.d(e,"h",(function(){return j})),n.d(e,"c",(function(){return w})),n.d(e,"f",(function(){return k})),n.d(e,"i",(function(){return C})),n.d(e,"a",(function(){return x}));var r=n(0),i=n(7),o=n(29),u=n(8),a=n(42),c={},s={zh:"Chinese",nl:"Dutch",en:"English",fr:"French",de:"German",it:"Italian",ja:"Japanese",pt:"Portuguese",ru:"Russian",es:"Spanish",el:"Greek",fi:"Finnish",id:"Indonesian",ko:"Korean",th:"Thai",vi:"Vietnamese"},l=Object(r.q)(s);function f(t){var e=d(t),n=e.indexOf("_");return-1===n?e:e.substring(0,n)}function d(t){return t.toLowerCase().replace("-","_")}function p(t){return t?Object.keys(t).reduce((function(e,n){return e[d(n)]=t[n],e}),{}):{}}function h(t){if(t)return 3===t.length?t:s[f(t)]||t}function v(t){return l[t]||""}function g(t){var e=t.querySelector("html");return e?e.getAttribute("lang"):null}function m(){var t=g(document);if(!t&&Object(i.m)())try{t=g(window.top.document)}catch(t){}return t||navigator.language||"en"}var b=["ar","da","de","el","es","fi","fr","he","id","it","ja","ko","nl","no","oc","pt","ro","ru","sl","sv","th","tr","vi","zh"];function y(t){return 8207===t.charCodeAt(0)||/^[\u0591-\u07FF\uFB1D-\uFDFD\uFE70-\uFEFC]/.test(t)}function j(t){return b.indexOf(f(t))>=0}function w(t,e,n){return Object(r.j)({},function(t){var e=t.advertising,n=t.related,i=t.sharing,o=t.abouttext,u=Object(r.j)({},t.localization);e&&(u.advertising=u.advertising||{},O(u.advertising,e,"admessage"),O(u.advertising,e,"cuetext"),O(u.advertising,e,"loadingAd"),O(u.advertising,e,"podmessage"),O(u.advertising,e,"skipmessage"),O(u.advertising,e,"skiptext"));"string"==typeof u.related?u.related={heading:u.related}:u.related=u.related||{};n&&O(u.related,n,"autoplaymessage");i&&(u.sharing=u.sharing||{},O(u.sharing,i,"heading"),O(u.sharing,i,"copied"));o&&O(u,t,"abouttext");var a=u.close||u.nextUpClose;a&&(u.close=a);return u}(t),e[f(n)],e[d(n)])}function O(t,e,n){var r=t[n]||e[n];r&&(t[n]=r)}function k(t){return Object(u.isDeepKeyCompliant)(a.a,t,(function(t,e){return"string"==typeof e[t]}))}function C(t,e){var n=c[e];if(!n){var r=t+"translations/"+f(e)+".json";c[e]=n=new Promise((function(t,n){Object(o.b)({url:r,oncomplete:t,onerror:function(t,r,i,o){c[e]=null,n(o)},responseType:"json"})}))}return n}function x(t,e){var n=Object(r.j)({},t,e);return P(n,"errors",t,e),P(n,"related",t,e),P(n,"sharing",t,e),P(n,"advertising",t,e),P(n,"shortcuts",t,e),P(n,"captionsStyles",t,e),n}function P(t,e,n,i){t[e]=Object(r.j)({},n[e],i[e])}},function(t,e,n){"use strict";e.a=[]},function(t,e,n){"use strict";e.a={debug:!1}},function(t,e,n){"use strict";var r=n(28),i=n(5),o=n(23),u=n(0),a=n(8),c=n(36),s=Object(u.l)(r.a,Object(u.B)({name:"html5"})),l=s.supports;function f(t){var e=window.MediaSource;return Object(u.a)(t,(function(t){return!!e&&!!e.isTypeSupported&&e.isTypeSupported(t)}))}function d(t){if(t.drm)return!1;var e=t.file.indexOf(".m3u8")>-1,n="hls"===t.type||"m3u8"===t.type;if(!e&&!n)return!1;var r=i.Browser.chrome||i.Browser.firefox||i.Browser.edge||i.Browser.ie&&11===i.Browser.version.major,o=i.OS.android&&!1===t.hlsjsdefault,u=i.Browser.safari&&!!t.safarihlsjs;return f(t.mediaTypes||['video/mp4;codecs="avc1.4d400d,mp4a.40.2"'])&&(r||u)&&!o}s.supports=function(t,e){var n=l.apply(this,arguments);if(n&&t.drm&&"hls"===t.type){var r=Object(o.a)(e),i=r("drm");if(i&&t.drm.fairplay){var u=window.WebKitMediaKeys;return u&&u.isTypeSupported&&u.isTypeSupported("com.apple.fps.1_0","video/mp4")}return i}return n},r.a.push({name:"shaka",supports:function(t){return!(t.drm&&!Object(c.a)(t.drm))&&(!(!window.HTMLVideoElement||!window.MediaSource)&&(f(t.mediaTypes)&&("dash"===t.type||"mpd"===t.type||(t.file||"").indexOf("mpd-time-csf")>-1)))}}),r.a.unshift({name:"hlsjs",supports:function(t){return d(t)}}),r.a.unshift({name:"hlsjsProgressive",supports:function(t){return t._hlsjsProgressive&&d(t)}}),r.a.push({name:"flash",supports:function(t){if(!i.Features.flash||t.drm)return!1;var e=t.type;return"hls"===e||"m3u8"===e||!Object(a.isRtmp)(t.file,e)&&["flv","f4v","mov","m4a","m4v","mp4","aac","f4a","mp3","mpeg","smil"].indexOf(e)>-1}}),e.a=r.a},function(t,e,n){"use strict";n.d(e,"a",(function(){return r}));var r=Date.now||function(){return(new Date).getTime()}},function(t,e,n){"use strict";n.r(e),n.d(e,"getScriptPath",(function(){return o})),n.d(e,"repo",(function(){return u})),n.d(e,"versionCheck",(function(){return a})),n.d(e,"loadFrom",(function(){return c}));var r=n(31),i=n(8),o=function(t){for(var e=document.getElementsByTagName("script"),n=0;n=0)return r.substr(0,i+1)}}return""},u=function(){var t="//ssl.p.jwpcdn.com/player/v/8.15.1/";return""+(Object(i.isFileProtocol)()?"https:":"")+t},a=function(t){var e=("0"+t).split(/\W/),n=r.a.split(/\W/),i=parseFloat(e[0]),o=parseFloat(n[0]);return!(i>o)&&!(i===o&&parseFloat("0"+e[1])>parseFloat(n[1]))},c=function(){return u()}},function(t,e,n){"use strict";n.d(e,"a",(function(){return i})),n.d(e,"c",(function(){return o})),n.d(e,"b",(function(){return u}));var r=n(39),i=r.a,o=r.c;function u(t){var e=Object(r.b)(t);if(!t)return e;switch(Object(r.c)(t)){case"jwpsrv":e=305001;break;case"googima":e=305002;break;case"vast":e=305003;break;case"freewheel":e=305004;break;case"dai":e=305005;break;case"gapro":e=305006;break;case"bidding":e=305007}return e}},,,function(t,e,n){"use strict";n.d(e,"a",(function(){return r}));function r(t){var e={setup:["free","starter","business","premium","enterprise","developer","ads","unlimited","trial","platinum"],drm:["enterprise","developer","ads","unlimited","trial"],ads:["ads","unlimited","trial","platinum","enterprise","developer","business"],jwpsrv:["free","starter","business","premium","enterprise","developer","ads","trial","platinum","invalid"],discovery:["ads","enterprise","developer","trial","unlimited"]};return function(n){return e[n]&&e[n].indexOf(t)>-1}}},function(t,e,n){"use strict";var r=n(0),i={none:!0,metadata:!0,auto:!0};function o(t,e){return i[t]?t:i[e]?e:"metadata"}var u=n(30),a=n(34),c=n(44),s=n(1);n.d(e,"b",(function(){return l})),n.d(e,"e",(function(){return f})),n.d(e,"d",(function(){return d})),n.d(e,"f",(function(){return p})),n.d(e,"c",(function(){return h}));function l(t,e,n){var i=Object(r.j)({},n);return delete i.playlist,t.map((function(t){return d(e,t,i)})).filter((function(t){return!!t}))}function f(t){if(!Array.isArray(t)||0===t.length)throw new s.s(s.o,630)}function d(t,e,n){var i=t.getProviders(),u=t.get("preload"),a=Object(r.j)({},e);if(a.preload=o(e.preload,u),a.allSources=v(e,t),a.sources=g(a.allSources,i),a.sources.length)return a.file=a.sources[0].file,a.feedData=n,function(t){var e=t.sources[0].liveSyncDuration;return t.dvrSeekLimit=t.liveSyncDuration=e,t}(a)}function p(t,e){var n=(parseInt(t,10)||0)%e;return n<0&&(n+=e),n}var h=function(t,e){return g(v(t,e),e.getProviders())};function v(t,e){var n=e.attributes,r=t.sources,i=t.allSources,u=t.preload,c=t.drm,s=m(t.withCredentials,n.withCredentials);return(i||r).map((function(e){if(e!==Object(e))return null;b(e,n,"androidhls"),b(e,n,"hlsjsdefault"),b(e,n,"safarihlsjs"),function(t,e,n){if(t.liveSyncDuration)return;var r=e.liveSyncDuration?e:n;b(t,r,"liveSyncDuration")}(e,t,n),b(e,n,"_hlsjsProgressive"),e.preload=o(e.preload,u);var r=e.drm||c||n.drm;r&&(e.drm=r);var i=m(e.withCredentials,s);return void 0!==i&&(e.withCredentials=i),Object(a.a)(e)})).filter((function(t){return!!t}))}function g(t,e){e&&e.choose||(e=new c.a);var n=function(t,e){for(var n=0;n<t.length;n++){var r=t[n],i=e.choose(r).providerToCheck;if(i)return{type:r.type,provider:i}}return null}(t,e);if(!n)return[];var r=n.provider,i=n.type;return t.filter((function(t){return t.type===i&&e.providerSupports(r,t)}))}function m(t,e){return void 0===t?e:t}function b(t,e,n){n in e&&(t[n]=e[n])}e.a=function(t){return(Array.isArray(t)?t:[t]).map(u.a)}},function(t,e,n){"use strict";var r=n(0),i=n(9),o=n(3),u={};function a(t){var e=document.createElement("link");return e.type="text/css",e.rel="stylesheet",e.href=t,e}function c(t,e){var n=document.createElement("script");return n.type="text/javascript",n.charset="utf-8",n.async=!0,n.timeout=e||45e3,n.src=t,n}var s=function(t,e,n){var r=this,i=0;function s(t){i=2,r.trigger(o.w,t).off()}function l(t){i=3,r.trigger(o.lb,t).off()}this.getStatus=function(){return i},this.load=function(){var r=u[t];return 0!==i?r:(r&&r.then(l).catch(s),i=1,r=new Promise((function(r,i){var o=(e?a:c)(t,n),u=function(){o.onerror=o.onload=null,clearTimeout(d)},f=function(t){u(),s(t),i(t)},d=setTimeout((function(){f(new Error("Network timeout "+t))}),45e3);o.onerror=function(){f(new Error("Failed to load "+t))},o.onload=function(t){u(),l(t),r(t)};var p=document.getElementsByTagName("head")[0]||document.documentElement;p.insertBefore(o,p.firstChild)})),u[t]=r,r)}};Object(r.j)(s.prototype,i.a),e.a=s},function(t,e,n){"use strict";var r=n(1),i=n(20),o=function(){this.load=function(t,e,n,o){return n&&"object"==typeof n?Promise.all(Object.keys(n).filter((function(t){return t})).map((function(u){var a=n[u];return e.setupPlugin(u).then((function(e){if(!o.attributes._destroyed)return Object(i.a)(e,a,t)})).catch((function(t){return e.removePlugin(u),t.code?t:new r.s(null,Object(i.b)(u),t)}))}))):Promise.resolve()}},u=n(61),a=n(49),c={},s=function(){function t(){}var e=t.prototype;return e.setupPlugin=function(t){var e=this.getPlugin(t);return e?(e.url!==t&&Object(a.a)('JW Plugin "'+Object(i.c)(t)+'" already loaded from "'+e.url+'". Ignoring "'+t+'."'),e.promise):this.addPlugin(t).load()},e.addPlugin=function(t){var e=Object(i.c)(t),n=c[e];return n||(n=new u.a(t),c[e]=n),n},e.getPlugin=function(t){return c[Object(i.c)(t)]},e.removePlugin=function(t){delete c[Object(i.c)(t)]},e.getPlugins=function(){return c},t}();n.d(e,"b",(function(){return f})),n.d(e,"a",(function(){return d}));var l=new s,f=function(t,e,n){var r=l.addPlugin(t);r.js||r.registerPlugin(t,e,n)};function d(t,e){var n=t.get("plugins");return window.jwplayerPluginJsonp=f,(t.pluginLoader=t.pluginLoader||new o).load(e,l,n,t).then((function(e){if(!t.attributes._destroyed)return delete window.jwplayerPluginJsonp,e}))}},function(t,e,n){"use strict";n.d(e,"a",(function(){return a}));var r=n(50),i=n(23),o=n(47),u=n(1),a=100013;e.b=function(t){var e,n,c;try{var s=Object(r.a)(t||"",Object(o.a)("NDh2aU1Cb0NHRG5hcDFRZQ==")).split("/");if("pro"===(e=s[0])&&(e="premium"),Object(i.a)(e)("setup")||(e="invalid"),s.length>2){n=s[1];var l=parseInt(s[2]);l>0&&(c=new Date).setTime(l)}}catch(t){e="invalid"}this.edition=function(){return e},this.token=function(){return n},this.expiration=function(){return c},this.duration=function(){return c?c.getTime()-(new Date).getTime():0},this.error=function(){var r;return void 0===t?r=100011:"invalid"!==e&&n?this.duration()<0&&(r=a):r=100012,r?new u.s(u.m,r):null}}},function(t,e,n){"use strict";n.d(e,"b",(function(){return c}));var r=n(68),i=n(8),o=n(41),u={aac:"audio/mp4",mp4:"video/mp4",f4v:"video/mp4",m4v:"video/mp4",mov:"video/mp4",mp3:"audio/mpeg",mpeg:"audio/mpeg",ogv:"video/ogg",ogg:"video/ogg",oga:"video/ogg",vorbis:"video/ogg",webm:"video/webm",f4a:"video/aac",m3u8:"application/vnd.apple.mpegurl",m3u:"application/vnd.apple.mpegurl",hls:"application/vnd.apple.mpegurl"},a=[{name:"html5",supports:c}];function c(t){if(!1===Object(r.a)(t))return!1;if(!o.a.canPlayType)return!1;var e=t.file,n=t.type;if(Object(i.isRtmp)(e,n))return!1;var a=t.mimeType||u[n];if(!a)return!1;var c=t.mediaTypes;return c&&c.length&&(a=[a].concat(c.slice()).join("; ")),!!o.a.canPlayType(a)}e.a=a},function(t,e,n){"use strict";n.d(e,"b",(function(){return c})),n.d(e,"a",(function(){return s}));var r=n(0),i=n(12),o=n(8),u=n(1),a=function(){};function c(t,e,n,d){var p;t===Object(t)&&(t=(d=t).url);var h=Object(r.j)({xhr:null,url:t,withCredentials:!1,retryWithoutCredentials:!1,timeout:6e4,timeoutId:-1,oncomplete:e||a,onerror:n||a,mimeType:d&&!d.responseType?"text/xml":"",requireValidXML:!1,responseType:d&&d.plainText?"text":"",useDomParser:!1,requestFilter:null},d),v=function(t,e){return function(t,n){var i=t.currentTarget||e.xhr;if(clearTimeout(e.timeoutId),e.retryWithoutCredentials&&e.xhr.withCredentials)return s(i),void c(Object(r.j)({},e,{xhr:null,withCredentials:!1,retryWithoutCredentials:!1}));!n&&i.status>=400&&i.status<600&&(n=i.status),l(e,n?u.o:u.r,n||6,t)}}(0,h);if("XMLHttpRequest"in window){if(p=h.xhr=h.xhr||new window.XMLHttpRequest,"function"==typeof h.requestFilter){var g;try{g=h.requestFilter({url:t,xhr:p})}catch(t){return v(t,5),p}g&&"open"in g&&"send"in g&&(p=h.xhr=g)}p.onreadystatechange=function(t){return function(e){var n=e.currentTarget||t.xhr;if(4===n.readyState){clearTimeout(t.timeoutId);var a=n.status;if(a>=400)return void l(t,u.o,a<600?a:6);if(200===a)return function(t){return function(e){var n=e.currentTarget||t.xhr;if(clearTimeout(t.timeoutId),t.responseType){if("json"===t.responseType)return function(t,e){if(!t.response||"string"==typeof t.response&&'"'!==t.responseText.substr(1))try{t=Object(r.j)({},t,{response:JSON.parse(t.responseText)})}catch(t){return void l(e,u.o,611,t)}return e.oncomplete(t)}(n,t)}else{var o,a=n.responseXML;if(a)try{o=a.firstChild}catch(t){}if(a&&o)return f(n,a,t);if(t.useDomParser&&n.responseText&&!a&&(a=Object(i.parseXML)(n.responseText))&&a.firstChild)return f(n,a,t);if(t.requireValidXML)return void l(t,u.o,602)}t.oncomplete(n)}}(t)(e);0===a&&Object(o.isFileProtocol)()&&!/^[a-z][a-z0-9+.-]*:/.test(t.url)&&l(t,u.o,7)}}}(h),p.onerror=v,"overrideMimeType"in p?h.mimeType&&p.overrideMimeType(h.mimeType):h.useDomParser=!0;try{t=t.replace(/#.*$/,""),p.open("GET",t,!0)}catch(t){return v(t,3),p}if(h.responseType)try{p.responseType=h.responseType}catch(t){}h.timeout&&(h.timeoutId=setTimeout((function(){s(p),l(h,u.r,1)}),h.timeout),p.onabort=function(){clearTimeout(h.timeoutId)});try{h.withCredentials&&"withCredentials"in p&&(p.withCredentials=!0),p.send()}catch(t){v(t,4)}return p}l(h,u.r,2)}function s(t){t.onload=null,t.onprogress=null,t.onreadystatechange=null,t.onerror=null,"abort"in t&&t.abort()}function l(t,e,n,r){t.onerror(e,t.url,t.xhr,new u.s(e,n,r))}function f(t,e,n){var i=e.documentElement;if(!n.requireValidXML||"parsererror"!==i.nodeName&&!i.getElementsByTagName("parsererror").length)return t.responseXML||(t=Object(r.j)({},t,{responseXML:e})),n.oncomplete(t);l(n,u.o,601)}},function(t,e,n){"use strict";var r=n(0),i=n(34),o=["captions","metadata","thumbnails","chapters"];var u=function(t){if(t&&t.file){var e,n=Object(r.j)({},{kind:"captions",default:!1},t);return n.kind=(e=n.kind,-1!==o.indexOf(e)?n.kind:"captions"),n.default=!!n.default,n}},a=Array.isArray;e.a=function(t){a((t=t||{}).tracks)||delete t.tracks;var e=Object(r.j)({},{sources:[],tracks:[],minDvrWindow:120,dvrSeekLimit:25},t);e.sources!==Object(e.sources)||a(e.sources)||(e.sources=[Object(i.a)(e.sources)]),a(e.sources)&&0!==e.sources.length||(t.levels?e.sources=t.levels:e.sources=[Object(i.a)(t)]);for(var n=0;n36&&(x(t,i.u,e),t.dragged=!0,x(t,i.s,e))}n||"touchmove"!==e.type||S(e)},h=function(n){if(clearTimeout(c),t.el)if(k(t),O(t,"window"),t.dragged)t.dragged=!1,x(t,i.t,n);else if(-1===n.type.indexOf("cancel")&&e.contains(n.target)){if(Object(u.a)()-t.lastStart>500)return;var r="pointerup"===n.type||"pointercancel"===n.type,o="mouseup"===n.type||r&&"mouse"===n.pointerType;!function(t,e,n){if(t.enableDoubleTap)if(Object(u.a)()-t.lastClick<300){var r=n?i.q:i.r;x(t,r,e),t.lastClick=0}else t.lastClick=Object(u.a)()}(t,n,o),o?x(t,i.n,n):(x(t,i.sb,n),"touchend"!==n.type||p||S(n))}};f?w(t,"init","pointerdown",o,r):(d&&w(t,"init","mousedown",o,r),w(t,"init","touchstart",o,r)),s||(s=new v(document).on("interaction")),w(t,"init","blur",(function(){Object(a.o)(e,"jw-tab-focus")})),w(t,"init","focus",(function(){s.event&&"keydown"===s.event.type&&Object(a.a)(e,"jw-tab-focus")}))}}var y={drag:function(t){b(t)},dragStart:function(t){b(t)},dragEnd:function(t){b(t)},click:function(t){b(t)},tap:function(t){if(r.OS.iOS&&r.OS.version.major<11){var e=document.body;e&&(e.ontouchstart=e.ontouchstart||function(){})}b(t)},doubleTap:function(t){t.enableDoubleTap=!0,b(t)},doubleClick:function(t){t.enableDoubleTap=!0,b(t)},longPress:function(t){if(r.OS.iOS){var e=function(){clearTimeout(c)};w(t,"longPress","touchstart",(function(n){e(),c=setTimeout((function(){x(t,"longPress",n)}),500)})),w(t,"longPress","touchmove",e),w(t,"longPress","touchcancel",e),w(t,"longPress","touchend",e)}else t.el.oncontextmenu=function(e){return x(t,"longPress",e),!1}},focus:function(t){w(t,"focus","focus",(function(e){C(t,"focus",e)}))},blur:function(t){w(t,"blur","blur",(function(e){C(t,"blur",e)}))},over:function(t){(f||d)&&w(t,i.Z,f?"pointerover":"mouseover",(function(e){"touch"!==e.pointerType&&x(t,i.Z,e)}))},out:function(t){if(f){var e=t.el;w(t,i.Y,"pointerout",(function(n){if("touch"!==n.pointerType&&"x"in n){var r=document.elementFromPoint(n.x,n.y);e.contains(r)||x(t,i.Y,n)}}))}else d&&w(t,i.Y,"mouseout",(function(e){x(t,i.Y,e)}))},move:function(t){(f||d)&&w(t,i.W,f?"pointermove":"mousemove",(function(e){"touch"!==e.pointerType&&x(t,i.W,e)}))},enter:function(t){w(t,i.v,"keydown",(function(e){"Enter"!==e.key&&13!==e.keyCode||(e.stopPropagation(),C(t,i.v,e))}))},keydown:function(t){w(t,"keydown","keydown",(function(e){C(t,"keydown",e)}),!1)},gesture:function(t){var e=function(e){return x(t,"gesture",e)};w(t,"gesture","click",e),w(t,"gesture","keydown",e)},interaction:function(t){var e=function(e){t.event=e};w(t,"interaction","mousedown",e,!0),w(t,"interaction","keydown",e,!0)}};function j(t){var e=t.ownerDocument||t;return e.defaultView||e.parentWindow||window}function w(t,e,n,r,i){void 0===i&&(i=h);var o=t.handlers[e],u=t.options[e];if(o||(o=t.handlers[e]={},u=t.options[e]={}),o[n])throw new Error(e+" "+n+" already registered");o[n]=r,u[n]=i;var a=t.el;("window"===e?j(a):a).addEventListener(n,r,i)}function O(t,e){var n=t.el,r=t.handlers,i=t.options,o="window"===e?j(n):n,u=r[e],a=i[e];u&&(Object.keys(u).forEach((function(t){var e=a[t];"boolean"==typeof e?o.removeEventListener(t,u[t],e):o.removeEventListener(t,u[t])})),r[e]=null,i[e]=null)}function k(t){var e=t.el;null!==t.pointerId&&(e.releasePointerCapture(t.pointerId),t.pointerId=null)}function C(t,e,n){var r=t.el,i=n.target;t.trigger(e,{type:e,sourceEvent:n,currentTarget:r,target:i})}function x(t,e,n){var r=function(t,e,n){var r,i=e.target,o=e.touches,u=e.changedTouches,a=e.pointerType;o||u?(r=o&&o.length?o[0]:u[0],a=a||"touch"):(r=e,a=a||"mouse");var c=r,s=c.pageX,l=c.pageY;return{type:t,pointerType:a,pageX:s,pageY:l,sourceEvent:e,currentTarget:n,target:i}}(e,n,t.el);t.trigger(e,r)}function P(t){return 0===t.type.indexOf("touch")?(t.originalEvent||t).changedTouches[0]:t}function S(t){t.preventDefault&&t.preventDefault()}},function(t,e,n){"use strict";n.d(e,"b",(function(){return c})),n.d(e,"d",(function(){return s})),n.d(e,"c",(function(){return l})),n.d(e,"a",(function(){return f}));var r,i=n(23),o=[{configName:"clearkey",keyName:"org.w3.clearkey"},{configName:"widevine",keyName:"com.widevine.alpha"},{configName:"playready",keyName:"com.microsoft.playready"}],u=[],a={};function c(t){return t.some((function(t){return!!t.drm||t.sources.some((function(t){return!!t.drm}))}))}function s(t){return r||((navigator.requestMediaKeySystemAccess&&MediaKeySystemAccess.prototype.getConfiguration||window.MSMediaKeys)&&Object(i.a)(t)("drm")?(o.forEach((function(t){var e,n,r=(e=t.keyName,n=[{initDataTypes:["cenc"],videoCapabilities:[{contentType:'video/mp4;codecs="avc1.4d401e"'}],audioCapabilities:[{contentType:'audio/mp4;codecs="mp4a.40.2"'}]}],navigator.requestMediaKeySystemAccess?navigator.requestMediaKeySystemAccess(e,n):new Promise((function(t,n){var r;try{r=new window.MSMediaKeys(e)}catch(t){return void n(t)}t(r)}))).then((function(){a[t.configName]=!0})).catch((function(){a[t.configName]=!1}));u.push(r)})),r=Promise.all(u)):Promise.resolve())}function l(t){return a[t]}function f(t){if(r)return Object.keys(t).some((function(t){return l(t)}))}},,function(t,e,n){"use strict";var r=n(0),i=n(19),o=n(8),u=n(12),a=n(2),c=n(32),s=n(16);function l(t,e){this.name=t,this.message=e.message||e.toString(),this.error=e}var f=n(7),d=n(6),p=n(11),h=n(29),v=n(55),g=n(49),m=n(56);var b=Object(r.j)({},u,o,i,{addClass:d.a,hasClass:d.i,removeClass:d.o,replaceClass:d.p,toggleClass:d.v,classList:d.d,styleDimension:d.u,createElement:d.e,emptyElement:d.h,addStyleSheet:d.b,bounds:d.c,openLink:d.l,replaceInnerHtml:d.q,css:p.b,clearCss:p.a,style:p.d,transform:p.e,getRgba:p.c,ajax:h.b,crossdomain:function(t){var e=document.createElement("a"),n=document.createElement("a");e.href=location.href;try{return n.href=t,n.href=n.href,e.protocol+"//"+e.host!=n.protocol+"//"+n.host}catch(t){}return!0},tryCatch:function(t,e,n){if(void 0===n&&(n=[]),s.a.debug)return t.apply(e||this,n);try{return t.apply(e||this,n)}catch(e){return new l(t.name,e)}},Error:l,Timer:c.a,log:g.a,genId:m.b,between:v.a,foreach:function(t,e){for(var n in t)Object.prototype.hasOwnProperty.call(t,n)&&e(n,t[n])},flashVersion:f.a,isIframe:f.m,indexOf:r.p,trim:a.i,pad:a.e,extension:a.a,hms:a.b,seconds:a.g,prefix:a.f,suffix:a.h,noop:function(){}});e.a=b},function(t,e,n){"use strict";n.d(e,"c",(function(){return i})),n.d(e,"b",(function(){return o})),n.d(e,"a",(function(){return u}));var r=n(0),i=function(t){return t.replace(/^(.*\/)?([^-]*)-?.*\.(js)$/,"$2")};function o(t){return 305e3}function u(t,e,n){var i=t.name,o=document.createElement("div");o.id=n.id+"_"+i,o.className="jw-plugin jw-reset";var u=Object(r.j)({},e),a=t.getNewInstance(n,u,o);return n.addPlugin(i,a),a}},function(t,e,n){"use strict";n.d(e,"a",(function(){return o})),n.d(e,"b",(function(){return u}));var r=n(10),i=null,o={};function u(){return i||(i=n.e(2).then(function(t){var e=n(21).default;return o.controls=e,e}.bind(null,n)).catch((function(){i=null,Object(r.c)(301130)()}))),i}},function(t,e,n){"use strict";var r=document.createElement("video");e.a=r},function(t,e,n){"use strict";e.a={advertising:{admessage:"This ad will end in xx",cuetext:"Advertisement",displayHeading:"Advertisement",loadingAd:"Loading ad",podmessage:"Ad __AD_POD_CURRENT__ of __AD_POD_LENGTH__.",skipmessage:"Skip ad in xx",skiptext:"Skip"},airplay:"AirPlay",audioTracks:"Audio Tracks",auto:"Auto",buffer:"Loading",cast:"Chromecast",cc:"Closed Captions",close:"Close",errors:{badConnection:"This video cannot be played because of a problem with your internet connection.",cantLoadPlayer:"Sorry, the video player failed to load.",cantPlayInBrowser:"The video cannot be played in this browser.",cantPlayVideo:"This video file cannot be played.",errorCode:"Error Code",liveStreamDown:"The live stream is either down or has ended.",protectedContent:"There was a problem providing access to protected content.",technicalError:"This video cannot be played because of a technical error."},exitFullscreen:"Exit Fullscreen",fullscreen:"Fullscreen",hd:"Quality",liveBroadcast:"Live",logo:"Logo",mute:"Mute",next:"Next",nextUp:"Next Up",notLive:"Not Live",off:"Off",pause:"Pause",play:"Play",playback:"Play",playbackRates:"Playback Rates",player:"Video Player",poweredBy:"Powered by",prev:"Previous",related:{autoplaymessage:"Next up in xx",heading:"More Videos"},replay:"Replay",rewind:"Rewind 10 Seconds",settings:"Settings",sharing:{copied:"Copied",email:"Email",embed:"Embed",heading:"Share",link:"Link"},slider:"Seek",stop:"Stop",unmute:"Unmute",videoInfo:"About This Video",volume:"Volume",volumeSlider:"Volume",shortcuts:{playPause:"Play/Pause",volumeToggle:"Mute/Unmute",fullscreenToggle:"Fullscreen/Exit Fullscreen",seekPercent:"Seek %",keyboardShortcuts:"Keyboard Shortcuts",increaseVolume:"Increase Volume",decreaseVolume:"Decrease Volume",seekForward:"Seek Forward",seekBackward:"Seek Backward",spacebar:"SPACE",captionsToggle:"Captions On/Off"},captionsStyles:{subtitleSettings:"Subtitle Settings",color:"Font Color",fontOpacity:"Font Opacity",userFontScale:"Font Size",fontFamily:"Font Family",edgeStyle:"Character Edge",backgroundColor:"Background Color",backgroundOpacity:"Background Opacity",windowColor:"Window Color",windowOpacity:"Window Opacity",white:"White",black:"Black",red:"Red",green:"Green",blue:"Blue",yellow:"Yellow",magenta:"Magenta",cyan:"Cyan",none:"None",raised:"Raised",depressed:"Depressed",uniform:"Uniform",dropShadow:"Drop Shadow"},disabled:"Disabled",enabled:"Enabled",reset:"Reset"}},function(t,e){var n,r,i={},o={},u=(n=function(){return document.head||document.getElementsByTagName("head")[0]},function(){return void 0===r&&(r=n.apply(this,arguments)),r});function a(t){var e=document.createElement("style");return e.type="text/css",e.setAttribute("data-jwplayer-id",t),function(t){u().appendChild(t)}(e),e}function c(t,e){var n,r,i,u=o[t];u||(u=o[t]={element:a(t),counter:0});var c=u.counter++;return n=u.element,i=function(){f(n,c,"")},(r=function(t){f(n,c,t)})(e.css),function(t){if(t){if(t.css===e.css&&t.media===e.media)return;r((e=t).css)}else i()}}t.exports={style:function(t,e){!function(t,e){for(var n=0;n[id="'+t+'"].jw-error{background:#000;overflow:hidden;position:relative}[id="'+t+'"] .jw-error-msg{top:50%;left:50%;position:absolute;transform:translate(-50%,-50%)}[id="'+t+'"] .jw-error-text{text-align:start;color:#FFF;font:14px/1.35 Arial,Helvetica,sans-serif}'+(e||"")+''+(r?("("+n+": "+r+")").replace(/\s+/g,"�"):"")+""}(t.get("id"),n,t.get("localization").errors.errorCode,o.toString()),a=t.get("width"),c=t.get("height"),s=Object(r.e)(u);return Object(i.d)(s,{width:a.toString().indexOf("%")>0?a:a+"px",height:c.toString().indexOf("%")>0?c:c+"px"}),s}n.d(e,"a",(function(){return o}))},function(t,e,n){"use strict";function r(t){return t.slice&&"px"===t.slice(-2)&&(t=t.slice(0,-2)),t}function i(t,e){if(-1===e.toString().indexOf("%"))return 0;if("string"!=typeof t||!t)return 0;if(/^\d*\.?\d+%$/.test(t))return t;var n=t.indexOf(":");if(-1===n)return 0;var r=parseFloat(t.substr(0,n)),i=parseFloat(t.substr(n+1));return r<=0||i<=0?0:i/r*100+"%"}n.d(e,"b",(function(){return r})),n.d(e,"a",(function(){return i}))},function(t,e,n){"use strict";n.d(e,"a",(function(){return r}));var r=window.atob},function(t,e,n){"use strict";var r=n(4),i=n(2);function o(t){var e={zh:"Chinese",nl:"Dutch",en:"English",fr:"French",de:"German",it:"Italian",ja:"Japanese",pt:"Portuguese",ru:"Russian",es:"Spanish"};return e[t]?e[t]:t}function u(t){for(var e=[],n=0;n0&&(n=t(s,n));break;case"title":n.title=Object(r.d)(s);break;case"description":n.description=Object(r.d)(s);break;case"guid":n.mediaid=Object(r.d)(s);break;case"thumbnail":n.image||(n.image=Object(i.j)(s,"url"));break;case"group":t(s,n);break;case"subtitle":var d={file:Object(i.j)(s,"url"),kind:"captions"};Object(i.j)(s,"lang").length>0&&(d.label=o(Object(i.j)(s,"lang"))),a.push(d)}}}n.tracks||(n.tracks=[]);for(var p=0;p<a.length;p++)n.tracks.push(a[p]);return n},c=n(12),s=function(t,e){for(var n="default",o=[],u=[],a=0;a<t.childNodes.length;a++){var s=t.childNodes[a];if("jwplayer"===s.prefix){var l=Object(r.b)(s);"source"===l?(delete e.sources,o.push({file:Object(i.j)(s,"file"),default:Object(i.j)(s,n),label:Object(i.j)(s,"label"),type:Object(i.j)(s,"type")})):"track"===l?(delete e.tracks,u.push({file:Object(i.j)(s,"file"),default:Object(i.j)(s,n),kind:Object(i.j)(s,"kind"),label:Object(i.j)(s,"label")})):(e[l]=Object(c.serialize)(Object(r.d)(s)),"file"===l&&e.sources&&delete e.sources)}e.file||(e.file=e.link)}if(o.length){e.sources=[];for(var f=0;f<o.length;f++){var d=o[f];d.file.length>0&&(d[n]="true"===o[f][n],d.label||delete d.label,e.sources.push(d))}}if(u.length){e.tracks=[];for(var p=0;p0&&(h[n]="true"===u[p][n],h.kind=u[p].kind.length?u[p].kind:"captions",h.label||delete h.label,e.tracks.push(h))}}return e},l=n(30);function f(t){var e=[];e.feedData={};for(var n=0;n>>2&3;for(var p=s-1;p>=0;p--)o=((l=a[p>0?p-1:s-1])>>>5^f<<2)+(f>>>3^l<<4)^(d^f)+(c[3&p^u]^l),f=a[p]-=o;d-=2654435769}return function(t){try{return decodeURIComponent(escape(t))}catch(e){return t}}(function(t){for(var e=new Array(t.length),n=0;n>>8&255,t[n]>>>16&255,t[n]>>>24&255);return e.join("")}(a).replace(/\0+$/,""))}},function(t,e,n){"use strict";n.d(e,"b",(function(){return r})),n.d(e,"a",(function(){return i}));var r=window.requestAnimationFrame||function(t){return setTimeout(t,17)},i=window.cancelAnimationFrame||clearTimeout},function(t,e,n){"use strict";n.d(e,"b",(function(){return r})),n.d(e,"a",(function(){return i}));var r={audioMode:!1,flashBlocked:!1,itemMeta:{},playbackRate:1,playRejected:!1,state:n(3).nb,itemReady:!1,controlsEnabled:!1},i={position:0,duration:0,buffer:0,currentTime:0}},,function(t,e,n){"use strict";n.d(e,"a",(function(){return l})),n.d(e,"c",(function(){return f}));var r=n(0),i=n(46),o=n(19),u=n(12),a=n(5),c=n(42),s=n(14),l={autoPause:{viewability:!1,pauseAds:!1},autostart:!1,bandwidthEstimate:null,bitrateSelection:null,castAvailable:!1,controls:!0,cues:[],defaultPlaybackRate:1,displaydescription:!0,displaytitle:!0,displayPlaybackLabel:!1,enableShortcuts:!0,height:360,intl:{},item:0,language:"en",liveTimeout:null,localization:c.a,mute:!1,nextUpDisplay:!0,playbackRateControls:!1,playbackRates:[.5,1,1.25,1.5,2],renderCaptionsNatively:!1,repeat:!1,stretching:"uniform",volume:90,width:640};function f(t){return t?t<5?5:t>30?30:t:25}e.b=function(t,e){var d=Object(r.j)({},(window.jwplayer||{}).defaults,e,t);!function(t){Object.keys(t).forEach((function(e){"id"!==e&&(t[e]=Object(u.serialize)(t[e]))}))}(d);var p=d.forceLocalizationDefaults?l.language:Object(s.e)(),h=Object(s.j)(d.intl);d.localization=Object(s.a)(c.a,Object(s.c)(d,h,p));var v=Object(r.j)({},l,d);"."===v.base&&(v.base=Object(o.getScriptPath)("jwplayer.js")),v.base=(v.base||Object(o.loadFrom)()).replace(/\/?$/,"/"),n.p=v.base,v.width=Object(i.b)(v.width),v.height=Object(i.b)(v.height),v.aspectratio=Object(i.a)(v.aspectratio,v.width),v.volume=Object(r.z)(v.volume)?Math.min(Math.max(0,v.volume),100):l.volume,v.mute=!!v.mute,v.language=p,v.intl=h;var g=v.playlistIndex;g&&(v.item=g),Object(r.v)(v.item)||(v.item=0);var m=d.autoPause;m&&(v.autoPause.viewability=!("viewability"in m)||!!m.viewability);var b=v.playbackRateControls;if(b){var y=v.playbackRates;Array.isArray(b)&&(y=b),(y=y.filter((function(t){return Object(r.v)(t)&&t>=.25&&t<=4})).map((function(t){return Math.round(100*t)/100}))).indexOf(1)<0&&y.push(1),y.sort(),v.playbackRateControls=!0,v.playbackRates=y}(!v.playbackRateControls||v.playbackRates.indexOf(v.defaultPlaybackRate)<0)&&(v.defaultPlaybackRate=1),v.playbackRate=v.defaultPlaybackRate,v.aspectratio||delete v.aspectratio;var j=v.playlist;if(j)Array.isArray(j.playlist)&&(v.feedData=j,v.playlist=j.playlist);else{var w=Object(r.D)(v,["title","description","type","mediaid","image","images","file","sources","tracks","preload","duration"]);v.playlist=[w]}v.qualityLabels=v.qualityLabels||v.hlslabels,delete v.duration;var O=v.liveTimeout;null!==O&&(Object(r.z)(O)?0!==O&&(O=Math.max(30,O)):O=null,v.liveTimeout=O);var k,C,x=parseFloat(v.bandwidthEstimate),P=parseFloat(v.bitrateSelection);return v.bandwidthEstimate=Object(r.z)(x)?x:(k=v.defaultBandwidthEstimate,C=parseFloat(k),Object(r.z)(C)?Math.max(C,1):l.bandwidthEstimate),v.bitrateSelection=Object(r.z)(P)?P:l.bitrateSelection,v.liveSyncDuration=f(v.liveSyncDuration),v.backgroundLoading=Object(r.r)(v.backgroundLoading)?v.backgroundLoading:a.Features.backgroundLoading,v}},function(t,e,n){"use strict";n.d(e,"a",(function(){return r}));var r=function(t,e,n){return Math.max(Math.min(t,n),e)}},function(t,e,n){"use strict";n.d(e,"a",(function(){return r})),n.d(e,"b",(function(){return o}));var r=12;function i(){try{var t=window.crypto||window.msCrypto;if(t&&t.getRandomValues)return t.getRandomValues(new Uint32Array(1))[0].toString(36)}catch(t){}return Math.random().toString(36).slice(2,9)}function o(t){for(var e="";e.length0;){var e=r.shift(),n=e.command,o=e.args;(i[n]||t[n]).apply(t,o)}}e.forEach((function(e){var u=t[e];i[e]=u,t[e]=function(){for(var t=arguments.length,i=new Array(t),a=0;a0)return 0;var n=t.indexOf("/"),r=Object(u.a)(t);return!(e<0&&n<0)||r&&isNaN(r)?1:2}};var l=function(t){this.url=t,this.promise_=null};Object.defineProperties(l.prototype,{promise:{get:function(){return this.promise_||this.load()},set:function(){}}}),Object(r.j)(l.prototype,{load:function(){var t=this,e=this.promise_;if(!e){if(2===s(this.url))e=Promise.resolve(this);else{var n=new i.a(function(t){switch(s(t)){case 0:return t;case 1:return Object(o.getAbsolutePath)(t,window.location.href)}}(this.url));this.loader=n,e=n.load().then((function(){return t}))}this.promise_=e}return e},registerPlugin:function(t,e,n){this.name=t,this.target=e,this.js=n},getNewInstance:function(t,e,n){var r=this.js;if("function"!=typeof r)throw new a.s(null,Object(c.b)(this.url)+100);var i=new r(t,e,n);return i.addToPlayer=function(){var e=t.getContainer().querySelector(".jw-overlays");e&&(n.left=e.style.left,n.top=e.style.top,e.appendChild(n),i.displayArea=e)},i.resizeHandler=function(){var t=i.displayArea;t&&i.resize(t.clientWidth,t.clientHeight)},i}}),e.a=l},function(t,e,n){"use strict";var r=n(0),i=n(3),o=n(4),u=n(48),a=n(29),c=n(9),s=n(1);e.a=function(){var t=Object(r.j)(this,c.a);function e(e){try{var a,c=e.responseXML?e.responseXML.childNodes:null,l=null;if(c){for(var f=0;f<c.length&&8===(l=c[f]).nodeType;f++);if(l&&"xml"===Object(o.b)(l)&&(l=l.nextSibling),l&&"rss"===Object(o.b)(l)){var d=Object(u.a)(l);a=Object(r.j)({playlist:d},d.feedData)}}if(!a)try{var p=JSON.parse(e.responseText);if(Array.isArray(p))a={playlist:p};else{if(!Array.isArray(p.playlist))throw Error("Playlist is not an array");a=p}}catch(t){throw new s.s(s.o,621,t)}t.trigger(i.eb,a)}catch(t){n(t)}}function n(e){e instanceof s.s&&!e.code&&(e=new s.s(s.o,0)),t.trigger(i.w,e)}this.load=function(t){Object(a.b)(t,e,(function(t,e,r,i){n(i)}))},this.destroy=function(){this.off()}}},function(t,e,n){"use strict";n.d(e,"b",(function(){return i})),n.d(e,"a",(function(){return u}));var r=n(59);function i(){for(var t=r.c,e=[],n=[],i=0;i<t;i++){var a=u();e.push(a),n.push(a),o(a)}var c=n.shift(),s=n.shift(),l=!1;return{primed:function(){return l},prime:function(){e.forEach(o),l=!0},played:function(){l=!0},getPrimedElement:function(){return n.shift()||null},getAdElement:function(){return c},getTestElement:function(){return s},clean:function(t){if(t.src){t.removeAttribute("src");try{t.load()}catch(t){}}},recycle:function(t){t&&!n.some((function(e){return e===t}))&&(this.clean(t),n.push(t))},syncVolume:function(t){var n=Math.min(Math.max(0,t/100),1);e.forEach((function(t){t.volume=n}))},syncMute:function(t){e.forEach((function(e){e.muted=t}))}}}function o(t){t.src||t.load()}function u(t){var e=document.createElement("video");return e.className="jw-video jw-reset",e.setAttribute("tabindex","-1"),e.setAttribute("disableRemotePlayback",""),e.setAttribute("webkit-playsinline",""),e.setAttribute("playsinline",""),t&&Object.keys(t).forEach((function(n){e.setAttribute(n,t[n])})),e}},function(t,e,n){"use strict";n.d(e,"a",(function(){return i}));var r=n(0);function i(t,e){return Object(r.j)({},e,{prime:function(){t.src||t.load()},getPrimedElement:function(){return t},clean:function(){e.clean(t)},recycle:function(){e.clean(t)}})}},function(t,e,n){"use strict";e.a="hidden"in document?function(){return!document.hidden}:"webkitHidden"in document?function(){return!document.webkitHidden}:function(){return!0}},function(t,e,n){"use strict";function r(t){return!!(t=t||window.event)&&/^(?:mouse|pointer|touch|gesture|click|key)/.test(t.type)}n.d(e,"a",(function(){return r}))},function(t,e,n){"use strict";var r=n(0),i=n(58),o=n(54),u=n(19),a=n(8),c=n(27),s=n(23);function l(t,e){var n=t.querySelector(e);if(n)return n.getAttribute("content")}var f=n(70),d=n.n(f),p=n(69);function h(t){return"string"==typeof t&&/^\/\/(?:content\.jwplatform|cdn\.jwplayer)\.com\//.test(t)}function v(t){return"https:"+t}function g(t,e){var n="file:"===window.location.protocol?"https:":"",r={bidding:"//ssl.p.jwpcdn.com/player/plugins/bidding/v/0.3.10/bidding.js",jwpsrv:"//ssl.p.jwpcdn.com/player/v/8.15.1/jwpsrv.js",dai:"//ssl.p.jwpcdn.com/player/plugins/dai/v/0.4.13/dai.js",vast:"//ssl.p.jwpcdn.com/player/plugins/vast/v/8.7.17/vast.js",googima:e?"//ssl.p.jwpcdn.com/player/v/8.15.1/googimanvmp.js":"//ssl.p.jwpcdn.com/player/plugins/googima/v/8.7.17/googima.js",freewheel:"//ssl.p.jwpcdn.com/player/plugins/freewheel/v/2.2.11/freewheel.js",gapro:"//ssl.p.jwpcdn.com/player/plugins/gapro/v/2.1.5/gapro.js"}[t];return r?n+r:""}function m(t,e,n){e&&(t[e.client||g(n)]=e,delete e.client)}var b=function(t,e){var i,f,b,y=Object(o.b)(t,e),j=y.key||window.jwplayer&&window.jwplayer.key,w=new c.b(j),O=w.edition();if("free"===w.edition()&&(y=Object(r.j)({skin:{active:"#ff0046",timeslider:{progress:"none"}},logo:{position:"control-bar",file:d.a}},o.a,Object(r.D)(y,["analytics","aspectratio","base","file","height","playlist","sources","width"]))),y.key=j,y.edition=O,y.error=w.error(),y.generateSEOMetadata=y.generateSEOMetadata||!1,"unlimited"===O){var k=Object(u.getScriptPath)("jwplayer.js");if(!k)throw new Error("Error setting up player: Could not locate jwplayer.js script tag");n.p=k}if(y.flashplayer=function(t){var e=t.flashplayer;e||(e=(Object(u.getScriptPath)("jwplayer.js")||t.base)+"jwplayer.flash.swf");"http:"===window.location.protocol&&(e=e.replace(/^https/,"http"));return e}(y),y.related=function(t){var e=Object(s.a)(t.edition),n=t.related,i=!e("discovery")||n!==Object(n),o=!n||"none"!==n.displayMode,u=n||{},a=void 0===u.oncomplete?"none":u.oncomplete,c=u.autoplaytimer;!1===a||t.repeat?a="hide":"none"===a&&(c=0);var l="autoplay"===a&&c<=0||"none"===a;return Object(r.j)({},n,{disableRelated:i,showButton:o,oncomplete:a,autoplaytimer:c,shouldAutoAdvance:l})}(y),y.ab&&(y.ab=function(t){var e=t.ab;e.clone&&(e=e.clone());return Object.keys(e.tests).forEach((function(n){e.tests[n].forEach((function(e){e.addConfig&&e.addConfig(t,e.selection)}))})),e}(y)),y.plugins=function(t){var e=Object(r.j)({},t.plugins),n=Object(s.a)(t.edition);if(n("ads")){var i=Object(r.j)({},t.advertising),o=i.client;if(o){var u=g(o,t.__ab_jwIMA)||o;e[u]=i,delete i.client}i.bids&&m(e,i.bids,"bidding")}if(n("jwpsrv")){var a=t.analytics;a!==Object(a)&&(a={}),m(e,a,"jwpsrv")}return m(e,t.ga,"gapro"),e}(y),i=y.playlist,Object(r.x)(i)&&i.indexOf("__CONTEXTUAL__")>-1&&(y.playlist=function(t,e){var n=(t.querySelector("title")||{}).textContent,r=l(t,'meta[property="og:title"]'),i=encodeURIComponent(r||n||""),o=l(t,'meta[property="og:description"]')||l(t,'meta[name="description"]');return o&&(i+="&page_description="+encodeURIComponent(o)),e.replace("__CONTEXTUAL__",i)}(document,y.playlist),y.contextual=!0),Object(a.isFileProtocol)()){var C=y,x=C.playlist,P=C.related;h(x)&&(y.playlist=v(x)),P&&h(P.file)&&(P.file=v(P.file))}return y.__abSendDomainToFeeds&&(b=y.playlist,/\.jwplatform.com|\.jwplayer.com/.test(b))&&(y.playlist=(f=y.playlist,f+=(-1!==f.indexOf("?")?"&":"?")+"page_domain="+encodeURIComponent(Object(p.a)()))),y},y=n(10),j=n(26),w=n(3),O=n(62),k=n(24),C=n(25),x=n(1),P=n(14);function S(t){var e=t.get("playlist");return new Promise((function(n,r){if("string"!=typeof e){var i=t.get("feedData")||{};return T(t,e,i),n()}var o=new O.a;o.on(w.eb,(function(e){var r=e.playlist;delete e.playlist,T(t,r,e),n()})),o.on(w.w,(function(e){T(t,[],{}),r(Object(x.z)(e,x.u))})),o.load(e)}))}function T(t,e,n){var r=t.attributes;r.playlist=Object(k.a)(e),r.feedData=n}function E(t){return t.attributes._destroyed}var A=n(36),_=function(t,e){return/isAMP/.test(document.location.search)?n.e(1).then(function(r){var i=new(0,n(167).default)(e);return t.attributes.ampController=i,Promise.resolve()}.bind(null,n)).catch(Object(y.b)(x.t+130)):Promise.resolve()};function F(t){return L(t)?Promise.resolve():S(t).then((function(){if(t.get("drm")||Object(A.b)(t.get("playlist")))return Object(A.d)(t.get("edition"))})).then((function(){return S(e=t).then((function(){if(!E(e)){var t=Object(k.b)(e.get("playlist"),e);e.attributes.playlist=t;try{Object(k.e)(t)}catch(t){throw t.code+=x.u,t}var n=e.getProviders(),r=Object(k.f)(e.get("item"),t.length),i=n.choose(t[r].sources[0]),o=i.provider,u=i.name;return"function"==typeof o?o:y.a.html5&&"html5"===u?y.a.html5:n.load(u).catch((function(t){throw Object(x.z)(t,x.v)}))}}));var e}))}function I(t,e){var n=[M(t),_(t,e)];return L(t)||n.push(Promise.resolve()),Promise.all(n)}function M(t){var e=t.attributes,n=e.error;if(n&&n.code===c.a){var r=e.pid,i=e.ph,o=new c.b(e.key);if(i>0&&i<4&&r&&o.duration()>-7776e6)return new C.a("//content.jwplatform.com/libraries/"+r+".js").load().then((function(){var t=window.jwplayer.defaults.key,n=new c.b(t);n.error()||n.token()!==o.token()||(e.key=t,e.edition=n.edition(),e.error=n.error())})).catch((function(){}))}return Promise.resolve()}function L(t){var e=t.get("advertising");return!(!e||!e.outstream)}var N=function(t){var e=t.get("skin")?t.get("skin").url:void 0;if("string"==typeof e&&!function(t){for(var e=document.styleSheets,n=0,r=e.length;n=4.4):null}},function(t,e,n){"use strict";function r(){var t,e,n=window.location.host;if(window.top!==window.self){n=(document.referrer?(t=document.referrer,(e=document.createElement("a")).href=t,e):{}).host;try{n=n||window.top.location.host}catch(t){}}return n}n.d(e,"a",(function(){return r}))},function(t,e){t.exports=''},function(t,e,n){"use strict";var r,i=n(65),o=n(5),u=n(6),a=[],c=[],s=[],l={},f="screen"in window&&"orientation"in window.screen,d=o.OS.android&&o.Browser.chrome,p=!1;function h(t,e){for(var n=e.length;n--;){var r=e[n];if(t.target===r.getContainer()){r.setIntersection(t);break}}}function v(){a.forEach((function(t){var e=t.model;if(!(e.get("audioMode")||!e.get("controls")||e.get("visibility")<.75)){var n=e.get("state"),r=Object(u.f)();!r&&"paused"===n&&t.api.getFullscreen()?t.api.setFullscreen(!1):"playing"===n&&t.api.setFullscreen(r)}}))}function g(){a.forEach((function(t){t.model.set("activeTab",Object(i.a)())}))}function m(t,e){var n=e.indexOf(t);-1!==n&&e.splice(n,1)}function b(t){s.forEach((function(e){e(t)}))}document.addEventListener("visibilitychange",g),document.addEventListener("webkitvisibilitychange",g),d&&f&&window.screen.orientation.addEventListener("change",v),window.addEventListener("beforeunload",(function(){document.removeEventListener("visibilitychange",g),document.removeEventListener("webkitvisibilitychange",g),window.removeEventListener("scroll",b),d&&f&&window.screen.orientation.removeEventListener("change",v)})),e.a={add:function(t){a.push(t)},remove:function(t){m(t,a)},addScrollHandler:function(t){p||(p=!0,window.addEventListener("scroll",b)),s.push(t)},removeScrollHandler:function(t){var e=s.indexOf(t);-1!==e&&s.splice(e,1)},addWidget:function(t){c.push(t)},removeWidget:function(t){m(t,c)},size:function(){return a.length},observe:function(t){var e;e=window.IntersectionObserver,r||(r=new e((function(t){if(t&&t.length)for(var e=t.length;e--;){var n=t[e];h(n,a),h(n,c)}}),{threshold:[0,.1,.2,.3,.4,.5,.6,.7,.8,.9,1]})),l[t.id]||(l[t.id]=!0,r.observe(t))},unobserve:function(t){r&&l[t.id]&&(delete l[t.id],r.unobserve(t))}}},function(t,e,n){"use strict";n.d(e,"a",(function(){return l}));var r=n(0),i=n(51),o=n(6),u=n(11),a=[],c=-1;function s(){Object(i.a)(c),c=Object(i.b)((function(){a.forEach((function(t){t.view.updateBounds();var e=t.view.model.get("containerWidth");t.resized=t.width!==e,t.width=e})),a.forEach((function(t){t.contractElement.scrollLeft=2*t.width})),a.forEach((function(t){Object(u.d)(t.expandChild,{width:t.width+1}),t.resized&&t.view.model.get("visibility")&&t.view.updateStyles()})),a.forEach((function(t){t.expandElement.scrollLeft=t.width+1})),a.forEach((function(t){t.resized&&t.view.checkResized()}))}))}var l=function(){function t(t,e,n){var i={display:"block",position:"absolute",top:0,left:0},c={width:"100%",height:"100%"},l=Object(o.e)(''),f=l.firstChild,d=f.firstChild,p=f.nextSibling;Object(u.d)([f,p],Object(r.j)({overflow:"auto"},i,c)),Object(u.d)(l,Object(r.j)({},i,c)),this.expandElement=f,this.expandChild=d,this.contractElement=p,this.hiddenElement=l,this.element=t,this.view=e,this.model=n,this.width=0,this.resized=!1,t.firstChild?t.insertBefore(l,t.firstChild):t.appendChild(l),t.addEventListener("scroll",s,!0),a.push(this),s()}return t.prototype.destroy=function(){if(this.view){var t=a.indexOf(this);-1!==t&&a.splice(t,1),this.element.removeEventListener("scroll",s,!0),this.element.removeChild(this.hiddenElement),this.view=this.model=null}},t}()},function(t,e,n){"use strict";n.r(e);var r=n(0),i=setTimeout;function o(){}function u(t){if(!(this instanceof u))throw new TypeError("Promises must be constructed via new");if("function"!=typeof t)throw new TypeError("not a function");this._state=0,this._handled=!1,this._value=void 0,this._deferreds=[],d(t,this)}function a(t,e){for(;3===t._state;)t=t._value;0!==t._state?(t._handled=!0,u._immediateFn((function(){var n=1===t._state?e.onFulfilled:e.onRejected;if(null!==n){var r;try{r=n(t._value)}catch(t){return void s(e.promise,t)}c(e.promise,r)}else(1===t._state?c:s)(e.promise,t._value)}))):t._deferreds.push(e)}function c(t,e){try{if(e===t)throw new TypeError("A promise cannot be resolved with itself.");if(e&&("object"==typeof e||"function"==typeof e)){var n=e.then;if(e instanceof u)return t._state=3,t._value=e,void l(t);if("function"==typeof n)return void d((r=n,i=e,function(){r.apply(i,arguments)}),t)}t._state=1,t._value=e,l(t)}catch(e){s(t,e)}var r,i}function s(t,e){t._state=2,t._value=e,l(t)}function l(t){2===t._state&&0===t._deferreds.length&&u._immediateFn((function(){t._handled||u._unhandledRejectionFn(t._value)}));for(var e=0,n=t._deferreds.length;e-1)return Z(r),e;var h=["createInstream","setCurrentAudioTrack","setCurrentCaptions","setCurrentQuality"];if(h.indexOf(r)>-1)return Z(r),null}if(l||c.push([r,a]),s)return tt(n,c),n[r].apply(e,u);$(r,u);var v=n[r].apply(n,u);return"remove"===r?n.off.call(e):"setup"===r&&(n.off.call(e),n.off(a.events,null,n),n.on.call(e,a.events,null,e),n.on("all",(function(r,u){if("ready"===r){var a=Object.keys(n).filter((function(t){return"_"!==t[0]&&-1===i.indexOf(t)&&"function"==typeof n[t]})),s=i.concat(a);a.forEach((function(r){e[r]=t(e,n,r,s,o)}))}n.trigger.call(e,r,u),tt(n,c)}))),tt(n,c),v===n?e:v}}(t,e,o,i,r):"_events"===o?t._events={}:Object.defineProperty(t,o,{enumerable:!0,get:function(){return n[o]}})}))}function K(t,e,n){var r=t.getConfig()[n];return e[n]=r,r}function Z(t){console.warn("The API method jwplayer()."+t+"() is disabled in the free edition of JW Player.")}function $(t,e){var n={reason:Object(U.a)()?"interaction":"external"};switch(t){case"play":case"pause":case"playToggle":case"playlistNext":case"playlistPrev":case"next":e[0]=n;break;case"seek":case"playlistItem":e[1]=n}}function G(t,e,n){try{var r=function(t,e){switch(t){case"setup":return!!e;case"getSafeRegion":case"pauseAd":case"setControls":case"setFullscreen":case"setMute":return!!e===e?e:void 0;case"setPlaylistItem":case"getPlaylistItem":return(0|e)===e?e:void 0;case"setPlaybackRate":case"setVolume":return Number(e);case"setConfig":return Object.keys(Object(e)).join(",");case"on":case"once":case"off":case"trigger":case"getPlugin":case"addPlugin":case"registerPlugin":return""+e}return null}(e,n);t.trackExternalAPIUsage(e,r)}catch(t){O.a.debug&&console.warn(t)}}function tt(t,e){if(e.length){var n=t.getPlugin("jwpsrv");n&&n.trackExternalAPIUsage&&(e.forEach((function(t){G(n,t[0],t[1])})),e.length=0)}}var et=window;Object(r.j)(N,W);var nt=function(t){var e=N(t);return e.uniqueId?e._publicApi||(e._publicApi=new Y(e)):e};Object(r.j)(nt,W),L(nt),"function"==typeof et.define&&et.define.amd&&et.define([],(function(){return nt}));var rt=nt;et.jwplayer&&(rt=et.jwplayer);e.default=rt}]).default;
+
+
+var jwDefaults = {
+  "advertising": {
+    "admessage": "video speelt over xx seconden",
+    "adscheduleid": "XbtAyebY",
+    "client": "vast",
+    "cuetext": "reclame",
+    "preloadAds": false,
+    "rules": {
+      "startOnSeek": "pre",
+      "timeBetweenAds": 0
+    },
+    "schedule": [
+      {
+        "offset": "pre",
+        "skipoffset": 60,
+        "tag": [
+          "https://7b935.v.fwmrm.net/ad/g/1?prof=506166:sanoma_desktop_vpaid&nw=506166&caid=__item-mediaid__&vdur=__item-duration__&csid=sanomanl_nu_jw_desktop&flag=+sltp+emcr+exvt&cd=1920,1080&resp=vast3&crtp=vast3s&pvrn=__random-number__&vprn=__timestamp__&metr=39;_fw_gdpr=1&_fw_gdpr_consent=__gdpr_consent__&tag=__item-tags__;tpcl=PREROLL&slid=preroll&ptgt=a&tpos=0"
+        ],
+        "type": "linear"
+      }
+    ],
+    "skipmessage": "reclame overslaan over xx seconden",
+    "vpaidcontrols": false,
+    "vpaidmode": "insecure"
+  },
+  "aspectratio": "16:9",
+  "autostart": true,
+  "cast": {
+    "appid": "00000000"
+  },
+  "controls": true,
+  "displaydescription": false,
+  "displaytitle": false,
+  "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.15.1/jwplayer.flash.swf",
+  "height": 360,
+  "key": "X5Xv24w+BJi2wBzZH82G905wOg89QRqd5zZUvtu947V1h7guSM97pk0qoE5OWwPx",
+  "localization": {
+    "related": "Meer video's"
+  },
+  "mute": false,
+  "ph": 1,
+  "pid": "whqXCOFb",
+  "playbackRateControls": true,
+  "preload": "metadata",
+  "related": {
+    "displayMode": "overlay",
+    "file": "//content.jwplatform.com/v2/playlists/uxi3C29a?related_media_id=MEDIAID",
+    "onclick": "play",
+    "oncomplete": true
+  },
+  "repeat": false,
+  "sharing": {
+    "heading": "Deel deze video",
+    "sites": [
+      "facebook",
+      "twitter",
+      "email",
+      "linkedin"
+    ]
+  },
+  "skin": {
+    "controlbar": {
+      "background": "rgba(0,0,0,0)",
+      "icons": "rgba(255,255,255,0.8)",
+      "iconsActive": "#FFFFFF",
+      "text": "#F2F2F2"
+    },
+    "menus": {
+      "background": "rgba(0, 0, 0, 0.8)",
+      "text": "rgba(255,255,255,0.8)",
+      "textActive": "#FFFFFF"
+    },
+    "timeslider": {
+      "progress": "#F2F2F2",
+      "rail": "rgba(255,255,255,0.3)"
+    },
+    "tooltips": {
+      "background": "#FFFFFF",
+      "text": "#1F2544"
+    }
+  },
+  "stagevideo": false,
+  "stretching": "uniform",
+  "width": "100%"
+};
+jwplayer.defaults = jwDefaults;
+/* global clients */
+const db_name = 'nunl-settings';
+const db_version = 1; // should be int
+const db_store_name = 'settings';
+const db_device_secret_key = 'spns_device_secret';
+
+const spns_request_id_key = 'SPNS-Request-Id';
+
+/**
+ * Open indexedDB with name and upgrade callback.
+ * @param {string} name Database name.
+ * @param {number} version Specify databse version. Should be integer.
+ * @param {callback} upgradeCallback Completion which will be called
+ *     if upgrade is required.
+ * @return {Promise} Promise object represents the databse.
+ */
+function openDatabase (name, version, upgradeCallback) {
+    return new Promise((resolve, reject) => {
+        var request = indexedDB.open(name, version);
+        request.onsuccess = function (e) {
+            var db = e.target.result;
+            resolve(db);
+        };
+        request.onerror = function (event) {
+            reject(event.target.errorCode);
+        };
+        request.onupgradeneeded = function (event) {
+            var db = event.target.result;
+            upgradeCallback(db);
+        };
+    });
+};
+
+/**
+ * Short hand for settings database.
+ * @return {Promise} Promise object represents the settings database.
+ */
+function settings () {
+    return openDatabase(db_name, db_version, (upgrade_db) => {
+        if (!upgrade_db.objectStoreNames.contains(db_store_name)) {
+            upgrade_db.createObjectStore(db_store_name, { keyPath: 'key' });
+        }
+    });
+}
+
+/**
+ * Set value in settings for a given key.
+ * @param {string} key Key in settings.
+ * @param {string} value Value to store.
+ * @return {Promise} Promise object represents the database.
+ */
+function set_value_for_key (key, value) {
+    return new Promise((resolve, reject) => {
+        settings().then(function (db) {
+            var request = db.transaction(['settings'], 'readwrite')
+                .objectStore(db_store_name)
+                .put({ key: key, value: value });
+            request.onsuccess = function (e) {
+                console.log('[ServiceWorker] did set value: "' + value +
+                    '", for key: "' + key + '"');
+                resolve(db);
+            };
+            request.onerror = function (event) {
+                console.log('[ServiceWorker] failed to set value: "' + value +
+                    '", for key: "' + key + '"');
+                reject(event.target.errorCode);
+            };
+        });
+    });
+}
+
+/**
+ * Get value from settings for a given key.
+ * @param {string} key Key in settings.
+ * @return {Promise} Promise object respesents the value.
+ */
+function get_value_for_key (key) {
+    return new Promise((resolve, reject) => {
+        settings().then(function (db) {
+            var request = db.transaction('settings', 'readonly')
+                .objectStore(db_store_name)
+                .get(key);
+            request.onsuccess = function (event) {
+                resolve(event.target.result.value);
+            };
+            request.onerror = function (event) {
+                reject(event.target.errorCode);
+            };
+        });
+    });
+}
+
+/**
+ * Helper function to check if value is string.
+ * @param {*} value Value to check type of.
+ */
+function isString (value) {
+    // A string is 'string' except if created with new String
+    // typeof will return "object"
+    return typeof value === 'string' || value instanceof String;
+}
+
+/**
+ * Sends analytics to SPNS. Implemented in place to remove dependency
+ * to SPNS SDK.
+ * @param {string} secret Secret received from SPNS SDK at in message.
+ * @param {string} request_id Identifier of the current push messages.
+ * @param {string} status Can be 'received' or 'opened'.
+ * @return {Promise} Completion promise.
+ */
+function report_push (secret, request_id, status) {
+    const url_components = [
+        'https://spns-ping.sanomamdc.com/api/delivery',
+        secret,
+        request_id,
+        status
+    ];
+    return fetch(url_components.join('/'));
+}
+
+/**
+ * Handles `intall` event which is sent once at worker get start
+ * execution for the first time.
+ */
+self.addEventListener('install', function (event) {
+    console.log('[ServiceWorker] install');
+    self.skipWaiting();
+});
+
+/**
+ * Handles custome message post from the client or another worker.
+ * Currently SPNS SDK sends device secret at sucessfull registration.
+ */
+self.addEventListener('message', function (event) {
+    // Some events like 'keyChanged' from Firebase provide object
+    // in data field.
+    if (!isString(event.data)) {
+        return;
+    }
+
+    try {
+        var data = JSON.parse(event.data);
+        // SPNS doesn't provide message type. Trying to workaround it we
+        // will check if required property exists.
+        if ('deviceSecret' in data) {
+            console.log('[ServiceWorker] message: "' + data.deviceSecret + '"');
+            var setSecretPromise = set_value_for_key(db_device_secret_key, data.deviceSecret);
+            event.waitUntil(setSecretPromise);
+        }
+    } catch (e) {}
+});
+
+/**
+ * Handles a new push message.
+ */
+self.addEventListener('push', function (event) {
+    var options = event.data.json();
+
+    var analyticsPromise = get_value_for_key(db_device_secret_key).then(function (secret) {
+        // Reporting back to SPNS that push was received
+        const request_id = options.data[spns_request_id_key];
+        return report_push(secret, request_id, 'received');
+    });
+
+    var title = options.title;
+    var notificationPromise = self.registration.showNotification(title, options);
+    var promiseChain = Promise.all([
+        analyticsPromise,
+        notificationPromise
+    ]);
+    event.waitUntil(promiseChain);
+});
+
+/**
+ * Handles a click on a system notification message.
+ */
+self.addEventListener('notificationclick', function (event) {
+    event.notification.close();
+
+    var options = event.notification;
+    const request_id = options.data[spns_request_id_key];
+
+    var analyticsPromise = get_value_for_key(db_device_secret_key).then(function (secret) {
+        // Reporting back to SPNS that push was oppened
+        return report_push(secret, request_id, 'opened');
+    });
+
+    var type = options.data.type;
+    var article_id = options.data.article_id;
+    var url_components = [self.location.origin];
+    if (type === 'article' && article_id !== 'undefined') {
+        url_components.push('artikel');
+        url_components.push(article_id);
+        url_components.push('redirect.html?push_request_id=' + request_id + '&source=notification-open');
+    }
+    var url = url_components.join('/');
+
+    var openPagePromise = clients.matchAll({
+        type: 'window',
+        includeUncontrolled: true // Include windows which are not controlled by this worker
+    })
+        .then(function (windowClients) {
+            // Checking if there is window/tab with current url already open
+            // and focus this one otherwise open a new window
+            for (var i = 0; i < windowClients.length; i++) {
+                var client = windowClients[i];
+                if (client.url === url && 'focus' in client) {
+                    return client.focus();
+                }
+            }
+            if (clients.openWindow) {
+                return clients.openWindow(url);
+            }
+        });
+
+    var promiseChain = Promise.all([
+        analyticsPromise,
+        openPagePromise
+    ]);
+    event.waitUntil(promiseChain);
+});
+{"results": [{"database_url": "https://nunl-e7a0d-1.firebaseio.com", "api_key": "AIzaSyA6pECfxuliAVNFGf1vjhJ9YhuE4xQD4LI", "auth_domain": "nunl-e7a0d-1.firebaseapp.com"}, {"database_url": "https://nunl-e7a0d-2.firebaseio.com", "api_key": "AIzaSyA6pECfxuliAVNFGf1vjhJ9YhuE4xQD4LI", "auth_domain": "nunl-e7a0d-2.firebaseapp.com"}, {"database_url": "https://nunl-e7a0d-3.firebaseio.com", "api_key": "AIzaSyA6pECfxuliAVNFGf1vjhJ9YhuE4xQD4LI", "auth_domain": "nunl-e7a0d-3.firebaseapp.com"}, {"database_url": "https://nunl-e7a0d-4.firebaseio.com", "api_key": "AIzaSyA6pECfxuliAVNFGf1vjhJ9YhuE4xQD4LI", "auth_domain": "nunl-e7a0d-4.firebaseapp.com"}, {"database_url": "https://nunl-e7a0d-5.firebaseio.com", "api_key": "AIzaSyA6pECfxuliAVNFGf1vjhJ9YhuE4xQD4LI", "auth_domain": "nunl-e7a0d-5.firebaseapp.com"}]}105
+
+� x
+� x
