@@ -20,7 +20,7 @@
 
 * configure the config file in de /src folder for your use case.
 
-* There is a windows installer in commandline(certutil), but for example Firefox I could not figure out how to auto install the selfmade cert. *
+_There is a windows installer in commandline(certutil), but for example Firefox I could not figure out how to auto install the selfmade cert._
 
 * To be able to run this project, you need to add the DEV version of MITM-proxy to this folder with the standard name: mitmproxy
 
