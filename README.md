@@ -25,7 +25,7 @@ To run this program without the Startup.py(todo: make startup.py) enter followin
 		
 		mitmdump -s C:\Users\Orang\PycharmProjects\Ipass\Src\Main.py -q (for local server on port 8080)
 		
-		mitmdump -s C:\Users\Orang\PycharmProjects\Ipass\Src\Main.py -q --listen-host "host ip here" ( for externalproxy 		support)
+		mitmdump -s C:\Users\Orang\PycharmProjects\Ipass\Src\Main.py -q --listen-host "host ip here" (for externalproxy support)
 		
 Check mitmdump --help for more intresting options! ( some might break the program, be warned!)
 
