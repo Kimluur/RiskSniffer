@@ -11,7 +11,7 @@
  Because of this, I would recommend to NOT share the certificate with other people that have or might have access to your network. This will mean that they will be able to see all traffic including passwords, usernames and other sensitive information.
  This program could also be modified to edit the webpages users see, what can give an attacker in your network a whole new framework for phishing/ credential-stealing. Please, notify your users to not enter ANY personal information on the computers that you installed this proxy sniffer, because these could be stolen. 
  
- Also, this program is made for a small branche of the Armed forces of the Netherlands. Meaning that any use of this program without  their authorisation will be seen as stealing 
+ Also, this program is made for a small branche of the Armed forces of the Netherlands. Meaning that any use of this program without their authorisation is not allowed.
 
  
 ## How to install
