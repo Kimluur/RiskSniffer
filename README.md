@@ -9,7 +9,7 @@ All my code is written in Src. Almost all comments are in Dutch, because the com
 
 install the certs in the browsers, and windows of the hosts you want to sniff/analyse. 
 
-config the config file in de /src folder for your use case.
+configure the config file in de /src folder for your use case.
 
 There is a windows installer in commandline(certutil), but for example Firefox I could not figure out how to auto install the selfmade cert. 
 
