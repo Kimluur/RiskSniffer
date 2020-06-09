@@ -18,9 +18,9 @@
 
 * install the certs in the browsers, and windows of the hosts you want to sniff/analyse. ( from C:\Users\"your host/user here"\.mitmproxy by default) (Will showup after running the mitmdump command once.) 
 
-* configure the config file in de /src folder for your use case.
-
 _There is a windows installer in commandline(certutil), but for example Firefox I could not figure out how to auto install the selfmade cert._
+
+* configure the config file in de /src folder for your use case.
 
 * To be able to run this project, you need to add the DEV version of MITM-proxy to this folder with the standard name: mitmproxy
 
