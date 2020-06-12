@@ -1,12 +1,12 @@
 // Hier kan je een hoop van de functies aanpassen en disablen.  alle lines die beginnen met // worden geskipped tijdens het lezen!
 
 // Wil je de traffic analyseren of alleen loggen? Pas op, als je false doet logged hij alle url's in text bestand formaat. Dit kan erg groot worden na mate van tijd!
-Analysetraffic:False
+Analysetraffic:True
 
 //Todo: Encrypt logged data? ( zip format + password protected? )
 
 // log alle url's, dit kan er voorzorgen dat je een ERG groot txt bestand krijgt met urls.
-LogAll:True
+LogAll:False
 
 // Waar wil je dat de logged bestanden opgeslagen worden? voorbeeld:  C:\Users\DefensieComputer101\Logged_files  ( altijd in url+log+datum+tijd format. ) Als leeg, deze map.
 Path:C:/Users/Orang/PycharmProjects/Ipass/Src/
@@ -20,5 +20,5 @@ HardBlockText: Website blocked, this behaviour has been logged expect someone to
 // Als hardblock aanstaat, blokkeer ook de vergelijkbaare websites met de verbannen urls, dit kan er voorzorgen dat FalsePositive websites geblokkeerd worden, maar dekt wel meer websites die lijken op de websites die verbannen zijn.
 HardblockRetrospect: False
 
-// SemiHardblock Block sommige urls, als ze in de url lijst geen semi allowed feature hebben. Hierdoor kan je bijvoorbeeld websites zoals pornhub blokkeren, maar github (deels) toestaan!
-HardblockSemi: False
+// SemiHardblock Block sommige urls(WERKT NIET MET HARDBLOCK!). Als ze in de url lijst geen semi allowed feature hebben. Hierdoor kan je bijvoorbeeld websites zoals pornhub blokkeren, maar github (deels) toestaan!
+HardblockSemi: True
