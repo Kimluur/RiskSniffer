@@ -1,0 +1,12 @@
+.php
+.css
+.aspx
+.js
+.json
+.png
+.woff2
+.woff
+.jpg
+.url
+.gif
+.ico
