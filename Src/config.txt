@@ -22,3 +22,6 @@ HardblockRetrospect: False
 
 // SemiHardblock Block sommige urls(WERKT NIET MET HARDBLOCK!). Als ze in de url lijst geen semi allowed feature hebben. Hierdoor kan je bijvoorbeeld websites zoals pornhub blokkeren, maar github (deels) toestaan!
 HardblockSemi: True
+
+//Als analyse traffic aan staat, krijg je met deze modus de mogenlijkheid om websites in een bepaalde categorie opteslaan. Hierdoor kan je een database opbouwen of uitbreiden.
+SaveWebModus: True
