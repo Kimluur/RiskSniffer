@@ -24,4 +24,4 @@ HardblockRetrospect: False
 HardblockSemi: True
 
 //Als analyse traffic aan staat, krijg je met deze modus de mogenlijkheid om websites in een bepaalde categorie opteslaan. Hierdoor kan je een database opbouwen of uitbreiden.
-SaveWebModus: True
+SaveWebModus: False

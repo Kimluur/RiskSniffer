@@ -13,13 +13,17 @@ import typing
 from collections import OrderedDict
 from getmac import get_mac_address as gma
 from mitmproxy.net.http.http1.assemble import _assemble_response_headers, assemble_response
-from mitmproxy import flow  # een paar van deze imports doen niets, want MITMdump heeft deze imports niet nodig. Maar, het is wel handig omdat het voor development code completion verbeterd!
+from mitmproxy import \
+    flow  # een paar van deze imports doen niets, want MITMdump heeft deze imports niet nodig. Maar, het is wel handig omdat het voor development code completion verbeterd!
 from mitmproxy import io
 from mitmproxy.exceptions import FlowReadException
 
+
 class Main:
-    """Main program, inhere are all needed information and functions. Functions will most of the times be triggered
-    by requests and responses."""
+    """
+    Main program, inhere are all needed information and functions. Functions will most of the times be triggered
+    by http(s)flow responses.
+    """
     dirname, filename = os.path.split(os.path.abspath(__file__))
     path = dirname
     path = path.replace("\\", "/")
@@ -65,18 +69,20 @@ class Main:
     ]
 
     def __init__(self):
+        """Load all the things!"""
         self.num = 0
         self.loadConfig()
         self.loadBannedUrls()
         self.loadFilters()
+        self.loadCompareWebsites()
         # Test()
 
-
-
     def loadFilters(self):
-        """Laad non intressante url/host parts in. Hiermee kan isUrIntresting() bedenken of we wel naar deze url
+        """
+        Laad non intressante url/host parts in. Hiermee kan isUrIntresting() bedenken of we wel naar deze url
         moeten kijken, denk bijv aan urls die images zijn, maar niet eindigen met .png oid. dit zit in een
-        txt file, zodat je makkelijk nieuwe dingen kunt toevoegen in de toekomst"""
+        txt file, zodat je makkelijk nieuwe dingen kunt toevoegen in de toekomst
+        """
         path = self.path + "/pathComponentFilterList.txt"
         path2 = self.path + "/fileextentionFilterList.txt"
 
@@ -93,29 +99,44 @@ class Main:
         ctx.log.info("Filters loaded")
 
     def loadCompareWebsites(self):
-        """Laad verschillende websites in, uit files uit folders waar bepaalde categorieen in zitten"""
-        #TODO: Uitbreiden naar elke file in de directory.
+        """
+        Laad verschillende websites in, uit files uit folders waar bepaalde categorieen in zitten.
+        Om meer categorieën toe te voegen, hoef je alleen de loadCategoryWebsite() te gebruiken.
+        Geef daar aan mee de string naam van je category, waarvan ook al een file save zou moeten zijn.
+        (deze kan je makenmet de save modus!)
+        """
+        # TODO: Uitbreiden naar elke file in de directory.
         directory = self.path + "/Logs/WebsiteData/"
-        "laad alle websites in die gerelateerd zijn aan pornografie"
-        self.loadCategoryWebsite("pornografie", directory,)
+        # laad websites in die gerelateerd zijn aan pornografie, zodat we andere soort gelijke websites kunnen vergelijken
+        self.loadCategoryWebsite("pornografie", directory)
+        ctx.log.info("Alle vergelijkings materiaal is ingeladen!")
 
-    def loadCategoryWebsite(Main, category, directory):
-        with open(directory + category+".logfile", "rb") as logfile:
-            ctx.log.info("reading :"+ directory + category+".logfile")
+    def loadCategoryWebsite(self, category, directory):
+        """
+        Laad een category aan websites in, in een dict voor die category.
+        Werkt alleen voor standaard categorieeën. Dit is helaas niet scaleable, omdat ik niet weet hoe ik
+        variablen namen geef zonder dat ik op voorhand de naam ken.
+        """
+        with open(directory + category + ".logfile", "rb") as logfile:
+            ctx.log.info("reading :" + directory + category + ".logfile")
             freader = io.FlowReader(logfile)
             try:
                 for flow in freader.stream():
                     body = str(flow.response.content)
                     url = str(flow.request.pretty_url)
                     # er zit hier een max op omdat sommige URLS erg lang kunen worden.
-                    output = Main.filterHtml(Main,body)
+                    output = self.filterHtml(body)
                     outputSplit = output.split("\n")
-                    Main.analysePrepare(Main,url, outputSplit)
+                    if category not in self.urlCompareDict.keys():
+                        self.urlCompareDict[category] = {}
+                    self.analysePrepare(url, outputSplit, self.urlCompareDict[category])
             except FlowReadException as e:
                 print("Flow file corrupted: {}".format(e))
 
     def loadBannedUrls(self):
-        """""Laad alle geblokkeerde urls in, in verhouding met de config instellingen."""
+        """
+        Laad alle geblokkeerde urls in, in verhouding met de config instellingen.
+        """
         csvpath = self.path + "/bannedurls.csv"
         with open(csvpath, "r")as csvfile:
             ctx.log.info("opened banned csv")
@@ -127,6 +148,7 @@ class Main:
                     self.bannedurls[row["url"]] = row["category"]
                     ctx.log.info(row["category"])
             elif self.hardblockSemi == True:
+                ctx.log.info("semiblockcheck")
                 for row in csvreader:
                     if row["semiallowed"] != "True":
                         # als een url niet semi allowed is, voeg het toe aan de banned list.
@@ -137,8 +159,10 @@ class Main:
         ctx.log.info("Banned items loaded.")
 
     def loadConfig(self):
-        """Laad de config file in, lees de config file voor meer informatie over deze variablen.
-        ( ja dit zou een kleinbeetje mooier kunnen met een dictionary, als ik tijd over heb ga ik dit zeker doen. )"""
+        """
+        Laad de config file in, lees de config file voor meer informatie over deze variablen.
+        ( ja dit zou een kleinbeetje mooier kunnen met een dictionary, als ik tijd over heb ga ik dit zeker doen. )
+        """
         with open(self.path + "/config.txt", "r")as config:
             for line in config:
                 if len(line) == 0 or line[0:2] == "//":
@@ -190,13 +214,17 @@ class Main:
         ctx.log.info("Configfile loaded")
 
     def request(self, flow: http.HTTPFlow) -> None:
-        """Deze functie word aangeroepen voor elke http response"""
+        """
+        Deze functie word aangeroepen voor elke http response
+        """
 
     # Nu tijdelijk niets wat ik doe met de request.
 
     def response(self, flow: http.HTTPFlow):
-        """Deze functie word aangeroepen voor elke http response, hier roepen we de meeste analyse functies aan
-        zoals Analyse, logurl en soort gelijke."""
+        """
+        Deze functie word aangeroepen voor elke http response, hier roepen we de meeste analyse functies aan
+        zoals Analyse, logurl en soort gelijke.
+        """
         # als de status code 200 is en de website dus geladen kan worden.
         alreadyLogged = False
         if flow.response.status_code == 200:
@@ -211,19 +239,19 @@ class Main:
                     # als url blokkeren doormiddel van blacklists is toegestaan:
                     if any(item in flow.request.pretty_url for item in self.bannedurls.keys()):
                         self.blockWebsite(flow)
-                        if not self.alreadyLogged:
+                        if not alreadyLogged:
                             self.logUrl(flow, self.highrisk)
                             alreadyLogged = True
 
                 elif self.hardblockSemi:
                     if any(item in flow.request.pretty_url for item in self.bannedurls.keys()):
+                        self.blockWebsite(flow)
                         if not alreadyLogged:
-                            self.blockWebsite(flow)
                             self.logUrl(flow, self.semiriskallowed)
                             alreadyLogged = True
 
-                    elif not alreadyLogged:
-                        if any(item in flow.request.pretty_url for item in self.semiurllog.keys()):
+                    if any(item in flow.request.pretty_url for item in self.semiurllog.keys()):
+                        if not alreadyLogged:
                             self.logUrl(flow, self.semirisklog)
 
                 # alles wat in de response zit kan je hier vragen, verwerken en aanpassen
@@ -233,7 +261,9 @@ class Main:
             alreadyLogged = False
 
     def isUrlIntresting(self, flow):
-        """bekijk de URL data om te kijken of de url wel intressant is om te bekijken."""
+        """
+        bekijk de URL data om te kijken of de url wel intressant is om te bekijken.
+        """
         headers = "".join(flow.request.path_components)
         for item in self.uselessinfo:
             if item in headers:
@@ -248,23 +278,29 @@ class Main:
         return True
 
     def logUrl(self, flow, optional=""):
-        """Sla alle urls die een client bezoekt op in een txt file."""
+        """
+        Sla alle urls die een client bezoekt op in een txt file.
+        """
         adress = flow.client_conn.address[0].replace(".", "-")
         adress = adress.replace(":", "-")
         with open(self.path + "/Logs/" + adress + ".txt", "a+") as logfile:
             logfile.write(flow.request.pretty_url + "   at time:" + time.strftime('%X %x %Z') + optional + "\n")
 
     def saveFlow(self, flow, pathname):
-        """Zelf gemaakte functie, die files opslaat op de gegeven path, en weer netjes sluit."""
+        """
+        Zelf gemaakte functie, die files opslaat op de gegeven path, en weer netjes sluit.
+        """
         f: typing.IO[bytes] = open(pathname, "wb")
         writer = io.FlowWriter(f)
         writer.add(flow)
         f.close()
 
     def blockWebsite(self, flow):
-        """Manier om een website te blokeren, door de response een andere website te maken. Hierdoor kunnen we de response nog wel lezen,
-         en zou de payload van een security risk nogsteeds binnen in ons systeem kunnen komen.
-         Door dit soort design keuzens is deze software meer gebaseert op user control, dan daadwerkelijke virus preventie."""
+        """
+        Manier om een website te blokeren, door de response een andere website te maken. Hierdoor kunnen we de response nog wel lezen,
+        en zou de payload van een security risk nogsteeds binnen in ons systeem kunnen komen.
+        Door dit soort design keuzens is deze software meer gebaseert op user control, dan daadwerkelijke virus preventie.
+        """
         flow.response = http.HTTPResponse.make(
             200,  # (optional) status code
             b"<h1> blocked website by Ministerie van Defensie this activity has been logged.</h1>\n",
@@ -274,7 +310,9 @@ class Main:
         )
 
     def analyse(self, flow, loadin=False):
-        """een tijdelijke functie die url text data opslaat, later moet dit ook analyseren."""
+        """
+        een tijdelijke functie die url text data opslaat, later moet dit ook analyseren.
+        """
         if str(flow.request.pretty_url) not in self.uselessinfo:
             ctx.log.info("Analysing: " + flow.request.pretty_url)
 
@@ -283,75 +321,110 @@ class Main:
             output = self.filterHtml(body)
             outputSplit = output.split("\n")
             self.analysePrepare(url, outputSplit)
-            ctx.log.info("NGRAMS WRITTEN...")
-            self.compareWebsite(flow)
-            ctx.log.info(str(self.urlSortedBigram.keys()))
 
+            self.compareWebsite(url)
 
-            ctx.log.info("GRAMS WRITTEN!")
-            ctx.log.info(input("Would you like to save the websiteflow of : "+ flow.request.pretty_url))
-            if self.saveWebModus:
-                    self.saveFlow()
+            if not loadin:
+                if self.saveWebModus:
+                    yn = input(
+                        "Would you like to save the flow of this url? : " + flow.request.pretty_url + " Y / N : ")
+                    if yn.lower() == "y":
+                        self.saveFlow(flow)
+                        ctx.log.info("flowSaved")
+            ctx.log.info("Analysing succes!")
 
-            #directory = "C:/Users/Orang/PycharmProjects/Ipass/Src/Logs/WebsiteData/"
+            # directory = "C:/Users/Orang/PycharmProjects/Ipass/Src/Logs/WebsiteData/"
             ##self.saveWebsiteFlow(flow, "pornografie", directory) voorbeeldje van hoe websites op te slaan
 
-    def saveFlow(self,flow):
+    def saveFlow(self, flow):
         category = input("Please give this a category to save to: ")
         directory = "C:/Users/Orang/PycharmProjects/Ipass/Src/Logs/WebsiteData/"
         f: typing.IO[bytes] = open(directory + category + ".logfile" "", "ab")
         flowWriter = io.FlowWriter(f)
         flowWriter.add(flow)
         f.close()
-        ctx.log.info("flow saved for website: " + category + ".logfile")
+        ctx.log.info("flow saved for category: " + category + ".logfile")
 
     def analysePrepare(self, url, outputSplit, differentdict=None):
-        """"Een kleine versie om een website op teslaan in de dictionaries, zodat we makkelijk websites kunnen inladen
+        """
+        Een kleine versie om een website op teslaan in de dictionaries, zodat we makkelijk websites kunnen inladen
         en her gebruiken later mochten we willen.
-        Als je wil dat de dictionaries in een andere dict worden opgeslagen, geef dan de dict mee als differentdict"""
+        Als je wil dat de dictionaries in een andere dict worden opgeslagen, geef dan de dict mee als differentdict
+        """
         if differentdict is not None:
             if len(outputSplit) > 0:
                 for row in outputSplit:
                     if len(row) >= 2:
-                        self.createGrams(Main,row, url)
-                self.normalizeGrams(Main,url,self.urlOnegrams[url], self.urlBigrams[url])
+                        if "onegram" not in differentdict.keys():
+                            differentdict["onegram"] = {}
+                        if "bigram" not in differentdict.keys():
+                            differentdict["bigram"] = {}
+                        self.createGrams(row, url, differentdict["onegram"], differentdict["bigram"], True)
+                        # Doel final gram : urlcomp= {category:{url:{amountgram:{gram:countofthisgram in website}}}}
+                self.normalizeGrams(url, differentdict["onegram"], differentdict["bigram"])
         else:
             if len(outputSplit) > 0:
                 for row in outputSplit:
                     if len(row) >= 2:
-                        self.createGrams(Main,row, url,)
-                self.normalizeGrams(Main,url,self.urlOnegrams[url], self.urlBigrams[url])
+                        self.createGrams(row, url, self.urlOnegrams, self.urlBigrams)
+                try:
+                    self.normalizeGrams(url, self.urlOnegrams[url], self.urlBigrams[url])
+                except"redirection":
+                    ctx.log.alert("Redirected url, not saved")
 
-
-    def compareWebsite(self, flow):
+    def compareWebsite(self, url):
         """Mijn eigen heuristiek om op een semi-AI manier websites te vergelijken"""
+        if str(url) in str(self.urlSortedBigram.keys()):
+            #TODO: heuristiek :)
+            pass
+        else:
+            ctx.log.warn("Url can be analysed, not added to dict!")
+
         # TODO: MAKE THIS
 
-    def createGrams(self, row, url,dictone= self.urlOnegrams,dicttwo = self.urlBigrams):
+    def createGrams(self, row, url, dictone, dicttwo, urlalreadygiven=False):
         """"Make and add onegrams to their respective dictionary. Then create bigrams from this onegram.
         These grams are not the traditional gram, but made of words instead of letters."""
-        onegramArray = row.split()
-        if url not in self.urlOnegrams:
-            self.urlOnegrams[url] = {}
-        for onegram in range(len(onegramArray)):
-            onegramStr = onegramArray[onegram].lower()
-            if onegramStr in self.urlOnegrams[url].keys():
-                self.urlOnegrams[url][onegramStr] += 1
-            else:
-                self.urlOnegrams[url][onegramStr] = 1
-            # Als de index nog niet de laatste is, maak ook een bigram hiervan.( of als er maar 1 woord is, doe het niet)
-            if onegram != len(onegramArray) - 1:
-                self.addBiGram(Main,onegramStr + str(onegramArray[onegram + 1]), url)
-
-    def addBiGram(self, concatOneGram, url):
-        if url not in self.urlBigrams:
-            self.urlBigrams[url] = {}
-        if concatOneGram in self.urlBigrams[url].keys():
-            self.urlBigrams[url][concatOneGram] = self.urlBigrams[url][concatOneGram] + 1
+        if urlalreadygiven:
+            onegramArray = row.split()
+            for onegram in range(len(onegramArray)):
+                onegramStr = onegramArray[onegram].lower()
+                if onegramStr in self.urlOnegrams.keys():
+                    self.urlOnegrams[onegramStr] += 1
+                else:
+                    self.urlOnegrams[onegramStr] = 1
+                # Als de index nog niet de laatste is, maak ook een bigram hiervan.( of als er maar 1 woord is, doe het niet)
+                if onegram != len(onegramArray) - 1:
+                    self.addBiGram(onegramStr + str(onegramArray[onegram + 1]), url, True)
         else:
-            self.urlBigrams[url][concatOneGram] = 1
+            onegramArray = row.split()
+            if url not in dictone:
+                self.urlOnegrams[url] = {}
+            for onegram in range(len(onegramArray)):
+                onegramStr = onegramArray[onegram].lower()
+                if onegramStr in self.urlOnegrams[url].keys():
+                    self.urlOnegrams[url][onegramStr] += 1
+                else:
+                    self.urlOnegrams[url][onegramStr] = 1
+                # Als de index nog niet de laatste is, maak ook een bigram hiervan.( of als er maar 1 woord is, doe het niet)
+                if onegram != len(onegramArray) - 1:
+                    self.addBiGram(onegramStr + str(onegramArray[onegram + 1]), url)
 
-    def normalizeGrams(self,url, dictone, dicttwo):
+    def addBiGram(self, concatOneGram, url, urlalreadygiven=False):
+        if urlalreadygiven:
+            if concatOneGram in self.urlBigrams.keys():
+                self.urlBigrams[concatOneGram] = self.urlBigrams[concatOneGram] + 1
+            else:
+                self.urlBigrams[concatOneGram] = 1
+        else:
+            if url not in self.urlBigrams:
+                self.urlBigrams[url] = {}
+            if concatOneGram in self.urlBigrams[url].keys():
+                self.urlBigrams[url][concatOneGram] = self.urlBigrams[url][concatOneGram] + 1
+            else:
+                self.urlBigrams[url][concatOneGram] = 1
+
+    def normalizeGrams(self, url, dictone, dicttwo):
         """"count all grams, and normalize the value.( and add a small difference for big webpages!)"""
         dicts = [dictone, dicttwo]
         wordAmount = 0
@@ -363,19 +436,25 @@ class Main:
                 if amountGram != 0:
                     dict[key] = amountGram / wordAmount
 
-        self.sortGrams(Main,url, dictone, dicttwo)
+        self.sortGrams(url, dictone, dicttwo)
 
-    def sortGrams(self,url, dictone, dicttwo):
+    def sortGrams(self, url, dictone, dicttwo):
+        """"
+        Put 2 grams in the correct order for values. In a ordered dict.
+        """
         if url not in self.urlSortedOnegram:
             self.urlSortedOnegram[url] = {}
         self.urlSortedOnegram[url] = OrderedDict(sorted(dictone.items(), key=lambda t: t[1]))
 
         if url not in self.urlSortedBigram:
             self.urlSortedBigram[url] = {}
+
         self.urlSortedBigram[url] = OrderedDict(sorted(dicttwo.items(), key=lambda t: t[1]))
 
     def filterHtml(self, body):
-        """Filter html code from the pure visual text on a website"""
+        """
+        Filter html code from the pure visual text on a website
+        """
         output = ''
         soup = BeautifulSoup(body, "html.parser")
         for script in soup(["script", "style"]):
@@ -435,5 +514,5 @@ class Main:
 
 addons = [
     Main()
-    #,Test()
+    # ,Test()
 ]
