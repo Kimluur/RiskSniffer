@@ -1,4 +1,5 @@
 import collections
+import statistics
 import sys
 
 from mitmproxy import http
@@ -13,8 +14,7 @@ import typing
 from collections import OrderedDict
 from getmac import get_mac_address as gma
 from mitmproxy.net.http.http1.assemble import _assemble_response_headers, assemble_response
-from mitmproxy import \
-    flow  # een paar van deze imports doen niets, want MITMdump heeft deze imports niet nodig. Maar, het is wel handig omdat het voor development code completion verbeterd!
+from mitmproxy import flow  # een paar van deze imports doen niets, want MITMdump heeft deze imports niet nodig. Maar, het is wel handig omdat het voor development code completion verbeterd!
 from mitmproxy import io
 from mitmproxy.exceptions import FlowReadException
 
@@ -56,7 +56,7 @@ class Main:
     urlSortedOnegram = {}
     urlSortedBigram = {}
     urlCompareDict = {}
-
+    urlCatagoryPercent = {}
     blacklist = [  # these are parts of html that I do not want in pure text.
         '[document]',
         'noscript',
@@ -70,12 +70,11 @@ class Main:
 
     def __init__(self):
         """Load all the things!"""
-        self.num = 0
         self.loadConfig()
         self.loadBannedUrls()
         self.loadFilters()
         self.loadCompareWebsites()
-        # Test()
+
 
     def loadFilters(self):
         """
@@ -107,6 +106,7 @@ class Main:
         """
         # TODO: Uitbreiden naar elke file in de directory.
         directory = self.path + "/Logs/WebsiteData/"
+
         # laad websites in die gerelateerd zijn aan pornografie, zodat we andere soort gelijke websites kunnen vergelijken
         self.loadCategoryWebsite("pornografie", directory)
         ctx.log.info("Alle vergelijkings materiaal is ingeladen!")
@@ -118,18 +118,24 @@ class Main:
         variablen namen geef zonder dat ik op voorhand de naam ken.
         """
         with open(directory + category + ".logfile", "rb") as logfile:
-            ctx.log.info("reading :" + directory + category + ".logfile")
             freader = io.FlowReader(logfile)
             try:
                 for flow in freader.stream():
+
                     body = str(flow.response.content)
                     url = str(flow.request.pretty_url)
+
                     # er zit hier een max op omdat sommige URLS erg lang kunen worden.
                     output = self.filterHtml(body)
-                    outputSplit = output.split("\n")
+                    outputLines = output.split("\n")
                     if category not in self.urlCompareDict.keys():
                         self.urlCompareDict[category] = {}
-                    self.analysePrepare(url, outputSplit, self.urlCompareDict[category])
+                    if url not in self.urlCompareDict[category].keys():
+                        self.urlCompareDict[category][url] = {}
+
+                    ctx.log.info("text filtered correctly "+str(url))
+                    self.analysePrepare(url, outputLines, self.urlCompareDict[category][url])
+                    ctx.log.info("analyse prepare loadin")
             except FlowReadException as e:
                 print("Flow file corrupted: {}".format(e))
 
@@ -218,7 +224,9 @@ class Main:
         Deze functie word aangeroepen voor elke http response
         """
 
-    # Nu tijdelijk niets wat ik doe met de request.
+    # Nu tijdelijk niets wat ik doe met de request, nog geen noodzaak voor gehad. Ik zou al eerder kunnen controleren
+    # op websites die verdacht zijn, maar als de client met een proxy of redirect naar een banned server gaat zou je
+    # dit niet op vangen. Vandaar dat ik alles vannuit de responses op heb gebouwd
 
     def response(self, flow: http.HTTPFlow):
         """
@@ -321,8 +329,8 @@ class Main:
             output = self.filterHtml(body)
             outputSplit = output.split("\n")
             self.analysePrepare(url, outputSplit)
-
-            self.compareWebsite(url)
+            ctx.log.info("finished analyze prepare---")
+            self.compareWebsite(url,flow)
 
             if not loadin:
                 if self.saveWebModus:
@@ -331,7 +339,6 @@ class Main:
                     if yn.lower() == "y":
                         self.saveFlow(flow)
                         ctx.log.info("flowSaved")
-            ctx.log.info("Analysing succes!")
 
             # directory = "C:/Users/Orang/PycharmProjects/Ipass/Src/Logs/WebsiteData/"
             ##self.saveWebsiteFlow(flow, "pornografie", directory) voorbeeldje van hoe websites op te slaan
@@ -357,26 +364,61 @@ class Main:
                     if len(row) >= 2:
                         if "onegram" not in differentdict.keys():
                             differentdict["onegram"] = {}
+                            differentdict["onegram"][url] = {}
                         if "bigram" not in differentdict.keys():
                             differentdict["bigram"] = {}
-                        self.createGrams(row, url, differentdict["onegram"], differentdict["bigram"], True)
+                            differentdict["bigram"][url] = {}
+                        self.createGrams(row, url, differentdict["onegram"][url], differentdict["bigram"][url], True)
                         # Doel final gram : urlcomp= {category:{url:{amountgram:{gram:countofthisgram in website}}}}
                 self.normalizeGrams(url, differentdict["onegram"], differentdict["bigram"])
+                ctx.log.info("finished analyze prepare||")
         else:
+
             if len(outputSplit) > 0:
                 for row in outputSplit:
                     if len(row) >= 2:
                         self.createGrams(row, url, self.urlOnegrams, self.urlBigrams)
-                try:
-                    self.normalizeGrams(url, self.urlOnegrams[url], self.urlBigrams[url])
-                except"redirection":
-                    ctx.log.alert("Redirected url, not saved")
+                        ctx.log.info("Created grams")
 
-    def compareWebsite(self, url):
+                self.normalizeGrams(url, self.urlOnegrams, self.urlBigrams,)
+
+
+    def compareWebsite(self, url,flow):
         """Mijn eigen heuristiek om op een semi-AI manier websites te vergelijken"""
         if str(url) in str(self.urlSortedBigram.keys()):
-            #TODO: heuristiek :)
-            pass
+            #TODO: heuristiek :-)
+            if url in self.urlCatagoryPercent.keys():
+                #Url has already been checked, but maby we want to double check?
+                ctx.log.warn("url already been checked. Do we want to doublecheck?")
+                if self.urlCatagoryPercent[url] * 100 > 2.6:
+                    self.blockWebsite(flow)
+            else:
+                percSimilar = 0
+                dictionary = self.urlSortedBigram[url]
+                compare = self.urlCompareDict
+
+                for categorie in compare:
+                    amountwebsites = 0
+                    websitepercentages = []
+
+                    for website in compare[categorie]:
+                        amountwebsites += 1
+                        if url not in self.urlCatagoryPercent:
+                            self.urlCatagoryPercent[url] = {}
+                        for gram in compare[categorie][website]["bigram"][website]:
+                            if gram in self.urlSortedBigram[url].keys():
+                                percSimilar += abs(dictionary[gram] - compare[categorie][website]["bigram"][website][gram])
+
+                        websitepercentages.append(percSimilar)
+                    #Voor elke website bereken de percentage mediaan, Ik ga dit nog testen of dit beter werkt dan
+                    # de gemiddelde.
+                    self.urlCatagoryPercent[url] = statistics.median(websitepercentages)
+                    ctx.log.info(str((self.urlCatagoryPercent[url])*100)+" percent compare with porn" )
+                    if self.urlCatagoryPercent[url]*100 >2.6:
+
+                        self.blockWebsite(flow)
+
+
         else:
             ctx.log.warn("Url can be analysed, not added to dict!")
 
@@ -385,18 +427,21 @@ class Main:
     def createGrams(self, row, url, dictone, dicttwo, urlalreadygiven=False):
         """"Make and add onegrams to their respective dictionary. Then create bigrams from this onegram.
         These grams are not the traditional gram, but made of words instead of letters."""
+        #todo: Maak dit soort functies verschillende functies ( url wel of niet )
         if urlalreadygiven:
             onegramArray = row.split()
             for onegram in range(len(onegramArray)):
                 onegramStr = onegramArray[onegram].lower()
-                if onegramStr in self.urlOnegrams.keys():
-                    self.urlOnegrams[onegramStr] += 1
+                if onegramStr in dictone.keys():
+
+                    dictone[onegramStr] += 1
                 else:
-                    self.urlOnegrams[onegramStr] = 1
-                # Als de index nog niet de laatste is, maak ook een bigram hiervan.( of als er maar 1 woord is, doe het niet)
+                    dictone[onegramStr] = 1
+                    # Als de index nog niet de laatste is, maak ook een bigram hiervan.( of als er maar 1 woord is, doe het niet)
                 if onegram != len(onegramArray) - 1:
-                    self.addBiGram(onegramStr + str(onegramArray[onegram + 1]), url, True)
+                    self.addBiGram(onegramStr + str(onegramArray[onegram + 1]), url, dicttwo)
         else:
+
             onegramArray = row.split()
             if url not in dictone:
                 self.urlOnegrams[url] = {}
@@ -408,14 +453,16 @@ class Main:
                     self.urlOnegrams[url][onegramStr] = 1
                 # Als de index nog niet de laatste is, maak ook een bigram hiervan.( of als er maar 1 woord is, doe het niet)
                 if onegram != len(onegramArray) - 1:
+
                     self.addBiGram(onegramStr + str(onegramArray[onegram + 1]), url)
 
+
     def addBiGram(self, concatOneGram, url, urlalreadygiven=False):
-        if urlalreadygiven:
-            if concatOneGram in self.urlBigrams.keys():
-                self.urlBigrams[concatOneGram] = self.urlBigrams[concatOneGram] + 1
+        if urlalreadygiven is not False:
+            if concatOneGram in urlalreadygiven.keys():
+                urlalreadygiven[concatOneGram] = urlalreadygiven[concatOneGram] + 1
             else:
-                self.urlBigrams[concatOneGram] = 1
+                urlalreadygiven[concatOneGram] = 1
         else:
             if url not in self.urlBigrams:
                 self.urlBigrams[url] = {}
@@ -424,32 +471,35 @@ class Main:
             else:
                 self.urlBigrams[url][concatOneGram] = 1
 
+
     def normalizeGrams(self, url, dictone, dicttwo):
         """"count all grams, and normalize the value.( and add a small difference for big webpages!)"""
         dicts = [dictone, dicttwo]
         wordAmount = 0
         for dict in dicts:
-            for key in dict.keys():
-                wordAmount += dict[key]
-            for key in dict.keys():
-                amountGram = dict[key]
+            # if key not in dict.keys():
+            #
+            for key in dict[url].keys():
+                wordAmount += dict[url][key]
+            for key in dict[url].keys():
+                amountGram = dict[url][key]
                 if amountGram != 0:
-                    dict[key] = amountGram / wordAmount
+                    dict[url][key] = amountGram / wordAmount
 
         self.sortGrams(url, dictone, dicttwo)
+
 
     def sortGrams(self, url, dictone, dicttwo):
         """"
         Put 2 grams in the correct order for values. In a ordered dict.
         """
-        if url not in self.urlSortedOnegram:
-            self.urlSortedOnegram[url] = {}
-        self.urlSortedOnegram[url] = OrderedDict(sorted(dictone.items(), key=lambda t: t[1]))
+
+        self.urlSortedOnegram[url] = OrderedDict(sorted(dictone[url].items(), key=lambda t: t[1]))
 
         if url not in self.urlSortedBigram:
             self.urlSortedBigram[url] = {}
 
-        self.urlSortedBigram[url] = OrderedDict(sorted(dicttwo.items(), key=lambda t: t[1]))
+        self.urlSortedBigram[url] = OrderedDict(sorted(dicttwo[url].items(), key=lambda t: t[1]))
 
     def filterHtml(self, body):
         """
@@ -461,56 +511,21 @@ class Main:
             script.extract()
         text = soup.find_all(text=True)
         for t in text:
+            if t == "\\n":
+                continue
             if len(t) > 2:
                 if t.parent.name not in self.blacklist:
                     output += '{} '.format(t.strip())
+                try:
+                    t = t.replace("\\n", "")
+                    t = t.replace("\\t", "")
+                except:
+                    ctx.log.error("stripping failed")
+
         return output
 
 
-# class Test:
-#     """
-#     Een classe waar we functies van Main kunnen testen op correcte feedback.
-#     """
-#
-#     def __init__(self):
-#         self.testInitial()
-#
-#     def testInitial(self):
-#         """
-#         Een uitgebreide functie die meerdere functies test aande hand van het in laden van een test website,
-#         en daar functies op te testen. Hiermee testen we dus de save functie, laad functie en ngram creeer functies.
-#         """
-#         ctx.log.info("testing website load function")
-#         directory = Main.path + "/Logs/WebsiteData/"
-#         "laad alle websites in die gerelateerd zijn aan pornografie"
-#         Main.loadCategoryWebsite(Main,"nieuws", directory)
-#         self.testSaveLoad()
-#         self.testNgramCreation()
-#
-#     def testSaveLoad(self):
-#         """
-#         Simpele functie die gebruik maakt van de load functie van Main.
-#         We testen of we de testfile kunnen lezen, en zien de goede url. Dit is een goed genoege indicatie voor
-#         een geslaagde load.
-#         """
-#
-#
-#         if Main.urlOnegrams.keys[1] == "https://www.nu.nl":
-#             #
-#             ctx.log.info("test save / load Succes!")
-#         else:
-#             ctx.log.warn("test save / load Failed...!")
-#     def testNgramScan(self):
-#         """
-#         Simpele functie die gebruik maakt van de create Ngram functies van Main.
-#         Op het moment dat de test het woord algemeen kan lezen uit de ngrams, dan kunnen we er vannuit gaan dat
-#         deze test ook succesvol is. Aangezien dit ergens boven aan de https gebaseerde website body staat.
-#         """
-#         if "algemeen" in str(Main.urlOnegrams[Main.urlOnegrams.keys[1]].keys):
-#
-#             ctx.log.info("test ngram, and dictonary related functions works!")
-#         else:
-#             ctx.log.warn("test ngram, and dictonary related functions does NOT work...")
+
 
 addons = [
     Main()

@@ -37,3 +37,4 @@ mqdefault
 PermissionError:
 messaging-system
 config?fields=
+.zip
