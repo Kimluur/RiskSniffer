@@ -1,6 +1,8 @@
+import colorama
 from mitmproxy import ctx
 from Main import Main
-from Start import CmdInterface
+from colorama import Fore, Back, Style
+
 
 class Test:
     """
@@ -9,10 +11,13 @@ class Test:
     Helaas is het algoritme niet met deze functie te testen, dit heb ik met de hand moeten doen.
     Verdere toelichting hierover in mijn DOCS!
     """
+
     m = Main()
-    cmd = CmdInterface()
     def __init__(self):
+        colorama.init()
+        print(Fore.YELLOW)
         self.testInitial()
+
 
     def testInitial(self):
         """
@@ -22,14 +27,15 @@ class Test:
         # try:
 
         directory = self.m.path + "/Logs/WebsiteData/"
-        "laad alle websites in die gerelateerd zijn aan pornografie"
-        self.m.loadCategoryWebsite("nieuws", directory)
+
+        self.m.loadCategoryWebsite("nieuws", directory ,2)
 
         self.testSaveLoad()
 
         self.testNgramCreation()
 
         # All tests finished, exiting program.
+        ctx.log.info(" All tests Successfully ran! Exiting program. ")
         exit()
 
     def testSaveLoad(self):
@@ -41,9 +47,9 @@ class Test:
 
         if "nieuws" in self.m.urlCompareDict.keys():
             #
-            ctx.log.info("test save / load Succes!")
+            ctx.log.info("test save / load Succes! ")
         else:
-            ctx.log.warn("test save / load Failed...!")
+            ctx.log.warn("test save / load Failed...! ")
 
     def testNgramCreation(self):
         """
@@ -52,7 +58,7 @@ class Test:
         deze test ook succesvol is. Aangezien dit ergens boven aan de https gebaseerde website body staat.
         """
 
-        if "algemeen" in str(self.m.urlCompareDict["nieuws"]["onegram"].keys()):
+        if "algemeen" in str(self.m.urlCompareDict["nieuws"]["https://www.nu.nl/"]["onegram"]["https://www.nu.nl/"].keys()):
             # compare[categorie][website]["bigram"][website]
             ctx.log.info("test ngram, and dictonary related functions works!")
         else:

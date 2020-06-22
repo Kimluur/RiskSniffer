@@ -29,8 +29,7 @@ class CmdInterface:
       """
 
         print(Fore.GREEN + self.welcome)
-        print("This is the proxy server startup menu.\nEverything in this menu is coloured green, the rest is in your "
-              "standard color layout")
+        print("This is the proxy server startup menu.")
         if self.question("Would you like to run the program with last settings?"):
             self.startprogram()
         else:
@@ -55,13 +54,47 @@ class CmdInterface:
       those settings.)
       I ask these in order: Question(change yes no),
       """
-
+        # Logall
         if self.question(
-                "Do you want to log all traffic?" + self.warn("This may result in a huge text file with urls.")):
+                "Do you want to log all traffic? This may result in a huge text file with urls."):
             self.editConf("LogAll:", "True")
         else:
             self.editConf("LogAll:", "False")
+        # Saveweb modus
+        if self.question(
+                "Do you want to run the program in saving mode?(to add banned content to a category)" ):
+            self.editConf("SaveWebModus:", "True")
+        else:
+            #Met saveweb modus True hoef je deze instellingen niet te doen.
+            self.editConf("SaveWebModus:", "False")
+            # Analyse traffic
+            if self.question(
+                    "Do you want analyse traffic? (needed for most ban and log content functions!)." ):
+                self.editConf("Analysetraffic:", "True")
+            else:
+                self.editConf("Analysetraffic:", "False")
+            # HardBlockBannedContent
+                if self.question(
+                        "Do you want to hard-block all urls in the banned urls list?"):
+                    self.editConf("HardBlockBannedContent:", "True")
+                else:
+                    self.editConf("HardBlockBannedContent:", "False")
+                    # SemiBlock
+                    if self.question(
+                            "Do you want to semi-block all semi block urls in the banned urls list?"):
+                        self.editConf("HardblockSemi:", "True")
+                    else:
+                        self.editConf("HardblockSemi:", "False")
+                # HardBlockText
+                if self.question(
+                        "Do you want to change the text on the url Ban page?"):
+                    text = input("What text do you want to display?: ")
 
+                else:
+                    self.editConf("HardblockSemi:", "False")
+                # HardBlock Retrospect
+                    ## Hardblock Semi
+            # save website modus
     def editConf(self, settingName, value):
         """
         Edit the Config line for the Main program.
@@ -97,7 +130,7 @@ class CmdInterface:
         """
         Start the main program!
         """
-        start = pyfiglet.figlet_format("Program Started","drpepper")
+        start = pyfiglet.figlet_format("Program Running...","drpepper")
         print(start)
         colorama.deinit()
         Main()
