@@ -2,7 +2,7 @@
  A http(s) Sniffer in python that tries to determine risks by textmining/analysis algorithms 
  All my code is written in Src. Almost all comments are in Dutch, because the company that gave me this assignment is dutch.
  
- This project uses MITM proxy as a framework: https://github.com/mitmproxy/mitmproxy 
+ This project uses MITM proxy as a framework get it here: https://github.com/mitmproxy/mitmproxy 
  
  This is NOT an attack framework, because you will need root and admin access to all computers on the network, meaning that this can only be used and should only be used if you are fully authorised to see ALL internet traffic on these computers. Please keep the European General Data Protection Regulation (AVG) in mind when using this software.
  
@@ -14,7 +14,6 @@
  
 ## How to install
 
-* extract mitm from the zip file.
 
 * install the certs in the browsers, and windows of the hosts you want to sniff/analyse. ( from C:\Users\"your host/user here"\.mitmproxy by default) (Will showup after running the mitmdump command once.) 
 
