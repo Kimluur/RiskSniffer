@@ -1,15 +1,18 @@
 from mitmproxy import ctx
 from Main import Main
+from Start import CmdInterface
 
 class Test:
     """
     Een classe waar we functies van Main kunnen testen op correcte feedback.
-    Run door middel van standaard opstart MITM, maar dan met test.py ipv start.py!
+    Run door middel van standaard opstart MITMDump maar dan met test.py ipv start.py!
+    Helaas is het algoritme niet met deze functie te testen, dit heb ik met de hand moeten doen.
+    Verdere toelichting hierover in mijn DOCS!
     """
     m = Main()
+    cmd = CmdInterface()
     def __init__(self):
         self.testInitial()
-
 
     def testInitial(self):
         """
@@ -26,10 +29,7 @@ class Test:
 
         self.testNgramCreation()
 
-        # except:
-        #     ctx.log.error("Some of the tests failed, check from where the program stopped according to the latest finished test!("
-        #                   "Sadly we dont get more information than this because of the way MITM proxy is build.)")
-        #nadat de test klaar is, stop. ( geen reden tot verder gebruik van mitmproxy. )
+        # All tests finished, exiting program.
         exit()
 
     def testSaveLoad(self):
@@ -39,12 +39,12 @@ class Test:
         een geslaagde load.
         """
 
-
-        if "nieuws" in self.m.urlCompareDict.keys() :
+        if "nieuws" in self.m.urlCompareDict.keys():
             #
             ctx.log.info("test save / load Succes!")
         else:
             ctx.log.warn("test save / load Failed...!")
+
     def testNgramCreation(self):
         """
         Simpele functie die gebruik maakt van de create Ngram functies van Main.
@@ -53,7 +53,7 @@ class Test:
         """
 
         if "algemeen" in str(self.m.urlCompareDict["nieuws"]["onegram"].keys()):
-            #compare[categorie][website]["bigram"][website]
+            # compare[categorie][website]["bigram"][website]
             ctx.log.info("test ngram, and dictonary related functions works!")
         else:
             ctx.log.warn("test ngram, and dictonary related functions does NOT work...")

@@ -1,7 +1,6 @@
 import collections
 import statistics
 import sys
-
 from mitmproxy import http
 from mitmproxy.net.http.http1.assemble import assemble_request
 from bs4 import BeautifulSoup
@@ -14,7 +13,9 @@ import typing
 from collections import OrderedDict
 from getmac import get_mac_address as gma
 from mitmproxy.net.http.http1.assemble import _assemble_response_headers, assemble_response
-from mitmproxy import flow  # een paar van deze imports doen niets, want MITMdump heeft deze imports niet nodig. Maar, het is wel handig omdat het voor development code completion verbeterd!
+from mitmproxy import flow
+# een paar van deze imports doen niets, want MITMdump heeft deze imports niet nodig.
+# Maar, het is wel handig omdat het voor development code completion verbeterd!
 from mitmproxy import io
 from mitmproxy.exceptions import FlowReadException
 
@@ -23,6 +24,7 @@ class Main:
     """
     Main program, inhere are all needed information and functions. Functions will most of the times be triggered
     by http(s)flow responses.
+    Deze applicatie word in zijn geheeld door Cython gepiped door MITM-Dump( hierdoor is het nog sneller dan normaal)
     """
     dirname, filename = os.path.split(os.path.abspath(__file__))
     path = dirname
@@ -57,6 +59,8 @@ class Main:
     urlSortedBigram = {}
     urlCompareDict = {}
     urlCatagoryPercent = {}
+    whitelist = []
+    catagoryTrigger = {"catagory": 10}
     blacklist = [  # these are parts of html that I do not want in pure text.
         '[document]',
         'noscript',
@@ -74,7 +78,7 @@ class Main:
         self.loadBannedUrls()
         self.loadFilters()
         self.loadCompareWebsites()
-
+        ctx.log.info("Main program successfully initialized and starting now.")
 
     def loadFilters(self):
         """
@@ -104,14 +108,32 @@ class Main:
         Geef daar aan mee de string naam van je category, waarvan ook al een file save zou moeten zijn.
         (deze kan je makenmet de save modus!)
         """
-        # TODO: Uitbreiden naar elke file in de directory.
         directory = self.path + "/Logs/WebsiteData/"
 
         # laad websites in die gerelateerd zijn aan pornografie, zodat we andere soort gelijke websites kunnen vergelijken
-        self.loadCategoryWebsite("pornografie", directory)
-        ctx.log.info("Alle vergelijkings materiaal is ingeladen!")
+        self.loadCategoryWebsite("pornografie", directory, 2.6)
+        ctx.log.info("All compare based categories have been loaded.")
 
-    def loadCategoryWebsite(self, category, directory):
+    def loadWhitelist(self):
+        """
+        Function that loads the whitelist. Whitelist specific urls only! you can whitelist https://wikipedia.org
+        but https://en.wikipedia.org/wiki/Pornography might still be blocked.
+
+        Sometimes the program sees something as a high risk, but you might not see this as a risk.
+        If this is the case, please evaluate the website carefully and if you deem is safe to visit, add it to the whitelist
+        For example: Wikipedia has pages related to pornografic material. But because it does not contains porn,
+        I personally would not deem this webpage to be a policy risk. This is the first and only added entry to the
+        whitelist. If you want you could add more, or clean the whitelist completely.
+        """
+        try:
+            directory = self.path + "/whitelistedurls.txt"
+            with open(directory, "r") as whitelist:
+                for line in whitelist:
+                    self.whitelist.append(line)
+        except:
+            ctx.log.error("Whitelist cant be found or cant be loaded.")
+
+    def loadCategoryWebsite(self, category, directory, blockpercentage):
         """
         Laad een category aan websites in, in een dict voor die category.
         Werkt alleen voor standaard categorieeën. Dit is helaas niet scaleable, omdat ik niet weet hoe ik
@@ -133,9 +155,8 @@ class Main:
                     if url not in self.urlCompareDict[category].keys():
                         self.urlCompareDict[category][url] = {}
 
-                    ctx.log.info("text filtered correctly "+str(url))
                     self.analysePrepare(url, outputLines, self.urlCompareDict[category][url])
-                    ctx.log.info("analyse prepare loadin")
+
             except FlowReadException as e:
                 print("Flow file corrupted: {}".format(e))
 
@@ -145,16 +166,15 @@ class Main:
         """
         csvpath = self.path + "/bannedurls.csv"
         with open(csvpath, "r")as csvfile:
-            ctx.log.info("opened banned csv")
             csvreader = csv.DictReader(csvfile, delimiter=",")
             if self.hardblock == True:
                 for row in csvreader:
                     ctx.log.info("for row in csv hardblock")
-                    # als een url in de banned list staat, dan mag deze direct toegevoegd worden, ook zal er een bij behorende category bij zitten.
+                    # als een url in de banned list staat, dan mag deze direct toegevoegd worden, ook zal er een bij
+                    # behorende category bij zitten.
                     self.bannedurls[row["url"]] = row["category"]
                     ctx.log.info(row["category"])
             elif self.hardblockSemi == True:
-                ctx.log.info("semiblockcheck")
                 for row in csvreader:
                     if row["semiallowed"] != "True":
                         # als een url niet semi allowed is, voeg het toe aan de banned list.
@@ -162,7 +182,7 @@ class Main:
                     elif row["semiallowed"] == "True":
                         self.semiurllog[row["url"]] = row["category"]
 
-        ctx.log.info("Banned items loaded.")
+        ctx.log.info("Banned websites-list loaded.")
 
     def loadConfig(self):
         """
@@ -170,6 +190,8 @@ class Main:
         ( ja dit zou een kleinbeetje mooier kunnen met een dictionary, als ik tijd over heb ga ik dit zeker doen. )
         """
         with open(self.path + "/config.txt", "r")as config:
+            ctx.log.info("--------------------------------------")
+            ctx.log.info("All following info are Config setting:")
             for line in config:
                 if len(line) == 0 or line[0:2] == "//":
                     continue
@@ -218,6 +240,7 @@ class Main:
                     elif "False" in line:
                         self.saveWebModus = False
         ctx.log.info("Configfile loaded")
+        ctx.log.info("--------------------------------------")
 
     def request(self, flow: http.HTTPFlow) -> None:
         """
@@ -231,7 +254,7 @@ class Main:
     def response(self, flow: http.HTTPFlow):
         """
         Deze functie word aangeroepen voor elke http response, hier roepen we de meeste analyse functies aan
-        zoals Analyse, logurl en soort gelijke.
+        zoals Analyse, logurl en soort gelijke. Dit is de "starting block" van bijna al mijn functies.
         """
         # als de status code 200 is en de website dus geladen kan worden.
         alreadyLogged = False
@@ -270,11 +293,18 @@ class Main:
 
     def isUrlIntresting(self, flow):
         """
-        bekijk de URL data om te kijken of de url wel intressant is om te bekijken.
+        bekijk de URL data om te kijken of de rest van de data wel intressant is om te bekijken.
         """
         headers = "".join(flow.request.path_components)
         for item in self.uselessinfo:
             if item in headers:
+                return False
+
+        for url in self.bannedurls:
+            # als de url al gebanned is, hoeven we deze niet nog een keer te controleren!
+            if url in headers:
+                self.logUrl(flow)
+                self.blockWebsite(flow)
                 return False
 
         for item in self.notintrestingurlparts:
@@ -319,33 +349,40 @@ class Main:
 
     def analyse(self, flow, loadin=False):
         """
-        een tijdelijke functie die url text data opslaat, later moet dit ook analyseren.
+        Functie voert het uitvoeren van een nieuwe flow uit. Deze volgorde kan NIET als de flow al een keer geanalysed.
         """
         if str(flow.request.pretty_url) not in self.uselessinfo:
-            ctx.log.info("Analysing: " + flow.request.pretty_url)
+            if str(flow.request.pretty_url) not in self.whitelist:
+                ctx.log.info("Analysing: " + flow.request.pretty_url)
 
-            body = flow.response.content
-            url = str(flow.request.pretty_url)
-            output = self.filterHtml(body)
-            outputSplit = output.split("\n")
-            self.analysePrepare(url, outputSplit)
-            ctx.log.info("finished analyze prepare---")
-            self.compareWebsite(url,flow)
+                body = flow.response.content
+                url = str(flow.request.pretty_url)
+                # Als de url is geanalyseerd hoeft dit niet nog een keer te gebeuren.
+                if str(url) in str(self.urlSortedBigram.keys()):
+                    if url in self.urlCatagoryPercent.keys():
+                        ctx.log.info("Url already analysed. No need to analyse again.")
+                else:
+                    output = self.filterHtml(body)
+                    outputSplit = output.split("\n")
+                    self.analysePrepare(url, outputSplit)
+                    self.compareWebsite(url, flow)
 
-            if not loadin:
-                if self.saveWebModus:
-                    yn = input(
-                        "Would you like to save the flow of this url? : " + flow.request.pretty_url + " Y / N : ")
-                    if yn.lower() == "y":
-                        self.saveFlow(flow)
-                        ctx.log.info("flowSaved")
+                    if not loadin:
+                        if self.saveWebModus:
+                            yn = input(
+                                "Would you like to save the flow of this url? : " + flow.request.pretty_url + " Y / N : ")
+                            if yn.lower() == "y":
+                                self.saveFlow(flow)
+                                ctx.log.info("flowSaved")
 
-            # directory = "C:/Users/Orang/PycharmProjects/Ipass/Src/Logs/WebsiteData/"
-            ##self.saveWebsiteFlow(flow, "pornografie", directory) voorbeeldje van hoe websites op te slaan
+                ##self.saveWebsiteFlow(flow, "pornografie", directory) voorbeeldje van hoe websites op te slaan
 
     def saveFlow(self, flow):
+        """
+        Save a given flow in the given category. You can use this function to add data to the compareative dataset.
+        """
         category = input("Please give this a category to save to: ")
-        directory = "C:/Users/Orang/PycharmProjects/Ipass/Src/Logs/WebsiteData/"
+        directory = self.path + "/Logs/WebsiteData/"
         f: typing.IO[bytes] = open(directory + category + ".logfile" "", "ab")
         flowWriter = io.FlowWriter(f)
         flowWriter.add(flow)
@@ -371,63 +408,89 @@ class Main:
                         self.createGrams(row, url, differentdict["onegram"][url], differentdict["bigram"][url], True)
                         # Doel final gram : urlcomp= {category:{url:{amountgram:{gram:countofthisgram in website}}}}
                 self.normalizeGrams(url, differentdict["onegram"], differentdict["bigram"])
-                ctx.log.info("finished analyze prepare||")
         else:
 
             if len(outputSplit) > 0:
                 for row in outputSplit:
                     if len(row) >= 2:
                         self.createGrams(row, url, self.urlOnegrams, self.urlBigrams)
-                        ctx.log.info("Created grams")
 
-                self.normalizeGrams(url, self.urlOnegrams, self.urlBigrams,)
+                self.normalizeGrams(url, self.urlOnegrams, self.urlBigrams, )
 
+    def compareWebsite(self, url, flow):
+        """
+        Mijn eigen heuristiek om op een semi-AI manier websites te vergelijken
+        Uitleg:
+        We loopen door onze data set heen, per categorie. En vergelijken we de percentages van hoeveel elke set woorden
+        (bigram) voorkomt per website.
+        De percentage overeenkomst per bigram tellen wij dan op, en nemen we hier de mediaan van.
 
-    def compareWebsite(self, url,flow):
-        """Mijn eigen heuristiek om op een semi-AI manier websites te vergelijken"""
+        EXTRA TOELICHTING IN DE DOCS!
+        TODO: Docs maken met extra toelichting
+        Officieel zijn Ngram's sets aan letters, maar dit neemt  meer tijd in beslag om allemaal op te slaan,
+        en als ik woorden gebruik, is de kans op semantiek meenemen ook groter. Ik ben door middel van testen er achter
+        gekomen dat 2 woorden het meest effectief is, zonder dat het té specifiek is om triggers tegen te komen.
+        ( Met grotere data sets zou dit wellicht verhoogt kunnen worden. Maar dit werkt al vrij stabiel met een kleine
+        data set.)
+        Ik heb ook bekeken of een gemiddelde niet beter zou zijn, maar dan krijg je meer false positives, doordat
+        hij misschien enorm lijkt op 1 website in de data set door woorden zoals "the, and, it". Hierdoor had mijn
+        algoritme een 34% overeenkomst met de "English language wikipeda" en alle porno websites in mijn standaard dataset.
+        Door de mediaan te gebruiken is het veel stabieler geworden.
+        De uitgebreider de data set, de beter de algoritmes zullen worden. Mocht er in de toekomst nog tijd zijn, ga
+        ik dit project zeker nog uitwerken met online-learning waardoor hij nieuwe websites, ook aan de respectievelijke
+        datasets kan toevoegen. Maar dit is helaas niet mogenlijk zonder AI. Hierdoor heb ik dit in deze ( stabiel werkende)
+        website er uit gelaten.
+        """
         if str(url) in str(self.urlSortedBigram.keys()):
-            #TODO: heuristiek :-)
             if url in self.urlCatagoryPercent.keys():
-                #Url has already been checked, but maby we want to double check?
-                ctx.log.warn("url already been checked. Do we want to doublecheck?")
-                if self.urlCatagoryPercent[url] * 100 > 2.6:
-                    self.blockWebsite(flow)
+                # Url has already been checked, but maby we want to double check?
+                ctx.log.warn("url already been checked. no second analysis needed.")
+                ctx.log.info(str(self.urlCatagoryPercent[url].keys()))
+                for category in self.urlCatagoryPercent[url].keys():
+                    if self.urlCatagoryPercent[url][category] * 100 > self.catagoryTrigger[category]:
+                        self.logUrl(flow, self.highrisk)
+                        if self.hardblockRetrospect:
+                            self.blockWebsite(flow)
             else:
                 percSimilar = 0
                 dictionary = self.urlSortedBigram[url]
                 compare = self.urlCompareDict
-
+                keywords = {}
                 for categorie in compare:
                     amountwebsites = 0
                     websitepercentages = []
-
                     for website in compare[categorie]:
                         amountwebsites += 1
                         if url not in self.urlCatagoryPercent:
                             self.urlCatagoryPercent[url] = {}
                         for gram in compare[categorie][website]["bigram"][website]:
                             if gram in self.urlSortedBigram[url].keys():
-                                percSimilar += abs(dictionary[gram] - compare[categorie][website]["bigram"][website][gram])
+                                percSimilar += abs(
+                                    dictionary[gram] - compare[categorie][website]["bigram"][website][gram])
+                                if categorie in keywords.keys():
+                                    keywords[categorie] = keywords[categorie] + gram
+                                else:
+                                    keywords[categorie] = gram
 
                         websitepercentages.append(percSimilar)
-                    #Voor elke website bereken de percentage mediaan, Ik ga dit nog testen of dit beter werkt dan
-                    # de gemiddelde.
-                    self.urlCatagoryPercent[url] = statistics.median(websitepercentages)
-                    ctx.log.info(str((self.urlCatagoryPercent[url])*100)+" percent compare with porn" )
-                    if self.urlCatagoryPercent[url]*100 >2.6:
-
-                        self.blockWebsite(flow)
+                    # Voor elke website bereken de percentage mediaan, dit werkt stabieler dan gemiddelden.
+                    self.urlCatagoryPercent[url][categorie] = statistics.median(websitepercentages)
+                    ctx.log.info(str((self.urlCatagoryPercent[url][categorie]) * 100) + " percent compare with porn")
+                    if self.urlCatagoryPercent[url][categorie] * 100 > 2:
+                        self.logUrl(flow, self.highrisk + (" for the keywords: " + keywords[categorie]))
+                        if self.hardblockRetrospect:
+                            self.blockWebsite(flow)
+                            ctx.log.info("website blocked")
+                        else:
+                            ctx.log.warn("hardblock retrospect not on, so program wont block. only log.")
 
 
         else:
-            ctx.log.warn("Url can be analysed, not added to dict!")
-
-        # TODO: MAKE THIS
+            ctx.log.warn("Url can be analysed, but not compared because something went wrong in the creation of dicts.")
 
     def createGrams(self, row, url, dictone, dicttwo, urlalreadygiven=False):
         """"Make and add onegrams to their respective dictionary. Then create bigrams from this onegram.
         These grams are not the traditional gram, but made of words instead of letters."""
-        #todo: Maak dit soort functies verschillende functies ( url wel of niet )
         if urlalreadygiven:
             onegramArray = row.split()
             for onegram in range(len(onegramArray)):
@@ -437,7 +500,7 @@ class Main:
                     dictone[onegramStr] += 1
                 else:
                     dictone[onegramStr] = 1
-                    # Als de index nog niet de laatste is, maak ook een bigram hiervan.( of als er maar 1 woord is, doe het niet)
+                # Als de index nog niet de laatste is, maak ook een bigram hiervan.( of als er maar 1 woord is, doe het niet)
                 if onegram != len(onegramArray) - 1:
                     self.addBiGram(onegramStr + str(onegramArray[onegram + 1]), url, dicttwo)
         else:
@@ -453,11 +516,12 @@ class Main:
                     self.urlOnegrams[url][onegramStr] = 1
                 # Als de index nog niet de laatste is, maak ook een bigram hiervan.( of als er maar 1 woord is, doe het niet)
                 if onegram != len(onegramArray) - 1:
-
                     self.addBiGram(onegramStr + str(onegramArray[onegram + 1]), url)
 
-
     def addBiGram(self, concatOneGram, url, urlalreadygiven=False):
+        """"
+        Maak Bigrams van de gegeven onegram, en zet het in een dictionary.
+        """
         if urlalreadygiven is not False:
             if concatOneGram in urlalreadygiven.keys():
                 urlalreadygiven[concatOneGram] = urlalreadygiven[concatOneGram] + 1
@@ -471,9 +535,10 @@ class Main:
             else:
                 self.urlBigrams[url][concatOneGram] = 1
 
-
     def normalizeGrams(self, url, dictone, dicttwo):
-        """"count all grams, and normalize the value.( and add a small difference for big webpages!)"""
+        """
+        count all grams, and normalize the value. ( percentage / 100)
+        """
         dicts = [dictone, dicttwo]
         wordAmount = 0
         for dict in dicts:
@@ -487,7 +552,6 @@ class Main:
                     dict[url][key] = amountGram / wordAmount
 
         self.sortGrams(url, dictone, dicttwo)
-
 
     def sortGrams(self, url, dictone, dicttwo):
         """"
@@ -514,6 +578,7 @@ class Main:
             if t == "\\n":
                 continue
             if len(t) > 2:
+                # als er nog blacklisted elements in zitten, haal ze eruit.
                 if t.parent.name not in self.blacklist:
                     output += '{} '.format(t.strip())
                 try:
@@ -523,11 +588,3 @@ class Main:
                     ctx.log.error("stripping failed")
 
         return output
-
-
-
-
-addons = [
-    Main()
-    # ,Test()
-]

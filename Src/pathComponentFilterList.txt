@@ -24,7 +24,6 @@ google
 shell
 windows
 sync
-ac
 previews
 file?
 .xml?
