@@ -14,6 +14,8 @@
  
 ## How to install
 
+* extract mitm from the zip file.
+
 * install the certs in the browsers, and windows of the hosts you want to sniff/analyse. ( from C:\Users\"your host/user here"\.mitmproxy by default) (Will showup after running the mitmdump command once.) 
 
 _There is a windows installer in commandline(certutil), but for example Firefox I could not figure out how to auto install the selfmade cert._
