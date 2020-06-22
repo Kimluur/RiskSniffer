@@ -19,7 +19,7 @@
 
 _There is a windows installer in commandline(certutil), but for example Firefox I could not figure out how to auto install the selfmade cert._
 
-* configure the config file in de /src folder for your use case.
+* Download Mitmdump and replace the Venv with mine. ( not added on github because of file size! ) ( or look up the libraries used and install with pip)
 
 * To be able to run this project, you need to add the DEV version of MITM-proxy to this folder with the standard name: mitmproxy
 
@@ -34,8 +34,8 @@ Install a proxy redirect on all desktops towards this pc's IP-Adress + port 8080
 ( program will not be edittable from the other pc's + chance of this program being detected(and abused) by the user is a-lot lower, But the internet traffic might be a bit slower, since all traffic is re routed to one pc and then being analysed on the same desktop. )( Secure but slower internet speeds(if the central server does not have enough ram.) )
 
 #### 2.1 External proxy, with a few central proxy servers.
-Same as 2, but use multiple midrange, to lowend pc's to devide the workload.
-
+Same as 2, but use multiple midrange, to lowend pc's to devide the workload. (Dont forget to divide the proxy setting ip aswell)
+If problems occur, you can use -p (porthere) to also seperate the external proxies completely.
 
 
 ## How to run:
@@ -45,9 +45,13 @@ Same as 2, but use multiple midrange, to lowend pc's to devide the workload.
 		
 		venv\Scripts\activate
 		
-		mitmdump -s "your path here"\Src\Main.py -q (for local server on port 8080)
+		mitmdump -s "your path here"\Src\Start.py -q (for local server on port 8080)
 		
-		mitmdump -s "your path here"\Src\Main.py -q --listen-host "host ip here" (for externalproxy support)
+		mitmdump -s "your path here"\Src\Start.py -q --listen-host "host ip here" (to manually determine ip)
+		
+		dont forget to configure the proxy settings on the pc's.
+		
+		You could configure your router so that only these proxyservers can connect to the internet, this way the computers have to connect to these proxy servers in order to access the internet.
 		
 Check mitmdump --help for more intresting options! ( some might break the program, be warned!)
 
