@@ -39,7 +39,7 @@ If problems occur, you can use -p (porthere) to also seperate the external proxi
 
 
 ## How to run:
-* To run this program without the Startup.py(todo: make startup.py) enter following commands:
+* To run this program enter following commands:
 
 		cd "yourpathhere"\mitmproxy
 		
