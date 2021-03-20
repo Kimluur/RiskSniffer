@@ -1,4 +1,4 @@
-# RiskSniffer ( work in progress )
+# RiskSniffer ( Discontinued, but functional )
  A http(s) Sniffer in python that tries to determine risks by textmining/analysis algorithms 
  All my code is written in Src. Almost all comments are in Dutch, because the company that gave me this assignment is dutch.
  
